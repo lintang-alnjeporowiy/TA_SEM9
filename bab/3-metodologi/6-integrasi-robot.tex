@@ -1,0 +1,25 @@
+\section{Integrasi Sistem pada \emph{Real Robot}}
+\label{sec:integrasirobot}
+
+\begin{figure}[ht]
+  \centering
+  \includegraphics[scale=0.55]{gambar/integrasi-real-robot.png}
+  \caption{Diagram integrasi sistem pada \emph{real robot}.}
+  \label{fig:integrasirealrobot}
+\end{figure}
+
+Integrasi sistem pada \emph{real robot} dapat dilakukan dengan mengganti \emph{node} yang digunakan di simulasi dengan \emph{node} yang mengakses komponen yang ada pada \emph{real robot}.
+Seperti yang terlihat pada gambar \ref{fig:integrasirealrobot},
+  \emph{behavior node} yang digunakan adalah \emph{node} yang sama seperti yang ada pada gambar \ref{fig:integrasipluginsimulasi},
+  perbedaannya adalah digantinya \emph{camera plugin} dengan \emph{V4L2 camera node},
+  \emph{depth camera plugin} dengan \emph{Kinect2 node},
+  dan \emph{navigation plugin} dengan \emph{navigation node}.
+Penggantian ini dapat dilakukan dengan mudah,
+  karena seperti yang dijelaskan di bagian \ref{sec:behaviornode},
+  \emph{behavior node} mengakses setiap \emph{node} yang mewakili komponen pada robot secara abstrak,
+  yang mana keduanya dianggap \emph{node} yang sama oleh \emph{behavior node} terlepas dari bagaimana dan darimana data tersebut berasal,
+  baik dari simulasi maupun dari \emph{real robot}.
+
+\subimport{6-integrasi-robot}{1-navigation-node.tex}
+\subimport{6-integrasi-robot}{2-v4l2-camera-node.tex}
+\subimport{6-integrasi-robot}{3-kinect2-node.tex}

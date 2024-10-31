@@ -1,0 +1,118 @@
+\section{Hasil Simulasi dan Optimasi}
+\label{sec:hasil-simulasi-optimasi}
+
+Proses optimasi dilakukan secara simultan dengan simulasi variasi durasi gangguan cuaca dan variasi konsumsi harian BBM. Standar simulasi yang dilakukan dalam pengerjaan tugas akhir ini adalah 5000 iterasi untuk satu kali simulasinya.
+
+\subsection{Ukuran Utama Kapal Terpilih}
+\label{subsec:ukuran-utama}
+
+Hasil dari optimasi yang dilakukan dapat dilihat pada tabel \ref{tabel-hasil-maindim}. Ukuran utama ini yang akan digunakan untuk proses desain.
+
+\begin{table}[!ht]
+    \centering
+    \caption{Tabel Ukuran Utama Hasil Optimasi}
+    \begin{tabular}{|l|l|}
+    \hline
+        \textbf{LPP [m]} & 50,56 \\ \hline
+        \textbf{Beam  [m]} & 7,74 \\ \hline
+        \textbf{Depth  [m]} & 3,99 \\ \hline
+        \textbf{Draught [m]} & 3,02 \\ \hline
+        \textbf{Speed [Knot]} & 9,09 \\ \hline
+        \textbf{Tangki  Bensin [$m^3$]} & 183,25 \\ \hline
+        \textbf{Tangki Solar [$m^3$]} & 225,39 \\ \hline
+        \textbf{Tangki Minyak Tanah [$m^3$]} & 291,43 \\ \hline
+    \end{tabular}
+    \label{tabel-hasil-maindim}
+\end{table}
+
+\subsection{Distribusi Ekspektasi Biaya Tahunan}
+\label{subsec:annual-cost-dist}
+
+Perubahan nilai tiap iterasi dari variabel konsumsi harian akan berdampak pada volume muatan yang harus dibawa, persediaan BBM di setiap titik dan berujung pada biaya penalti yang muncul akibat koreksi. Jumlah permintaan yang meningkat juga akan mempengaruhi biaya yang muncul akibat frekuensi perjalanan kapal bertambah.
+
+\begin{figure}[htbp!]
+    \centering
+    \includegraphics[width=0.75\textwidth]{gambar/annual-cost-expectation-dist.png}
+    \caption{Grafik Distribusi Kumulatif Biaya Tahunan}
+    \label{fig:annual-cost-dist}
+\end{figure}
+
+Nilai rata-rata biaya tahuan ada diangka 6,493 miliar rupiah. Gambar \ref{fig:annual-cost-dist} memberikan informasi batas bawah untuk nilai kepercayaan 90\% ada di angka 6,450 dan batas bawah diangka 6,761 miliar. Selisih yang kecil menandakan tidak ada pembengkakan biaya penalti dan kemungkinan karena perbedaan frekuensi setiap tahunnya.
+
+
+\subsection{Analisis Kemungkinan Jumlah Perjalanan Tahunan}
+\label{subsec:annual-freq-dist}
+
+Frekuensi perjalanan setiap tahun dipengaruhi oleh angka konsumsi BBM harian dari setiap jenisnya. Model yang dibuat menentukan angka frekuensi berdasarkan ketika salah satu setiap jenis BBM habis dikonsumsi di salah satu titik maka harus diadakan pemasokan. Frekuensi tahunan akan mempengaruhi biaya tahunan dari sisi tambahan biaya perjalan yang muncul ketika kapal mengadakan pemasokan.
+
+\begin{figure}[htbp!]
+    \centering
+    \includegraphics[width=0.8\textwidth]{gambar/annual-trip-freq.png}
+    \caption{Grafik Distribusi Kumulatif Frekuensi Perjalanan per Tahun}
+    \label{fig:annual-tripFreq-dist}
+\end{figure}
+
+Gambar \ref{fig:annual-cost-dist} memperlihatkan bahwa kemungkinan terbesar perjalanan setiap tahunnya ada 9 perjalanan diikuti oleh 8 dan 10 untuk batas nilai kepercayaan 90\%. Meskipun begitu masih terlihat kemungkinan walauun sangat kecil di angka 19 perjalanan dalam satu tahun, hal ini mungkin terjadi ketika terjadi peningkatan konsumsi secara tiba-tiba pada setiap titik secara bergantian. Namun, seperti yang dimodelkan peluangnya sangat kecil.
+
+
+\subsection{Analisis Kemungkinan Kelangkaan BBM}
+\label{subsec:stock-out-over-capacity}
+
+Gambar \ref{fig:potensi-bbm-overcap} menggambarkan seperti apa kemungkinan terjadinya BBM tidak mampu diangkut oleh kapal. Hal ini mungkin terjadi ketika angka konsumsi tinggi sehingga volume tangki yang tersedia di kapal tidak mencukupi. BBM jenis solar terlihat tidak mungkin terjadi muatan tidak terbawa, jika kita lihat pada kapasitas tangki yang tersedia dan dsitribusi konsumsi harian solar maka grafik tersebut menjadi masuk akal. Jenis BBM yang mempunyai kemungkinan besar untuk tidak terangkut adalah minyak tanah, dikonfirmasi oleh gambar \ref{fig:load-factor-bbm-pertrip} yang memperlihatkan kemungkinan \emph{load factor} minyak tanah yang lebih dari 100\%.
+
+\begin{figure}[htbp!]
+    \centering
+    \begin{minipage}{\textwidth}
+        \centering
+        \begin{subfigure}[b]{0.9\textwidth}
+            \centering
+            \includegraphics[width=\textwidth]{gambar/potensi-bbm-overcap.png}
+            \caption{Distribusi Kumulatif Volume BBM tidak Terangkut oleh Kapal}
+            \label{fig:potensi-bbm-overcap}
+        \end{subfigure}
+    \end{minipage}
+    
+    \vspace{1em} % Adjust the space between the subfigures as needed
+    
+    \begin{minipage}{\textwidth}
+        \centering
+        \begin{subfigure}[b]{0.9\textwidth}
+            \centering
+            \includegraphics[width=\textwidth]{gambar/loadfactor-bbm-pertrip.png}
+            \caption{\emph{Load Factor} setiap Jenis BBM}
+            \label{fig:load-factor-bbm-pertrip}
+        \end{subfigure}
+    \end{minipage}
+    \caption{Grafik Distribusi Kumulatif \emph{Load Factor} dan \emph{Over Capacity} BBM}
+    \label{fig:grafik-analisis-overcap-BBM}
+\end{figure}
+
+Namun yang menjadi catatan menarik adalah jika dilihat dari sisi keseluruhan volume yang tersedia maka nilai \emph{load factor} kapal terbilang rendah (gambar \ref{fig:load-factor-kapal-overall}. Hal ini berbanding lurus dengan distribusi konsumsi harian solar dan bensin (gambar \ref{fig:all-bbm-graphs}) yang cenderung condong ke kiri ke nilai yang lebih kecil sedangkan minyak tanah cenderung normal atau berada di titik paling mungkin.
+
+\begin{figure}[htbp!]
+    \centering
+    \includegraphics[width=0.8\textwidth]{gambar/loadfactor-ship-overall.png}
+    \caption{Grafik Distribusi Kumulatif \emph{Load Factor} Kapal Keseluruhan}
+    \label{fig:load-factor-kapal-overall}
+\end{figure}
+
+
+\subsection{Perhitungan Kebutuhan Tangki Tambahan}
+\label{subsec:hitungan-tangki}
+
+Konsekuensi dari sistem yang diusulkan yakni mengurangi frekuensi kunjungan kapal adalah adanya persediaan BBM yang cukup antar kedatangan kapal. Formulasi yang digunakan untuk menghitung kebutuhan tangki adalah penyimpanan tersedia saat ini dikurangi perkalian dari jeda hari antar pemasokan dengan konsumsi harian kemudian dibulatkan keatas menyesuaikan ukuran tangki yang tersedia. Rekapitulasi kebutuhan tangki tambahan dapat dilihat pada tabel \ref{rekapitulasi-tambahan-tangki}.
+
+\begin{table}[!htbp]
+    \centering
+    \caption{Rekapitulasi Tambahan Tangki yang Dibutuhkan}
+    \begin{tabular}{|l|c|c|c|}
+    \hline
+        \textbf{Lokasi} & \textbf{Minyak Tanah [kL]} & \textbf{Solar [kL]} & \textbf{Bensin [kL]} \\ \hline
+        Lakor & 0 & 0 & 0 \\ \hline
+        Letti & 0 & 0 & 0 \\ \hline
+        Romang & 0 & 0 & 0 \\ \hline
+        Tiakur & 100 & 10 & 50 \\ \hline
+        Tepa & 50 & 10 & 20 \\ \hline
+    \end{tabular}
+    \label{rekapitulasi-tambahan-tangki}
+\end{table}
