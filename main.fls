@@ -621,14 +621,38 @@ INPUT ./bab/3-metodologi.tex
 INPUT bab/3-metodologi.tex
 INPUT ./bab/3-metodologi.tex
 INPUT bab/3-metodologi.tex
+INPUT ./bab/3-metodologi/1-diagram-alir.tex
+INPUT bab/3-metodologi/1-diagram-alir.tex
+INPUT ./bab/3-metodologi/1-diagram-alir.tex
+INPUT bab/3-metodologi/1-diagram-alir.tex
 INPUT ./gambar/FCV4 Potrait.png
 INPUT ./gambar/FCV4 Potrait.png
 INPUT gambar/FCV4 Potrait.png
 INPUT ./gambar/FCV4 Potrait.png
 INPUT ./gambar/FCV4 Potrait.png
+INPUT ./bab/3-metodologi/2-tahap-persiapan.tex
+INPUT bab/3-metodologi/2-tahap-persiapan.tex
+INPUT ./bab/3-metodologi/2-tahap-persiapan.tex
+INPUT bab/3-metodologi/2-tahap-persiapan.tex
+INPUT ./bab/3-metodologi/3-uji-hipotesis.tex
+INPUT bab/3-metodologi/3-uji-hipotesis.tex
+INPUT ./bab/3-metodologi/3-uji-hipotesis.tex
+INPUT bab/3-metodologi/3-uji-hipotesis.tex
+INPUT ./bab/3-metodologi/4-proses-simulasi.tex
+INPUT bab/3-metodologi/4-proses-simulasi.tex
+INPUT ./bab/3-metodologi/4-proses-simulasi.tex
+INPUT bab/3-metodologi/4-proses-simulasi.tex
 INPUT c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc
 INPUT c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc
 INPUT c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc
+INPUT ./bab/3-metodologi/5-perancangan-kapal.tex
+INPUT bab/3-metodologi/5-perancangan-kapal.tex
+INPUT ./bab/3-metodologi/5-perancangan-kapal.tex
+INPUT bab/3-metodologi/5-perancangan-kapal.tex
+INPUT ./bab/3-metodologi/6-tahap-penutup.tex
+INPUT bab/3-metodologi/6-tahap-penutup.tex
+INPUT ./bab/3-metodologi/6-tahap-penutup.tex
+INPUT bab/3-metodologi/6-tahap-penutup.tex
 INPUT ./bab/4-analisis-pembahasan.tex
 INPUT bab/4-analisis-pembahasan.tex
 INPUT ./bab/4-analisis-pembahasan.tex
@@ -768,6 +792,25 @@ INPUT bab/5-penutup/2-saran.tex
 INPUT ./main.bbl
 INPUT ./main.bbl
 INPUT main.bbl
+INPUT ./lampiran/lampiran-a.tex
+INPUT lampiran/lampiran-a.tex
+INPUT ./lampiran/lampiran-a.tex
+INPUT lampiran/lampiran-a.tex
+INPUT c:/texlive/2024/texmf-dist/tex/latex/lm/ot1lmtt.fd
+INPUT c:/texlive/2024/texmf-dist/tex/latex/lm/ot1lmtt.fd
+INPUT c:/texlive/2024/texmf-dist/tex/latex/lm/ot1lmtt.fd
+INPUT c:/texlive/2024/texmf-dist/tex/latex/lm/ot1lmtt.fd
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/lm/rm-lmtt12.tfm
+INPUT c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-rmtt.enc
+INPUT ./lainnya/biodata-penulis.tex
+INPUT lainnya/biodata-penulis.tex
+INPUT ./lainnya/biodata-penulis.tex
+INPUT lainnya/biodata-penulis.tex
+INPUT ./gambar/soeharto.jpeg
+INPUT ./gambar/soeharto.jpeg
+INPUT gambar/soeharto.jpeg
+INPUT ./gambar/soeharto.jpeg
+INPUT ./gambar/soeharto.jpeg
 INPUT main.aux
 INPUT ./main.out
 INPUT ./main.out
@@ -785,3 +828,4 @@ INPUT c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb
 INPUT c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy10.pfb
 INPUT c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy7.pfb
 INPUT c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy9.pfb
+INPUT c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmtt12.pfb

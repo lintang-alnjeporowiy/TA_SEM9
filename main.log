@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.10)  10 JAN 2025 19:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.10)  11 JAN 2025 05:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -977,7 +977,7 @@ LaTeX Font Info:    Trying to load font information for OT1+lmss on input line 1
 File: ot1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (./sampul/sampul-id.tex)
 
-<sampul/gambar/sampul-luar.png, id=252, 421.0932pt x 597.432pt>
+<sampul/gambar/sampul-luar.png, id=280, 421.0932pt x 597.432pt>
 File: sampul/gambar/sampul-luar.png Graphic file (type png)
 <use sampul/gambar/sampul-luar.png>
 Package pdftex.def Info: sampul/gambar/sampul-luar.png  used on input line 155.
@@ -1027,7 +1027,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has b
                    \relax 
 l.161   \end{cover}
                    
-<sampul/gambar/sampul-dalam.png, id=261, 421.0932pt x 597.432pt>
+<sampul/gambar/sampul-dalam.png, id=289, 421.0932pt x 597.432pt>
 File: sampul/gambar/sampul-dalam.png Graphic file (type png)
 <use sampul/gambar/sampul-dalam.png>
 Package pdftex.def Info: sampul/gambar/sampul-dalam.png  used on input line 161.
@@ -1214,12 +1214,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ] (./bab/1-pendahuluan.tex
 Bab 1.
 (./bab/1-pendahuluan/1-latar-belakang.tex
-<grafik/gdp per unit energy consp v2.png, id=519, 288.423pt x 194.91pt>
+<grafik/gdp per unit energy consp v2.png, id=556, 288.423pt x 194.91pt>
 File: grafik/gdp per unit energy consp v2.png Graphic file (type png)
 <use grafik/gdp per unit energy consp v2.png>
 Package pdftex.def Info: grafik/gdp per unit energy consp v2.png  used on input line 6.
 (pdftex.def)             Requested size: 352.10286pt x 237.9564pt.
-<grafik/komposisi_konsumsi_energi.png, id=527, 376.461pt x 207.612pt>
+<grafik/komposisi_konsumsi_energi.png, id=564, 376.461pt x 207.612pt>
 File: grafik/komposisi_konsumsi_energi.png Graphic file (type png)
 <use grafik/komposisi_konsumsi_energi.png>
 Package pdftex.def Info: grafik/komposisi_konsumsi_energi.png  used on input line 15.
@@ -1230,7 +1230,7 @@ Package pdftex.def Info: grafik/komposisi_konsumsi_energi.png  used on input lin
 
 
  <./grafik/gdp per unit energy consp v2.png>]
-<gambar/antriBBM-MBD.jpg, id=543, 752.8125pt x 501.875pt>
+<gambar/antriBBM-MBD.jpg, id=580, 752.8125pt x 501.875pt>
 File: gambar/antriBBM-MBD.jpg Graphic file (type jpg)
 <use gambar/antriBBM-MBD.jpg>
 Package pdftex.def Info: gambar/antriBBM-MBD.jpg  used on input line 26.
@@ -1256,7 +1256,7 @@ Overfull \hbox (4.90561pt too wide) in paragraph at lines 24--25
 []\OT1/lmr/m/n/12 Dua ta-hap per-ta-ma ju-ga di-ke-nal de-ngan \OT1/lmr/m/it/12 ba-sic de-sign\OT1/lmr/m/n/12 . Gam-bar []2.1[] me-nun-jukk-an tahapan-
  []
 
-<gambar/ship design procedure.png, id=597, 798.5835pt x 448.074pt>
+<gambar/ship design procedure.png, id=634, 798.5835pt x 448.074pt>
 File: gambar/ship design procedure.png Graphic file (type png)
 <use gambar/ship design procedure.png>
 Package pdftex.def Info: gambar/ship design procedure.png  used on input line 28.
@@ -1270,7 +1270,7 @@ File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 
 [7{c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc} <./gambar/ship design procedure.png>]
-<gambar/design-spiral.png, id=628, 411.33675pt x 539.01375pt>
+<gambar/design-spiral.png, id=665, 411.33675pt x 539.01375pt>
 File: gambar/design-spiral.png Graphic file (type png)
 <use gambar/design-spiral.png>
 Package pdftex.def Info: gambar/design-spiral.png  used on input line 61.
@@ -1286,12 +1286,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [9 <./gambar/design-spiral.png>]
-<gambar/excel-carlo.jpg, id=650, 1284.8pt x 722.7pt>
+<gambar/excel-carlo.jpg, id=687, 1284.8pt x 722.7pt>
 File: gambar/excel-carlo.jpg Graphic file (type jpg)
 <use gambar/excel-carlo.jpg>
 Package pdftex.def Info: gambar/excel-carlo.jpg  used on input line 20.
 (pdftex.def)             Requested size: 375.57782pt x 211.26483pt.
-<gambar/r-carlo.jpg, id=655, 411.03563pt x 295.85532pt>
+<gambar/r-carlo.jpg, id=692, 411.03563pt x 295.85532pt>
 File: gambar/r-carlo.jpg Graphic file (type jpg)
 <use gambar/r-carlo.jpg>
 Package pdftex.def Info: gambar/r-carlo.jpg  used on input line 27.
@@ -1303,7 +1303,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 [10 <./gambar/excel-carlo.jpg>]) (./bab/2-tinjauan-pustaka/4-bbm.tex
-<gambar/BENSIN.jpg, id=665, 455.301pt x 216.81pt>
+<gambar/BENSIN.jpg, id=702, 455.301pt x 216.81pt>
 File: gambar/BENSIN.jpg Graphic file (type jpg)
 <use gambar/BENSIN.jpg>
 Package pdftex.def Info: gambar/BENSIN.jpg  used on input line 9.
@@ -1311,7 +1311,7 @@ Package pdftex.def Info: gambar/BENSIN.jpg  used on input line 9.
 
 
 [11 <./gambar/r-carlo.jpg> <./gambar/BENSIN.jpg>]
-<gambar/isibensin.jpg, id=674, 702.625pt x 466.74374pt>
+<gambar/isibensin.jpg, id=711, 702.625pt x 466.74374pt>
 File: gambar/isibensin.jpg Graphic file (type jpg)
 <use gambar/isibensin.jpg>
 Package pdftex.def Info: gambar/isibensin.jpg  used on input line 24.
@@ -1319,12 +1319,12 @@ Package pdftex.def Info: gambar/isibensin.jpg  used on input line 24.
 
 
 [12 <./gambar/isibensin.jpg>]
-<gambar/Minyak-Berita-Maluku-Tengah-1-500x375.jpg, id=680, 376.40625pt x 282.30469pt>
+<gambar/Minyak-Berita-Maluku-Tengah-1-500x375.jpg, id=717, 376.40625pt x 282.30469pt>
 File: gambar/Minyak-Berita-Maluku-Tengah-1-500x375.jpg Graphic file (type jpg)
 <use gambar/Minyak-Berita-Maluku-Tengah-1-500x375.jpg>
 Package pdftex.def Info: gambar/Minyak-Berita-Maluku-Tengah-1-500x375.jpg  used on input line 36.
 (pdftex.def)             Requested size: 305.15294pt x 228.8809pt.
-<gambar/masak-minyak-tanah.jpg, id=687, 702.625pt x 466.74374pt>
+<gambar/masak-minyak-tanah.jpg, id=724, 702.625pt x 466.74374pt>
 File: gambar/masak-minyak-tanah.jpg Graphic file (type jpg)
 <use gambar/masak-minyak-tanah.jpg>
 Package pdftex.def Info: gambar/masak-minyak-tanah.jpg  used on input line 49.
@@ -1336,7 +1336,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 [13 <./gambar/Minyak-Berita-Maluku-Tengah-1-500x375.jpg>]
-<gambar/mengisi-biosolar-di-spbu.jpg, id=701, 526.96875pt x 295.85532pt>
+<gambar/mengisi-biosolar-di-spbu.jpg, id=738, 526.96875pt x 295.85532pt>
 File: gambar/mengisi-biosolar-di-spbu.jpg Graphic file (type jpg)
 <use gambar/mengisi-biosolar-di-spbu.jpg>
 Package pdftex.def Info: gambar/mengisi-biosolar-di-spbu.jpg  used on input line 66.
@@ -1354,19 +1354,17 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 ] (./bab/3-metodologi.tex
 Bab 3.
-<gambar/FCV4 Potrait.png, id=725, 564.6696pt x 449.5194pt>
+(./bab/3-metodologi/1-diagram-alir.tex
+<gambar/FCV4 Potrait.png, id=762, 564.6696pt x 449.5194pt>
 File: gambar/FCV4 Potrait.png Graphic file (type png)
 <use gambar/FCV4 Potrait.png>
-Package pdftex.def Info: gambar/FCV4 Potrait.png  used on input line 12.
+Package pdftex.def Info: gambar/FCV4 Potrait.png  used on input line 9.
 (pdftex.def)             Requested size: 423.50116pt x 337.1387pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
+) (./bab/3-metodologi/2-tahap-persiapan.tex
 
 [17
 
- <./gambar/FCV4 Potrait.png>]
+ <./gambar/FCV4 Potrait.png>]) (./bab/3-metodologi/3-uji-hipotesis.tex) (./bab/3-metodologi/4-proses-simulasi.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -1376,22 +1374,22 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[19{c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}]
+[19]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[20])
+[20{c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}]) (./bab/3-metodologi/5-perancangan-kapal.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[21]
+[21]) (./bab/3-metodologi/6-tahap-penutup.tex))
 
 [22] (./bab/4-analisis-pembahasan.tex
 Bab 4.
 (./bab/4-analisis-pembahasan/1-gambaran-umum.tex
-<gambar/administrasi-maluku-barat-daya-a1.jpg, id=791, 2393.16943pt x 1690.08557pt>
+<gambar/administrasi-maluku-barat-daya-a1.jpg, id=828, 2393.16943pt x 1690.08557pt>
 File: gambar/administrasi-maluku-barat-daya-a1.jpg Graphic file (type jpg)
 <use gambar/administrasi-maluku-barat-daya-a1.jpg>
 Package pdftex.def Info: gambar/administrasi-maluku-barat-daya-a1.jpg  used on input line 8.
@@ -1406,23 +1404,23 @@ Package pdftex.def Info: gambar/administrasi-maluku-barat-daya-a1.jpg  used on i
 
 
  <./gambar/administrasi-maluku-barat-daya-a1.jpg>]
-<gambar/rute-eksisting.png, id=806, 1156.32pt x 392.06474pt>
+<gambar/rute-eksisting.png, id=843, 1156.32pt x 392.06474pt>
 File: gambar/rute-eksisting.png Graphic file (type png)
 <use gambar/rute-eksisting.png>
 Package pdftex.def Info: gambar/rute-eksisting.png  used on input line 30.
 (pdftex.def)             Requested size: 375.57782pt x 127.34175pt.
-<gambar/pemasokan-BBM-MBD.png, id=807, 362.007pt x 230.388pt>
+<gambar/pemasokan-BBM-MBD.png, id=844, 362.007pt x 230.388pt>
 File: gambar/pemasokan-BBM-MBD.png Graphic file (type png)
 <use gambar/pemasokan-BBM-MBD.png>
 Package pdftex.def Info: gambar/pemasokan-BBM-MBD.png  used on input line 39.
 (pdftex.def)             Requested size: 375.57782pt x 239.02835pt.
 ) (./bab/4-analisis-pembahasan/2-demand-side.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 5667) has occurred while \output is active []
 
 
 
 [24 <./gambar/rute-eksisting.png>]
-<gambar/rasio-psokan-bbm-mbd.png, id=815, 374.49pt x 227.76pt>
+<gambar/rasio-psokan-bbm-mbd.png, id=852, 374.49pt x 227.76pt>
 File: gambar/rasio-psokan-bbm-mbd.png Graphic file (type png)
 <use gambar/rasio-psokan-bbm-mbd.png>
 Package pdftex.def Info: gambar/rasio-psokan-bbm-mbd.png  used on input line 12.
@@ -1434,22 +1432,22 @@ Overfull \hbox (57.29259pt too wide) in paragraph at lines 22--42
  [][] 
  []
 
-<gambar/cons-bbm-tepa.png, id=823, 900.309pt x 330.471pt>
+<gambar/cons-bbm-tepa.png, id=860, 900.309pt x 330.471pt>
 File: gambar/cons-bbm-tepa.png Graphic file (type png)
 <use gambar/cons-bbm-tepa.png>
 Package pdftex.def Info: gambar/cons-bbm-tepa.png  used on input line 48.
 (pdftex.def)             Requested size: 225.34383pt x 82.71335pt.
-<gambar/cons-bbm-lakor.png, id=824, 900.966pt x 330.471pt>
+<gambar/cons-bbm-lakor.png, id=861, 900.966pt x 330.471pt>
 File: gambar/cons-bbm-lakor.png Graphic file (type png)
 <use gambar/cons-bbm-lakor.png>
 Package pdftex.def Info: gambar/cons-bbm-lakor.png  used on input line 55.
 (pdftex.def)             Requested size: 225.34383pt x 82.65283pt.
-<gambar/cons-bbm-letti.png, id=825, 902.718pt x 330.471pt>
+<gambar/cons-bbm-letti.png, id=862, 902.718pt x 330.471pt>
 File: gambar/cons-bbm-letti.png Graphic file (type png)
 <use gambar/cons-bbm-letti.png>
 Package pdftex.def Info: gambar/cons-bbm-letti.png  used on input line 64.
 (pdftex.def)             Requested size: 225.34383pt x 82.49147pt.
-<gambar/cons-bbm-romang.png, id=826, 900.09pt x 330.252pt>
+<gambar/cons-bbm-romang.png, id=863, 900.09pt x 330.252pt>
 File: gambar/cons-bbm-romang.png Graphic file (type png)
 <use gambar/cons-bbm-romang.png>
 Package pdftex.def Info: gambar/cons-bbm-romang.png  used on input line 71.
@@ -1463,12 +1461,12 @@ Package pdftex.def Info: gambar/cons-bbm-romang.png  used on input line 80.
 [26]
 
 [27 <./gambar/cons-bbm-tepa.png> <./gambar/cons-bbm-lakor.png> <./gambar/cons-bbm-letti.png> <./gambar/cons-bbm-romang.png>]
-<gambar/graf-kumulatif-cuaca-awal.png, id=841, 523.35526pt x 328.22626pt>
+<gambar/graf-kumulatif-cuaca-awal.png, id=879, 523.35526pt x 328.22626pt>
 File: gambar/graf-kumulatif-cuaca-awal.png Graphic file (type png)
 <use gambar/graf-kumulatif-cuaca-awal.png>
 Package pdftex.def Info: gambar/graf-kumulatif-cuaca-awal.png  used on input line 34.
 (pdftex.def)             Requested size: 375.57782pt x 235.54643pt.
-<gambar/rute-baru.png, id=842, 1140.05925pt x 390.86024pt>
+<gambar/rute-baru.png, id=880, 1140.05925pt x 390.86024pt>
 File: gambar/rute-baru.png Graphic file (type png)
 <use gambar/rute-baru.png>
 Package pdftex.def Info: gambar/rute-baru.png  used on input line 46.
@@ -1476,7 +1474,7 @@ Package pdftex.def Info: gambar/rute-baru.png  used on input line 46.
 ) (./bab/4-analisis-pembahasan/4-hasil-simulasi-optimasi.tex
 
 [28 <./gambar/graf-kumulatif-cuaca-awal.png>]
-<gambar/annual-cost-expectation-dist.png, id=850, 613.0905pt x 269.808pt>
+<gambar/annual-cost-expectation-dist.png, id=888, 613.0905pt x 269.808pt>
 File: gambar/annual-cost-expectation-dist.png Graphic file (type png)
 <use gambar/annual-cost-expectation-dist.png>
 Package pdftex.def Info: gambar/annual-cost-expectation-dist.png  used on input line 35.
@@ -1484,7 +1482,7 @@ Package pdftex.def Info: gambar/annual-cost-expectation-dist.png  used on input 
 
 
 [29 <./gambar/rute-baru.png>]
-<gambar/annual-trip-freq.png, id=857, 506.49225pt x 269.808pt>
+<gambar/annual-trip-freq.png, id=895, 506.49225pt x 269.808pt>
 File: gambar/annual-trip-freq.png Graphic file (type png)
 <use gambar/annual-trip-freq.png>
 Package pdftex.def Info: gambar/annual-trip-freq.png  used on input line 50.
@@ -1492,17 +1490,17 @@ Package pdftex.def Info: gambar/annual-trip-freq.png  used on input line 50.
 
 
 [30 <./gambar/annual-cost-expectation-dist.png> <./gambar/annual-trip-freq.png>]
-<gambar/potensi-bbm-overcap.png, id=868, 840.522pt x 272.436pt>
+<gambar/potensi-bbm-overcap.png, id=905, 840.522pt x 272.436pt>
 File: gambar/potensi-bbm-overcap.png Graphic file (type png)
 <use gambar/potensi-bbm-overcap.png>
 Package pdftex.def Info: gambar/potensi-bbm-overcap.png  used on input line 69.
 (pdftex.def)             Requested size: 422.52057pt x 136.95346pt.
-<gambar/loadfactor-bbm-pertrip.png, id=869, 840.522pt x 271.998pt>
+<gambar/loadfactor-bbm-pertrip.png, id=906, 840.522pt x 271.998pt>
 File: gambar/loadfactor-bbm-pertrip.png Graphic file (type png)
 <use gambar/loadfactor-bbm-pertrip.png>
 Package pdftex.def Info: gambar/loadfactor-bbm-pertrip.png  used on input line 81.
 (pdftex.def)             Requested size: 422.52057pt x 136.73328pt.
-<gambar/loadfactor-ship-overall.png, id=872, 506.49225pt x 269.808pt>
+<gambar/loadfactor-ship-overall.png, id=909, 506.49225pt x 269.808pt>
 File: gambar/loadfactor-ship-overall.png Graphic file (type png)
 <use gambar/loadfactor-ship-overall.png>
 Package pdftex.def Info: gambar/loadfactor-ship-overall.png  used on input line 94.
@@ -1519,7 +1517,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [33]
 
 [34]
-<gambar/Lines Plan 22 Ujil 03 48_page-0001(1).jpg, id=921, 2492.31125pt x 1760.5775pt>
+<gambar/Lines Plan 22 Ujil 03 48_page-0001(1).jpg, id=958, 2492.31125pt x 1760.5775pt>
 File: gambar/Lines Plan 22 Ujil 03 48_page-0001(1).jpg Graphic file (type jpg)
 <use gambar/Lines Plan 22 Ujil 03 48_page-0001(1).jpg>
 Package pdftex.def Info: gambar/Lines Plan 22 Ujil 03 48_page-0001(1).jpg  used on input line 158.
@@ -1527,7 +1525,7 @@ Package pdftex.def Info: gambar/Lines Plan 22 Ujil 03 48_page-0001(1).jpg  used 
 
 
 [35]
-<gambar/GA 22 Juli 03 45_page-0001(1).jpg, id=931, 2492.31125pt x 1760.5775pt>
+<gambar/GA 22 Juli 03 45_page-0001(1).jpg, id=968, 2492.31125pt x 1760.5775pt>
 File: gambar/GA 22 Juli 03 45_page-0001(1).jpg Graphic file (type jpg)
 <use gambar/GA 22 Juli 03 45_page-0001(1).jpg>
 Package pdftex.def Info: gambar/GA 22 Juli 03 45_page-0001(1).jpg  used on input line 171.
@@ -1572,27 +1570,55 @@ Underfull \hbox (badness 2600) in paragraph at lines 141--144
 
 [44
 
-] (./main.aux)
+] (./lampiran/lampiran-a.tex
+LaTeX Font Info:    Trying to load font information for OT1+lmtt on input line 42.
+ (c:/texlive/2024/texmf-dist/tex/latex/lm/ot1lmtt.fd
+File: ot1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+))
+
+[45
+
+
+{c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-rmtt.enc}]
+
+[46
+
+] (./lainnya/biodata-penulis.tex
+<gambar/soeharto.jpeg, id=1022, 198.7425pt x 255.95625pt>
+File: gambar/soeharto.jpeg Graphic file (type jpg)
+<use gambar/soeharto.jpeg>
+Package pdftex.def Info: gambar/soeharto.jpeg  used on input line 5.
+(pdftex.def)             Requested size: 112.38829pt x 144.74442pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--7
+[][]
+ []
+
+)
+
+[47
+
+ <./gambar/soeharto.jpeg>] (./main.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2020/03/25>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 9054B58453F30604D2AA7F7AFBCE13BF;11537.
+(rerunfilecheck)             Checksum: EBBA9FA5DCA21D2B845855A0A1E66707;12574.
  ) 
 Here is how much of TeX's memory you used:
- 39766 strings out of 473249
- 893095 string characters out of 5721992
- 1514055 words of memory out of 5000000
- 61747 multiletter control sequences out of 15000+600000
- 615724 words of font info for 67 fonts, out of 8000000 for 9000
+ 39904 strings out of 473249
+ 896371 string characters out of 5721992
+ 1514054 words of memory out of 5000000
+ 61836 multiletter control sequences out of 15000+600000
+ 616034 words of font info for 68 fonts, out of 8000000 for 9000
  1300 hyphenation exceptions out of 8191
  96i,12n,101p,1283b,674s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmex10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmmi12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmmi9.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr9.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy9.pfb>
-Output written on main.pdf (65 pages, 8830082 bytes).
+<c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmex10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmmi12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmmi9.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr9.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy9.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
+Output written on main.pdf (68 pages, 8865130 bytes).
 PDF statistics:
- 1098 PDF objects out of 1200 (max. 8388607)
- 915 compressed objects within 10 object streams
- 241 named destinations out of 1000 (max. 500000)
- 661 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1159 PDF objects out of 1200 (max. 8388607)
+ 970 compressed objects within 10 object streams
+ 253 named destinations out of 1000 (max. 500000)
+ 722 words of extra memory for PDF output out of 10000 (max. 10000000)
 

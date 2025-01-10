@@ -24,15 +24,20 @@
 \contentsline {subsection}{\numberline {2.4.3}Solar}{14}{subsection.2.4.3}%
 \contentsline {chapter}{\numberline {3}METODOLOGI PENELITIAN}{17}{chapter.3}%
 \contentsline {section}{\numberline {3.1}Diagram Alir Penelitian}{17}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Proses Penelitian}{17}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}Tahap Persiapan}{18}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {3.2.2}Tahap Simulasi dan Pembuatan Model}{18}{subsection.3.2.2}%
-\contentsline {subsection}{\numberline {3.2.3}Tahap Optimasi}{19}{subsection.3.2.3}%
-\contentsline {subsection}{\numberline {3.2.4}Tahap Perancangan Kapal}{21}{subsection.3.2.4}%
-\contentsline {subsection}{\numberline {3.2.5}Tahap Analisis dan Penutup}{21}{subsection.3.2.5}%
+\contentsline {section}{\numberline {3.2}Tahap Persiapan}{17}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Pengujian Hipotesis}{18}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Analisis \emph {Seakeeping}}{18}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Simulasi Pemasokan BBM}{18}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Penentuan Biaya Publik}{18}{subsection.3.3.3}%
+\contentsline {section}{\numberline {3.4}Tahap Simulasi dan Optimasi}{18}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Tahap Simulasi}{18}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Tahap Optimasi}{19}{subsection.3.4.2}%
+\contentsline {section}{\numberline {3.5}Tahap Perancangan Kapal}{21}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Tahap Penutup}{22}{section.3.6}%
 \contentsline {chapter}{\numberline {4}ANALISIS DAN PEMBAHASAN}{23}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Gambaran Umum}{23}{section.4.1}%
 \contentsline {subsection}{\numberline {4.1.1}Sistem Penyaluran BBM Kabupaten Maluku Barat Daya}{23}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Biaya Sistem Saat Ini}{24}{subsection.4.1.2}%
 \contentsline {section}{\numberline {4.2}Analisis Sisi Permintaan}{25}{section.4.2}%
 \contentsline {subsection}{\numberline {4.2.1}Pemetaan Distribusi Konsumsi Harian BBM}{25}{subsection.4.2.1}%
 \contentsline {section}{\numberline {4.3}Analisis Sisi Pasokan}{26}{section.4.3}%
@@ -64,3 +69,5 @@
 \contentsline {section}{\numberline {5.1}Kesimpulan}{39}{section.5.1}%
 \contentsline {section}{\numberline {5.2}Saran}{39}{section.5.2}%
 \contentsline {chapter}{DAFTAR PUSTAKA}{43}{chapter*.41}%
+\contentsline {chapter}{LAMPIRAN}{45}{appendix*.42}%
+\contentsline {chapter}{Biodata Penulis}{47}{appendix*.44}%

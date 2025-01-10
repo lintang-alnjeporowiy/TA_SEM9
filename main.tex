@@ -239,4 +239,12 @@
   \addcontentsline{toc}{chapter}{\bibname}
   \cleardoublepage
 
+  \backmatter
+
+  \appendix
+  \renewcommand\thesection{Lampiran \arabic{section}}
+  \subimport{lampiran}{lampiran-a.tex}
+
+  \cleardoublepage
+  \subimport{lainnya/}{biodata-penulis.tex}
 \end{document}
