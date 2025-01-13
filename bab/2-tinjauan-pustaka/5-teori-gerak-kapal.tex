@@ -1,0 +1,52 @@
+\section{Teori Gerak Kapal}
+\label{sec:teori-gerak-kapal}
+
+\subsection{Macam-Macam Gerakan Kapal}
+\label{subsec:macam-gerak-kapal}
+
+Gerakan \emph{pitch} diuji dengan amplitudo maksimum. Resiko yang muncul jika gerakan ini melebihi batasan yang ditentukan adalah \emph{slamming} pada haluan kapal
+
+\subsection{Frekuensi Alami Bangunan Laut}
+\label{subsec:frekuensi-alami-kapal}
+
+Sangat penting untuk mengetahui frekuensi alami gerakan pada sistem dinamis yang bergerak dalam metode osilasi, seperti kapal di atas gelombang atau bangunan apung yang mengapung bebas tanpa pengikatan. Mode gerakan \emph{heave, roll,} dan \textit{pitch} adalah satu-satunya mode gerakan yang memiliki frekuensi alami. Mode gerakan lainnya tidak memiliki frekuensi alami karena secara teknis mereka tidak memiliki mekanisme kekakuan sendiri, yang akan muncul dalam gaya gaya. Menurut \citep{Djatmiko_2012}, persamaan frekuensi natural adalah sebagai berikut.
+
+Frekuensi alami gerakan heave:
+\begin{equation}
+    \omega_{n_z} = \sqrt{\frac{k_{33}}{m + a_{33}}} = \sqrt{\frac{\rho g A_w}{m + a_{33}}}
+\label{eq:heave-alami}
+\end{equation}
+
+Frekuensi alami gerakan roll:
+\begin{equation}
+    \omega_{n_\phi} = \sqrt{\frac{k_{44}}{I_{44} + a_{44}}} = \sqrt{\frac{\rho g V GM_T}{I_{44} + a_{44}}}
+\label{eq:roll-alami}
+\end{equation}
+
+Frekuensi alami gerakan pitch:
+\begin{equation}
+    \omega_{n_\theta} = \sqrt{\frac{k_{55}}{I_{55} + a_{55}}} = \sqrt{\frac{\rho g V GM_L}{I_{55} + a_{55}}}
+\label{eq:pitch-alami}
+\end{equation}
+
+dengan:
+\begin{align*}
+k_{33} & = \text{kekakuan gerakan heave (kN)} \\
+k_{44} & = \text{kekakuan gerakan roll (kN)} \\
+k_{55} & = \text{kekakuan gerakan pitch (kN)} \\
+m & = \text{massa atau displasmen bangunan apung (ton)} \\
+I_{44} & = \text{momen inersia massa untuk gerakan roll (ton.m$^2$)} \\
+I_{55} & = \text{momen inersia massa untuk gerakan pitch (ton.m$^2$)} \\
+a_{33} & = \text{massa tambah untuk gerakan heave (ton)} \\
+a_{44} & = \text{massa tambah untuk gerakan roll (ton)} \\
+a_{55} & = \text{massa tambah untuk gerakan pitch (ton)} \\
+\rho & = \text{massa jenis air laut (1.025 ton/m$^3$)} \\
+g & = \text{percepatan gravitasi (9.81 m/det$^2$)} \\
+A_w & = \text{luas garis air (m$^2$)} \\
+V & = \text{volume displasem bangunan apung (m$^3$)} \\
+GM_T & = \text{tinggi metasentra melintang (m)} \\
+GM_L & = \text{tinggi metasentra memanjangnya (m)}
+\end{align*}
+
+\subsection{Kriteria \emph{Seakeeping} Kapal}
+\label{subsec:kriteria-seakeeping}
