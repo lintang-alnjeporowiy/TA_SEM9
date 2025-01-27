@@ -13,6 +13,24 @@ Pengujian akan dimulai dengan memodelkan lambung kapal yang sudah ada dengan ban
 \subsection{Simulasi Pemasokan BBM}
 \label{subsec:metode-simul-bbm}
 
+Variabel yang akan dievaluasi untuk mengetahui kinerja pemasokan di Kabupaten Maluku Barat Daya adalah potensi terjadinya permintaan BBM yang tidak terpenuhi. Interaksi antara tinggi gelombang, batasan operasional kapal dan permintaan BBM di setiap titik akan dipotret dalam sebuha simulasi persediaan BBM. Jangka waktu pemodelan dengan durasi satu tahun dengan dasar distribusi data yang digunakan adalah BMKG untuk distribusi ketinggian BBM dan Pertamina untuk distribusi permintaan BBM disetiap titiknya.
 
 \subsection{Penentuan Biaya Publik}
 \label{subsec:awal-biaya-publik}
+
+\begin{equation}
+    \min\left\{E\left[\sum_{m\in M}\sum_{i\in N}[Z_{m,i}(SO_{m,i})]\right]\right\}
+\end{equation}
+
+Persamaan di atas bertujuan untuk meminimalkan nilai harapan dari total biaya kelangkaan BBM pada semua jenis BBM ($m \in M$) dan semua titik pemasokan ($i \in N$). Biaya kelangkaan BBM ($Z_{m,i}$) bergantung pada jumlah permintaan BBM jenis $m$ di titik $i$ yang tidak terpenuhi ($SO_{m,i}$).
+
+Adapun deskripsi dari simbol-simbol dalam formula tersebut adalah sebagai berikut:
+\begin{itemize}
+    \item $Z_{m,i}$: Biaya kelangkaan BBM jenis $m$ di titik $i$.
+    \item $M$: Himpunan jenis BBM yang tersedia.
+    \item $N$: Jumlah titik pemasokan BBM.
+    \item $SO_{m,i}$: Permintaan BBM jenis $m$ di titik $i$ yang tidak terpenuhi.
+\end{itemize}
+
+Nilai $Z_{m,i}$ diperoleh berdasarkan harga jual masing-masing jenis BBM di Kabupaten Maluku Barat Daya. Biaya publik ini yang akan dioptimasi dalam langkah pengerjaan selanjutnya.
+
