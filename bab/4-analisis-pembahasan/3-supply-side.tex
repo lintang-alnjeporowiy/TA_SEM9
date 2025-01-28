@@ -27,12 +27,12 @@ Salah satu aspek utama yang harus diperhatikan dalam merencakan armada transport
 
 Elemen kedua dari model yang divariasikan adalah durasi gangguan cuaca. Variabel ini dan interaksinya dengan konsumsi harian akan memberikan indikator jika terjadi \emph{stock out} BBM di suatu titik. Data historis yang dijadikan penentuan distribusi durasi gangguan cuaca adalah data yang penulis dapati dari situs berita mengenai lama gangguan cuaca beberapa tahun terakhir di Kabupaten Maluku Barat Daya.
 
-Fungsi yang digunakan untuk memodelkan durasi gangguan cuaca adalah \emph{IntUniform} dengan nilai minimum 7 hari dan nilai maksimum yang diambil untuk simulasi adalah 46 hari. Digunakan distribusi seragam karena tidak diketahui seberapa besar kemungkinan gangguan cuaca untuk durasinya, Sehingga diambil peluang semua nilai adalah sama. Grafik distribusi kumulatif gangguan cuaca dapat dilihat pada gambar \ref{fig:grafik-kumulatif-durasi-gangguan-cuaca-1st}.
+Fungsi yang digunakan untuk memodelkan durasi gangguan cuaca adalah \emph{Riskcumulative} dengan masukan berupa distribusi kumulatif ketinggian gelombang. Kemudian dicocokkan dengan batasan operasional kapal yang sudah ada, Sehingga diambil peluang semua nilai adalah sama. Grafik distribusi kumulatif gangguan cuaca dapat dilihat pada gambar \ref{fig:grafik-kumulatif-durasi-gangguan-cuaca-1st}.
 
 \begin{figure}[htbp!]
     \centering
-    \includegraphics[width=0.8\textwidth]{gambar/graf-kumulatif-cuaca-awal.png}
-    \caption{Grafik Distribusi Kumulatif Durasi Gangguan Cuaca}
+    \includegraphics[width=0.65\textwidth]{grafik/distribusi-gelombang-kabupaten-mbd.jpg}
+    \caption{Grafik Distribusi Kumulatif Ketinggian Gelombang Laut Banda}
     \label{fig:grafik-kumulatif-durasi-gangguan-cuaca-1st}
 \end{figure}
 
