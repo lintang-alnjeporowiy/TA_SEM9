@@ -33,7 +33,7 @@ Proses optimasi dilakukan secara simultan dengan simulasi variasi durasi ganggua
 \subsection{Ukuran Utama Kapal Terpilih}
 \label{subsec:ukuran-utama}
 
-Hasil dari optimasi yang dilakukan dapat dilihat pada tabel \ref{tabel-hasil-maindim}. Ukuran utama ini yang akan digunakan untuk proses desain.
+Hasil dari optimasi yang dilakukan dapat dilihat pada tabel \ref{tabel-hasil-maindim}. Ukuran utama ini yang akan digunakan untuk proses desain. Meskipun nanti ketika dilihat hasil analisis \emph{load factor} kapasitas kapal masih terlalu besar, akan tetapi karena konsideran utama penelitian ini adalah moda transportasi laut yang dapat memasok BBM dengan andal akhirnya \emph{constraint} yang diberikan bobot lebih tinggi saat pemilihan ukuran utama kapal adalah kemampuan mengghadapi gelombang. Disamping \emph{trade off} dari sisi ukuran tangki kapal, permintaan BBM yang sangat sedikit di Kabupaten Maluku Barat Daya juga menimbulkan hari operasional \emph{(seatime + porttime)} yang hanya sekitar 40 hari untuk sistem baru dengan tangki dan 80 hari untuk tanpa tangki. Kedua pengorbanan tersebut bisa dikompromikan dengan pengangkutan BBM bersamaan dengan komoditas lain atau dengan jenis moda kapal selain tanker dan SPOB sebagaimana yang sudah diteliti oleh senior penulis pada bab \ref{sec:penelitian-terkait}.
 
 \begin{table}[!ht]
     \centering
@@ -74,6 +74,8 @@ Perubahan nilai tiap iterasi dari variabel konsumsi harian akan berdampak pada v
     \label{fig:annual-cost-dist}
 \end{figure}
 
+Sistem pemasokan secara \emph{multiport} menyebabkan jarak yang ditempuh dalam setiap perjalanan berbeda sesuai dengan konsumsi BBM pada masing-masing titik. Investasi tangki menunjukkan biaya tahunan yang lebih murah dibandingkan dengan sistem tanpa tambahan tangki penyimpanan BBM di setiap titik. Penambahan tangki mampu memotong biaya perjalanan hingga setengah karena sinkronisasi waktu pemasokan di masing-masing titik. Persamaan waktu pemasokan tersebut membuat titik dengan permintaan yang tinggi seperti Tiakur harus sering dipasok.
+
 \subsection{Analisis Kemungkinan Jumlah Perjalanan Tahunan}
 \label{subsec:annual-freq-dist}
 
@@ -96,50 +98,34 @@ Frekuensi perjalanan setiap tahun dipengaruhi oleh angka konsumsi BBM harian dar
     \label{fig:annual-freq-dist}
 \end{figure}
 
-Gambar \ref{fig:annual-freq-dist} memperlihatkan bahwa kemungkinan terbesar perjalanan setiap tahunnya ada 9 perjalanan diikuti oleh 8 dan 10 untuk batas nilai kepercayaan 90\%. Meskipun begitu masih terlihat kemungkinan walauun sangat kecil di angka 19 perjalanan dalam satu tahun, hal ini mungkin terjadi ketika terjadi peningkatan konsumsi secara tiba-tiba pada setiap titik secara bergantian. Namun, seperti yang dimodelkan peluangnya sangat kecil.
+Gambar \ref{fig:annual-freq-dist} memperlihatkan bahwa kemungkinan frekuensi perjalanan dalam satu tahun relatif stabil di angka 7 dan 8 pada sistem baru dengan tambahan tangki. Selisih dua kali lipat dengan sistem tanpa tambahan investasi tangki. Unsur ini adalah titik utama penghematan antara sistem tanpa tangki dengan sistem dengan penambahan tangki.
 
 
 \subsection{Analisis Kemungkinan Kelangkaan BBM}
 \label{subsec:stock-out-over-capacity}
 
-Gambar \ref{fig:potensi-bbm-overcap} menggambarkan seperti apa kemungkinan terjadinya BBM tidak mampu diangkut oleh kapal. Hal ini mungkin terjadi ketika angka konsumsi tinggi sehingga volume tangki yang tersedia di kapal tidak mencukupi. BBM jenis solar terlihat tidak mungkin terjadi muatan tidak terbawa, jika kita lihat pada kapasitas tangki yang tersedia dan dsitribusi konsumsi harian solar maka grafik tersebut menjadi masuk akal. Jenis BBM yang mempunyai kemungkinan besar untuk tidak terangkut adalah minyak tanah, dikonfirmasi oleh gambar \ref{fig:load-factor-bbm-pertrip} yang memperlihatkan kemungkinan \emph{load factor} minyak tanah yang lebih dari 100\%.
+Proses yang sama seperti saat pengujian hipotesis dilakukan kembali dan diintegrasikan kedalam model untuk mendapatkan ukuran utama kapal yang optimal. Hasil simulasi menunjukkan bahwa jenis BBM solar cenderung tidak terjadi kelangkaan. Hal ini disebabkan konsumsi solar sangat kecil dibandingkan dengan minyak tanah dan bensin. Disisi lain hal ini menyebabkan \emph{load factor} solar cenderung kecil.
 
-\begin{figure}[htbp!]
+\begin{figure}[!ht]
     \centering
-    \begin{minipage}{\textwidth}
+    \begin{subfigure}{0.95\textwidth}
         \centering
-        \begin{subfigure}[b]{0.9\textwidth}
-            \centering
-            \includegraphics[width=\textwidth]{gambar/potensi-bbm-overcap.png}
-            \caption{Distribusi Kumulatif Volume BBM tidak Terangkut oleh Kapal}
-            \label{fig:potensi-bbm-overcap}
-        \end{subfigure}
-    \end{minipage}
+        \includegraphics[width=\textwidth]{grafik/minus-bbm-baru.jpg}
+        \caption{Tanpa Tangki}
+    \end{subfigure}
     
-    \vspace{1em} % Adjust the space between the subfigures as needed
+    \vspace{0.3cm}  % Vertical space between images
     
-    \begin{minipage}{\textwidth}
+    \begin{subfigure}{0.95\textwidth}
         \centering
-        \begin{subfigure}[b]{0.9\textwidth}
-            \centering
-            \includegraphics[width=\textwidth]{gambar/loadfactor-bbm-pertrip.png}
-            \caption{\emph{Load Factor} setiap Jenis BBM}
-            \label{fig:load-factor-bbm-pertrip}
-        \end{subfigure}
-    \end{minipage}
-    \caption{Grafik Distribusi Kumulatif \emph{Load Factor} dan \emph{Over Capacity} BBM}
-    \label{fig:grafik-analisis-overcap-BBM}
+        \includegraphics[width=\textwidth]{grafik/minus-bbm-baru-tangki.jpg}
+        \caption{Dengan Tangki}    
+    \end{subfigure}
+    \caption{Hasil Simulasi Kelangkaan BBM Sistem Baru}
+    \label{fig:minus-bbm-baru}
 \end{figure}
 
-Namun yang menjadi catatan menarik adalah jika dilihat dari sisi keseluruhan volume yang tersedia maka nilai \emph{load factor} kapal terbilang rendah (gambar \ref{fig:load-factor-kapal-overall}. Hal ini berbanding lurus dengan distribusi konsumsi harian solar dan bensin (gambar \ref{fig:all-bbm-graphs}) yang cenderung condong ke kiri ke nilai yang lebih kecil sedangkan minyak tanah cenderung normal atau berada di titik paling mungkin.
-
-\begin{figure}[htbp!]
-    \centering
-    \includegraphics[width=0.8\textwidth]{gambar/loadfactor-ship-overall.png}
-    \caption{Grafik Distribusi Kumulatif \emph{Load Factor} Kapal Keseluruhan}
-    \label{fig:load-factor-kapal-overall}
-\end{figure}
-
+Reduksi permintaan BBM yang tidak terpenuhi secara signifikan terlihat pada sistem baru dibandingkan dengan kondisi saat ini. Secara sederhana hal ini dapat dijelaskan bahwa semakin sedikit perjalanan yang dibutuhkan semakin kecil kemungkinan untuk bertemu dengan cuaca yang buruk. Namun perlu ditetapkan \emph{safety stock} yang tepat sehingga tidak terjadi kelangkaan ketika menunggu kapal datang untuk memasok.
 
 \subsection{Perhitungan Kebutuhan Tangki Tambahan}
 \label{subsec:hitungan-tangki}
@@ -161,3 +147,18 @@ Konsekuensi dari sistem yang diusulkan yakni mengurangi frekuensi kunjungan kapa
     \label{rekapitulasi-tambahan-tangki}
 \end{table}
 
+Penentuan kapasitas tangki termasuk dalam salah satu variabel peubah optimasi yang dilakukan. Hal ini diharapkan mampu memberikan ukuran tangki yang tepat jika dilihat \emph{trade off} yang muncul antara biaya kapital tangki dan biaya perjalanan kapal dalam setiap tahunnya.
+
+\subsection{Analisis \emph{Load Factor Kapal}}
+\label{subsec:load-factor-kapal}
+
+Faktor lain yang diberikan konsideran dalam perancangan sistem pemasokan menggunakan kapal adalah \emph{load factor} dari kapal yang akan dirancang. Hal ini penting karena menggambarkan seberapa besar utilitas daya angkut kapal tersebut digunakan. Biasanya nilai \emph{load factor} yang rendah menunjukkan ukuran kapal yang dirancang masih kurang optimal.
+
+\begin{figure}[!ht]
+    \centering
+    \includegraphics[width=0.95\textwidth]{grafik/load-factor-baru-tangki.jpg}
+    \caption{Hasil Simulasi \emph{Load Factor} Sistem Baru}
+    \label{fig:load-factor-new-tangki}
+\end{figure}
+
+Elemen \emph{load factor} ini diterjemahkan ke dalam model optimasi dengan cara mengubah kapasitas kapal yang masih kosong sebagai \emph{opportunity cost}. Biaya tersebut didapatkan dengan menghitung biaya transportasi untuk setiap liter BBM kemudian mengalikannya dengan kapasitas tangki kosong dalam setiap tahunnya. Rata-rata \emph{opportunity cost} per tahunnya sebesar 930,39 juta dengan standar deviasi 63,02 juta.

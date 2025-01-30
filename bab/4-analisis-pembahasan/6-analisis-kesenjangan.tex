@@ -1,37 +1,38 @@
 \section{Analisis Kesenjangan}
 \label{sec:analisis-kesenjangan}
 
-Perbandingan biaya yang dikeluarkan antara kondisi yang ada dengan sistem penyaluran baru yang diusulkan dapat dilihat pada tabel \ref{tab:perbandingan-biaya}. Perbedaan struktur biaya terlihat jelas dimana biaya tetap yang harus dikeluarkan untuk sistem baru lebih besar, Namun jika dilihat biaya BBM yang dibutuhkan jauh lebih sedikit. Hal ini merupakan efek langsung dari pengurangan frekuensi pemasokan. Potensi penghematan yang bisa didapatkan sebesar 5,3 miliar rupiah, jika berganti ke sistem pemasokan baru. 
+\subsection{Potensi Permintaan BBM yang Tidak Terpenuhi}
+\label{subsec:minus-bbm-all}
 
-\begin{table}[htbp]
-\centering
-\begin{tabular}{|l|r|r|r|}
-\hline
-& \multicolumn{1}{c|}{Biaya BBM} & \multicolumn{1}{c|}{Biaya Tangki Timbun} & \multicolumn{1}{c|}{Biaya Tetap} \\
-\hline
-Kondisi Saat Ini & 10.552,91 & 0,00 & 1.229,81 \\
-Usulan Baru & 322,29 & 75,20 & 6.074,63 \\
-\hline
-\end{tabular}
-\caption{Perbandingan Biaya (dalam juta rupiah)}
-\label{tab:perbandingan-biaya}
-\end{table}
+Variabel pertama yang akan dibandingkan adalah rata-rata jumlah permintaan BBM yang tidak terpenuhi, baik solar, bensin maupun minyak tanah. Sistem baru dengan penambahan tangki penyimpanan di setiap titiknya menunjukkan performa terbaik. Solar menjadi \emph{outlier} karena angka kelangkaan relatif kecil pada ketiga sistem yang dianalisis. Nilai yang diambil adalah nilai rata-rata yang didapatkan setelah melakukan iterasi.
 
-Sistem baru walaupun \emph{load factor} rata-rata masih jauh dari kata optimum karena ketimpangan konsumsi antar jenis BBM. Namun, jika dilihat masih lebih tinggi dibandingkan dengan kapal yang saat ini digunakan. Perbandingan operasional dapat dilihat pada tabel \ref{tab:operational-gap} 
+\begin{figure}[!ht]
+    \centering
+    \includegraphics[width=0.75\textwidth]{grafik/minus-bbm-all.jpg}
+    \caption{Perbandingan Kelangkaan BBM}
+    \label{fig:minus-bbm-all}
+\end{figure}
 
+\subsection{Biaya Tahunan}
+\label{subsec:total-cost-all}
 
-\begin{table}[htbp]
-\centering
-\begin{tabular}{|l|c|r|}
-\hline
-\textbf{Nama Kapal} & \textbf{Frekuensi} & \textbf{Avg. Load Factor} \\
-\hline
-Handil Tirusan & 40 & 33,33\% \\
-BUMA III & 24 & 16,67\% \\
-Cinta Damai 1 & 12 & 22,86\% \\
-Sistem Baru & 9 & 59,32\% \\
-\hline
-\end{tabular}
-\caption{Perbandungan Operasional}
-\label{tab:operational-gap}
-\end{table}
+Biaya masih menjadi konsideran utama untuk mengambil keputusan terutama dalam bidang infrastuktur. Selain biaya tahunan unsur biaya lain yang menjadi pertimbangan dalam perancangan sistem pemasokan BBM ini adalah biaya publik yang mungkin muncul akibat permintaan BBM yang tidak terpenuhi. Biaya publik ini diharapkan mampu memotret keandalan sistem dalam memasok BBM. Sistem pemasokan dengan penambahan tangki menjadi sistem paling optimal dilihat dari rata-rata biaya tahunan dan biaya publik yang muncul, sebagaimana yang terlihat pada gambar \ref{fig:total-cost-all}.
+
+\begin{figure}[!ht]
+    \centering
+    \includegraphics[width=0.75\textwidth]{grafik/total-cost-all.jpg}
+    \caption{Perbandingan Biaya Semua Sistem Pemasokan}
+    \label{fig:total-cost-all}
+\end{figure}
+
+\subsection{Komponen Biaya}
+\label{subsec:component-cost-all}
+
+Terdapat perbedaan rasio antara komponen-komponen biaya pada sistem baru. Penambahan tangki memunculkan komponen biaya baru namun mengurangi biaya perjalanan \emph{(voyage cost)} yang muncul. Perbandingan rasio antar komponen biaya dapat dilihat pada gambar \ref{fig:component-cost-all}.
+
+\begin{figure}[!ht]
+    \centering
+    \includegraphics[width=0.75\textwidth]{grafik/element-cost-new.jpg}
+    \caption{Perbandingan Komponen Biaya Sistem Baru}
+    \label{fig:component-cost-all}
+\end{figure}

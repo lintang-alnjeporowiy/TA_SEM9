@@ -13,7 +13,7 @@ Bilangan Froude adalah sebuah bilangan tak bersatuan yang digunakan untuk menguk
     \mathrm{Fn}=\mathrm{V_s}/\sqrt{\mathrm{g} \times \mathrm{L_{WL}}}
 \end{equation}
 
-Dengan nilai $V_s$ (kecepatan kapal) sebesar 9,25 knot dan $g$ sebesar 9,81 m/s maka nilai \emph{froude number} sebesar 0,21
+Dengan nilai $V_s$ (kecepatan kapal) sebesar 6,75 knot dan $g$ sebesar 9,81 m/s maka nilai \emph{froude number} sebesar 0,15
 
 \paragraph{Koefisien Blok}
 
@@ -21,7 +21,7 @@ Koefisien yang merupakan perbandingan volume kapal denga volume balok. Rumus unt
 \begin{equation}
     C_B = -4,22 + 27,8 \sqrt{Fn} -39,1Fn + 46,6 Fn^2
 \end{equation}
-Koefisien kapal yang dirancang sebesar 0,741
+Koefisien kapal yang dirancang sebesar 0,839 kemudian dikoreksi menyesuaikan model lambung yang digunakan sebesar 0,77
  
 \paragraph{Koefisien \emph{Midship}}
 
@@ -29,7 +29,7 @@ Koefisien Midship adalah perbandingan antara luas penampang gading besar yang te
 \begin{equation}
     C_M = 0,977 + 0,085 (C_B - 0,6)
 \end{equation}
-Dari perhitungan didapat harga $C_M$ sebesar 0,989
+Dari perhitungan didapat harga $C_M$ sebesar 0,99145
 
 \paragraph{Perhitungan Bidang Garis Air}
 
@@ -37,7 +37,7 @@ Koefisien \emph{waterplan} adalah perbandingan antara volume badan kapal yang ad
 \begin{equation}
     C_{WP} = 0,18 + 0,085 C_P
 \end{equation}
-Dari perhitungan ukuran yang optimal didapat harga $C_{WP}$ sebesar 0,842
+Dari perhitungan ukuran utama yang optimal didapat harga $C_{WP}$ sebesar 0,6
 
 
 \subsection{Perhitungan Hambatan}
@@ -49,7 +49,7 @@ Perhitungan hambatan digunakan metode holtrop, dengan perhitungan sebagai beriku
     R_T = \frac{1}{2}\rho V^{2}S_{total}[C_{F}\left(1+k\right)+ C_{A}]+ \frac{R_{W}}{W}W
 \end{equation}
 
-Dari perhitungan didapatkan nilai $R_T$ sebesar 18,054 kN.
+Dari perhitungan didapatkan nilai $R_T$ sebesar 14,601 kN.
 
 \subsection{Perhitungan Propulsi}
 \label{subsec:perhitungan-propulsi}
@@ -60,7 +60,7 @@ Hambatan total yang telah dihitung dapat digunakan untuk melakukan estimasi daya
     EHP = R_T \times V_s
 \end{equation}
 
-Pertama dihitung effective horse power, dimana hambatan sudah didapatkan pada perhitungan subbab sebelumnya, dan $V_s$ sebesar 9,25 knot atau sama dengan 4,75 m/s. Kemudian dilanjutkan dengan perhitungan \emph{delivered power power}.
+Pertama dihitung effective horse power, dimana hambatan sudah didapatkan pada perhitungan subbab sebelumnya, dan $V_s$ sebesar 6,75 knot. Kemudian dilanjutkan dengan perhitungan \emph{delivered power power}.
 
 \begin{equation}
     DHP = EHP \times \eta D
@@ -80,7 +80,7 @@ dengan $BHP_{MCR}$.
     BHP = SHP \times \eta R
 \end{equation}
 
-Dari langkah langkah perhitungan kebutuhan daya mesin, diperoleh kebutuhan daya mesin kapal yaitu 190,11 kW. Kemudian dicari spesifikasi mesin yang sesuai di pasaran. Mesin yang terpilih diproduksi oleh \emph{Cummins} dengan seri QSB7 dengan daya 210 kW
+Dari langkah langkah perhitungan kebutuhan daya mesin, diperoleh kebutuhan daya mesin kapal yaitu 582,56 kW. Kemudian dicari spesifikasi mesin yang sesuai di pasaran. Mesin yang terpilih diproduksi oleh \emph{Cummins} dengan seri QSK19 dengan daya 587 kW
 
 \subsection{Perhitungan \emph{Deadweight} Kapal}
 \label{subsec:perhitungan-dwt}
@@ -92,7 +92,7 @@ Dari langkah langkah perhitungan kebutuhan daya mesin, diperoleh kebutuhan daya 
     \item \emph{Crew and Effect:} Berat kru dan barang bawaan
 \end{itemize}
 
-Setelah dihitung mulai dari berat bahan bakar yang dibutuhkan hingga berat kru dan barang bawaannya, didapatkan nilai \emph{deadweight} sebesar 592,94 ton
+Setelah dihitung mulai dari berat bahan bakar yang dibutuhkan hingga berat kru dan barang bawaannya, didapatkan nilai \emph{deadweight} sebesar 679,78 ton
 
 
 \subsection{Perhitungan \emph{Lightweight} Kapal}
@@ -105,48 +105,58 @@ Setelah dihitung mulai dari berat bahan bakar yang dibutuhkan hingga berat kru d
     \item \emph{Machinery} Berat permesinan dan sistem propulsi yang digunakan oleh kapal
 \end{itemize}
 
-Setelah dihitung mulai dari berat bahan bakar yang dibutuhkan hingga berat kru dan barang bawaannya, didapatkan nilai \emph{lightweight} sebesar 324,14 ton
+Setelah dihitung mulai dari berat bahan bakar yang dibutuhkan hingga berat kru dan barang bawaannya, didapatkan nilai \emph{lightweight} sebesar 395,04 ton
 
 
 \subsection{Perhitungan Tonase Kapal}
 \label{subsec:perhitungan-gt}
 
-Tonase kapal dibagi menjadi dua yaitu Net Tonnage (NT) dan Gross Tonnage (GT).  GT digunakan untuk menentukan persyaratan-persyaratan regulasi, misalnya biaya masuk kanal, biaya pemanduan kapal, persyaratan keselamatan, peralatan teknis, jumlah kru, dan asuransi. Perhitungan tonase kapal dapat dihitung sesuai dengan standar yang telah ditentukan oleh IMO \citep{Organization_1983}. Sebagai mana dalam \emph{International Convention on Tonnage Measurement of Ships} didapatkan nilai GT kapal sebesar 115
+Tonase kapal dibagi menjadi dua yaitu Net Tonnage (NT) dan Gross Tonnage (GT).  GT digunakan untuk menentukan persyaratan-persyaratan regulasi, misalnya biaya masuk kanal, biaya pemanduan kapal, persyaratan keselamatan, peralatan teknis, jumlah kru, dan asuransi. Perhitungan tonase kapal dapat dihitung sesuai dengan standar yang telah ditentukan oleh IMO \citep{Organization_1983}. Sebagai mana dalam \emph{International Convention on Tonnage Measurement of Ships} didapatkan nilai GT kapal sebesar 436
 
 
 \subsection{Perhitungan Stabilitas}
 \label{subsec:stabilitas}
 
 Stabilitas adalah kemampuan kapal untuk kembali ke posisi tegak lurus ketika mendapat gaya eksternal yang menyebabkan kapal miring. Kemampuan tersebut dipengaruh oleh lengan dinamis (GZ)
-yang membentuk momen kopel yang menyeimbangkan gaya tekan ke atas dengan gaya berat. Komponen stabilitas terdiri dari GZ, KG dan GM. Interaksi dari variabel tersebut ditentukan kriterianya oleh IMO dalam \emph{International Code of Intact Stability} \citep{Organization_2009}. Kriteria stabilitas kapal yang dirancang dapat dilihat pada tabel \ref{tabel-stabilitas-IMO}
+yang membentuk momen kopel yang menyeimbangkan gaya tekan ke atas dengan gaya berat. Komponen stabilitas terdiri dari GZ, KG dan GM. Interaksi dari variabel tersebut ditentukan kriterianya oleh IMO dalam \emph{International Code of Intact Stability} \citep{Organization_2009}. Kurva GZ kapal dapat dilihat pada gambar \ref{fig:kurva-stabilitas-new}
 
-\begin{table}[htbp]
-\centering
-\begin{tabular}{|c|c|c|c|}
-\hline
-$e_{0,30^\circ}$ & $\geq$ & 0,055 & m rad \\
- &  & 0,148 &  \\
-\hline
-$e_{0,40^\circ}$ & $\geq$ & 0,09 & m rad \\
- &  & 0,219 &  \\
-\hline
-$e_{30,40^\circ}$ & $\geq$ & 0,03 & m rad \\
- &  & 0,071 &  \\
-\hline
-$h_{30^\circ}$ & $\geq$ & 0,2 & m \\
- &  & 0,403 &  \\
-\hline
-$\varphi_{GZmax}$ & $\geq$ & 25 & $^\circ$ \\
- &  & 45 &  \\
-\hline
-$GM_0$ & $\geq$ & 0,15 & m \\
- &  & 0,721 &  \\
-\hline
-\end{tabular}
-\caption{Tabel Kriteria Stabilitas IMO}
-\label{tabel-stabilitas-IMO}
-\end{table}
+\begin{figure}[!ht]
+    \centering
+    \includegraphics[width=0.55\textwidth]{grafik/kurva-stabilitas-new.jpg}
+    \caption{Kurva Stabilitas MT. Sinar Muria}
+    \label{fig:kurva-stabilitas-new}
+\end{figure}
 
+\subsection{Uji \emph{Seakeeping} Kapal Baru}
+\label{subsec:uji-seakeeping-new-gg}
+
+Kapal yang dirancang harus mampu beroperasi sesuai dengan kriteria yang sudah dihitung. Pembuktian dilakukan dengan cara yang sama pada saat pembuktian hipotesis, yaitu dengan cara menguji model lambung sesuai dengan ketinggian gelombang yang ada. Model lambung dengan ukuran yang sudah sesuai dengan rencana garis dimodelkan kemudian diuji dalam perangkat lunak \emph{Maxsurf Motions}. 
+
+\begin{figure}[!ht]
+    \centering
+    \begin{subfigure}{0.95\textwidth}
+        \centering
+        \includegraphics[width=\textwidth]{grafik/batasan-pitch-new.jpg}
+        \caption{\emph{Pitch}}
+    \end{subfigure}
+    
+    \vspace{0.2cm}  % Vertical space between images
+    
+    \begin{subfigure}{0.95\textwidth}
+        \centering
+        \includegraphics[width=\textwidth]{grafik/batasan-heave-new.jpg}
+        \caption{\emph{Heave}}    
+    \end{subfigure}
+    \vspace{0.2cm}  % Vertical space between images
+    
+    \begin{subfigure}{0.95\textwidth}
+        \centering
+        \includegraphics[width=\textwidth]{grafik/batasan-roll-new.jpg}
+        \caption{\emph{Roll}}    
+    \end{subfigure}
+    \caption{Hasil Uji \emph{Seakeeping} Kapal Baru}
+    \label{fig:hasil-seakeeping-baru}
+\end{figure}
 
 \subsection{Rencana Garis}
 \label{subsec:rencana-garis-kapal}
@@ -155,7 +165,7 @@ Ukuran utama yang sudah didapatkan selanjutnya diterjemahkan kedalam bentuk lamb
 
 \begin{figure}[htbp!]
     \centering
-    \includegraphics[width=0.9\textwidth]{gambar/Lines Plan 22 Ujil 03 48_page-0001(1).jpg}
+    \includegraphics[width=0.5\textwidth]{gambar/Lines Plan 22 Ujil 03 48_page-0001(1).jpg}
     \caption{Rencana Garis Kapal yang Sudah Dibuat}
     \label{fig:lines-plan}
 \end{figure}
@@ -168,8 +178,9 @@ Bentuk lambung yang sudah ada kemudian harus dibagi atau ditentukan penggunaanny
 
 \begin{figure}[htbp!]
     \centering
-    \includegraphics[width=0.9\textwidth]{gambar/GA 22 Juli 03 45_page-0001(1).jpg}
+    \includegraphics[width=0.5\textwidth]{gambar/GA 22 Juli 03 45_page-0001(1).jpg}
     \caption{Rencana Garis Kapal yang Sudah Dibuat}
     \label{fig:general-arrangement}
 \end{figure}
 
+Untuk detail gambar yang lebih jelas dapat dilihat pada lampiran.
