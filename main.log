@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.10)  30 JAN 2025 21:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.10)  1 FEB 2025 06:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -912,15 +912,15 @@ LaTeX Font Info:    ... okay on input line 161.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: twoside 
-* h-part:(L,W,R)=(71.13188pt, 469.47049pt, 56.9055pt)
-* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* h-part:(L,W,R)=(85.35826pt, 455.24411pt, 56.9055pt)
+* v-part:(T,H,B)=(85.35826pt, 688.5567pt, 71.13188pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=469.47049pt
-* \textheight=702.78308pt
-* \oddsidemargin=-1.1381pt
+* \textwidth=455.24411pt
+* \textheight=688.5567pt
+* \oddsidemargin=13.08827pt
 * \evensidemargin=-15.36449pt
-* \topmargin=-33.0119pt
+* \topmargin=-18.78552pt
 * \headheight=12.0pt
 * \headsep=19.8738pt
 * \topskip=12.0pt
@@ -979,161 +979,172 @@ Package caption Info: End \AtBeginDocument code.
 
 Package pgfplots notification 'compat/show suggested version=true': document has been generated with the most recent feature set (\pgfplotsset{compat=1.18}).
 
-*geometry* verbose mode - [ newgeometry ] result:
-* driver: pdftex
-* paper: a4paper
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: twoside 
-* h-part:(L,W,R)=(71.13188pt, 469.47049pt, 56.9055pt)
-* v-part:(T,H,B)=(270.30118pt, 503.61378pt, 71.13188pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=469.47049pt
-* \textheight=503.61378pt
-* \oddsidemargin=-1.1381pt
-* \evensidemargin=-15.36449pt
-* \topmargin=166.1574pt
-* \headheight=12.0pt
-* \headsep=19.8738pt
-* \topskip=12.0pt
-* \footskip=30.0pt
-* \marginparwidth=98.0pt
-* \marginparsep=7.0pt
-* \columnsep=10.0pt
-* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidetrue
-* \@mparswitchtrue
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Trying to load font information for OT1+lmss on input line 165.
-(c:/texlive/2024/texmf-dist/tex/latex/lm/ot1lmss.fd
-File: ot1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) (./sampul/sampul-id.tex)
 
-<sampul/gambar/sampul-luar.png, id=345, 421.0932pt x 597.432pt>
-File: sampul/gambar/sampul-luar.png Graphic file (type png)
-<use sampul/gambar/sampul-luar.png>
-Package pdftex.def Info: sampul/gambar/sampul-luar.png  used on input line 168.
-(pdftex.def)             Requested size: 597.54529pt x 845.12318pt.
+pdfTeX warning: pdflatex.exe (file ./lainnya/sampul_luar.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<lainnya/sampul_luar.pdf, id=345, 597.55246pt x 845.19763pt>
+File: lainnya/sampul_luar.pdf Graphic file (type pdf)
+<use lainnya/sampul_luar.pdf>
+Package pdftex.def Info: lainnya/sampul_luar.pdf  used on input line 182.
+(pdftex.def)             Requested size: 597.551pt x 845.19557pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./lainnya/sampul_luar.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+File: lainnya/sampul_luar.pdf Graphic file (type pdf)
+<use lainnya/sampul_luar.pdf>
+Package pdftex.def Info: lainnya/sampul_luar.pdf  used on input line 182.
+(pdftex.def)             Requested size: 597.551pt x 845.19557pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./lainnya/sampul_luar.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex.exe (file ./lainnya/sampul_luar.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<lainnya/sampul_luar.pdf, id=348, page=1, 597.55246pt x 845.19763pt>
+File: lainnya/sampul_luar.pdf Graphic file (type pdf)
+<use lainnya/sampul_luar.pdf, page 1>
+Package pdftex.def Info: lainnya/sampul_luar.pdf , page1 used on input line 182.
+(pdftex.def)             Requested size: 597.551pt x 845.19557pt.
+File: lainnya/sampul_luar.pdf Graphic file (type pdf)
+<use lainnya/sampul_luar.pdf, page 1>
+Package pdftex.def Info: lainnya/sampul_luar.pdf , page1 used on input line 182.
+(pdftex.def)             Requested size: 597.57834pt x 845.23425pt.
+File: lainnya/sampul_luar.pdf Graphic file (type pdf)
+<use lainnya/sampul_luar.pdf, page 1>
+Package pdftex.def Info: lainnya/sampul_luar.pdf , page1 used on input line 182.
+(pdftex.def)             Requested size: 597.57834pt x 845.23425pt.
+File: lainnya/sampul_luar.pdf Graphic file (type pdf)
+<use lainnya/sampul_luar.pdf, page 1>
+Package pdftex.def Info: lainnya/sampul_luar.pdf , page1 used on input line 182.
+(pdftex.def)             Requested size: 597.57834pt x 845.23425pt.
+
+
+File: lainnya/sampul_luar.pdf Graphic file (type pdf)
+<use lainnya/sampul_luar.pdf, page 1>
+Package pdftex.def Info: lainnya/sampul_luar.pdf , page1 used on input line 182.
+(pdftex.def)             Requested size: 597.57834pt x 845.23425pt.
 [1
 
 
 
-{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc} <./sampul/gambar/sampul-luar.png>]
+ <./lainnya/sampul_luar.pdf>]
 
 [2
 
-
 ]
 
-pdfTeX warning: pdflatex.exe (file ./kep_yudisium/sampul_dalam.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<kep_yudisium/sampul_dalam.pdf, id=359, 597.55246pt x 845.19763pt>
-File: kep_yudisium/sampul_dalam.pdf Graphic file (type pdf)
-<use kep_yudisium/sampul_dalam.pdf>
-Package pdftex.def Info: kep_yudisium/sampul_dalam.pdf  used on input line 183.
+pdfTeX warning: pdflatex.exe (file ./lainnya/sampul_dalam_id.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<lainnya/sampul_dalam_id.pdf, id=386, 597.55246pt x 845.19763pt>
+File: lainnya/sampul_dalam_id.pdf Graphic file (type pdf)
+<use lainnya/sampul_dalam_id.pdf>
+Package pdftex.def Info: lainnya/sampul_dalam_id.pdf  used on input line 186.
 (pdftex.def)             Requested size: 597.551pt x 845.19557pt.
 
 
-pdfTeX warning: pdflatex.exe (file ./kep_yudisium/sampul_dalam.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-File: kep_yudisium/sampul_dalam.pdf Graphic file (type pdf)
-<use kep_yudisium/sampul_dalam.pdf>
-Package pdftex.def Info: kep_yudisium/sampul_dalam.pdf  used on input line 183.
+pdfTeX warning: pdflatex.exe (file ./lainnya/sampul_dalam_id.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+File: lainnya/sampul_dalam_id.pdf Graphic file (type pdf)
+<use lainnya/sampul_dalam_id.pdf>
+Package pdftex.def Info: lainnya/sampul_dalam_id.pdf  used on input line 186.
 (pdftex.def)             Requested size: 597.551pt x 845.19557pt.
 
 
-pdfTeX warning: pdflatex.exe (file ./kep_yudisium/sampul_dalam.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file ./lainnya/sampul_dalam_id.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 
 
-pdfTeX warning: pdflatex.exe (file ./kep_yudisium/sampul_dalam.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<kep_yudisium/sampul_dalam.pdf, id=362, page=1, 597.55246pt x 845.19763pt>
-File: kep_yudisium/sampul_dalam.pdf Graphic file (type pdf)
-<use kep_yudisium/sampul_dalam.pdf, page 1>
-Package pdftex.def Info: kep_yudisium/sampul_dalam.pdf , page1 used on input line 183.
+pdfTeX warning: pdflatex.exe (file ./lainnya/sampul_dalam_id.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<lainnya/sampul_dalam_id.pdf, id=389, page=1, 597.55246pt x 845.19763pt>
+File: lainnya/sampul_dalam_id.pdf Graphic file (type pdf)
+<use lainnya/sampul_dalam_id.pdf, page 1>
+Package pdftex.def Info: lainnya/sampul_dalam_id.pdf , page1 used on input line 186.
 (pdftex.def)             Requested size: 597.551pt x 845.19557pt.
-File: kep_yudisium/sampul_dalam.pdf Graphic file (type pdf)
-<use kep_yudisium/sampul_dalam.pdf, page 1>
-Package pdftex.def Info: kep_yudisium/sampul_dalam.pdf , page1 used on input line 183.
+File: lainnya/sampul_dalam_id.pdf Graphic file (type pdf)
+<use lainnya/sampul_dalam_id.pdf, page 1>
+Package pdftex.def Info: lainnya/sampul_dalam_id.pdf , page1 used on input line 186.
 (pdftex.def)             Requested size: 597.57834pt x 845.23425pt.
-File: kep_yudisium/sampul_dalam.pdf Graphic file (type pdf)
-<use kep_yudisium/sampul_dalam.pdf, page 1>
-Package pdftex.def Info: kep_yudisium/sampul_dalam.pdf , page1 used on input line 183.
+File: lainnya/sampul_dalam_id.pdf Graphic file (type pdf)
+<use lainnya/sampul_dalam_id.pdf, page 1>
+Package pdftex.def Info: lainnya/sampul_dalam_id.pdf , page1 used on input line 186.
 (pdftex.def)             Requested size: 597.57834pt x 845.23425pt.
-File: kep_yudisium/sampul_dalam.pdf Graphic file (type pdf)
-<use kep_yudisium/sampul_dalam.pdf, page 1>
-Package pdftex.def Info: kep_yudisium/sampul_dalam.pdf , page1 used on input line 183.
+File: lainnya/sampul_dalam_id.pdf Graphic file (type pdf)
+<use lainnya/sampul_dalam_id.pdf, page 1>
+Package pdftex.def Info: lainnya/sampul_dalam_id.pdf , page1 used on input line 186.
 (pdftex.def)             Requested size: 597.57834pt x 845.23425pt.
 
 
-File: kep_yudisium/sampul_dalam.pdf Graphic file (type pdf)
-<use kep_yudisium/sampul_dalam.pdf, page 1>
-Package pdftex.def Info: kep_yudisium/sampul_dalam.pdf , page1 used on input line 183.
+File: lainnya/sampul_dalam_id.pdf Graphic file (type pdf)
+<use lainnya/sampul_dalam_id.pdf, page 1>
+Package pdftex.def Info: lainnya/sampul_dalam_id.pdf , page1 used on input line 186.
 (pdftex.def)             Requested size: 597.57834pt x 845.23425pt.
 [3
 
- <./kep_yudisium/sampul_dalam.pdf>]
+ <./lainnya/sampul_dalam_id.pdf>]
 
-pdfTeX warning: pdflatex.exe (file ./kep_yudisium/sampul_dalam.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<kep_yudisium/sampul_dalam.pdf, id=392, page=2, 597.55246pt x 845.19763pt>
-File: kep_yudisium/sampul_dalam.pdf Graphic file (type pdf)
-<use kep_yudisium/sampul_dalam.pdf, page 2>
-Package pdftex.def Info: kep_yudisium/sampul_dalam.pdf , page2 used on input line 183.
-(pdftex.def)             Requested size: 597.57834pt x 845.23425pt.
-File: kep_yudisium/sampul_dalam.pdf Graphic file (type pdf)
-<use kep_yudisium/sampul_dalam.pdf, page 2>
-Package pdftex.def Info: kep_yudisium/sampul_dalam.pdf , page2 used on input line 183.
-(pdftex.def)             Requested size: 597.57834pt x 845.23425pt.
-
-
-File: kep_yudisium/sampul_dalam.pdf Graphic file (type pdf)
-<use kep_yudisium/sampul_dalam.pdf, page 2>
-Package pdftex.def Info: kep_yudisium/sampul_dalam.pdf , page2 used on input line 183.
-(pdftex.def)             Requested size: 597.57834pt x 845.23425pt.
 [4
 
- <./kep_yudisium/sampul_dalam.pdf>]
+]
 
-pdfTeX warning: pdflatex.exe (file ./kep_yudisium/sampul_dalam.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<kep_yudisium/sampul_dalam.pdf, id=398, page=3, 597.55246pt x 845.19763pt>
-File: kep_yudisium/sampul_dalam.pdf Graphic file (type pdf)
-<use kep_yudisium/sampul_dalam.pdf, page 3>
-Package pdftex.def Info: kep_yudisium/sampul_dalam.pdf , page3 used on input line 183.
+pdfTeX warning: pdflatex.exe (file ./lainnya/sampul_dalam_en.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<lainnya/sampul_dalam_en.pdf, id=424, 597.55246pt x 845.19763pt>
+File: lainnya/sampul_dalam_en.pdf Graphic file (type pdf)
+<use lainnya/sampul_dalam_en.pdf>
+Package pdftex.def Info: lainnya/sampul_dalam_en.pdf  used on input line 190.
+(pdftex.def)             Requested size: 597.551pt x 845.19557pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./lainnya/sampul_dalam_en.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+File: lainnya/sampul_dalam_en.pdf Graphic file (type pdf)
+<use lainnya/sampul_dalam_en.pdf>
+Package pdftex.def Info: lainnya/sampul_dalam_en.pdf  used on input line 190.
+(pdftex.def)             Requested size: 597.551pt x 845.19557pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./lainnya/sampul_dalam_en.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex.exe (file ./lainnya/sampul_dalam_en.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<lainnya/sampul_dalam_en.pdf, id=427, page=1, 597.55246pt x 845.19763pt>
+File: lainnya/sampul_dalam_en.pdf Graphic file (type pdf)
+<use lainnya/sampul_dalam_en.pdf, page 1>
+Package pdftex.def Info: lainnya/sampul_dalam_en.pdf , page1 used on input line 190.
+(pdftex.def)             Requested size: 597.551pt x 845.19557pt.
+File: lainnya/sampul_dalam_en.pdf Graphic file (type pdf)
+<use lainnya/sampul_dalam_en.pdf, page 1>
+Package pdftex.def Info: lainnya/sampul_dalam_en.pdf , page1 used on input line 190.
 (pdftex.def)             Requested size: 597.57834pt x 845.23425pt.
-File: kep_yudisium/sampul_dalam.pdf Graphic file (type pdf)
-<use kep_yudisium/sampul_dalam.pdf, page 3>
-Package pdftex.def Info: kep_yudisium/sampul_dalam.pdf , page3 used on input line 183.
+File: lainnya/sampul_dalam_en.pdf Graphic file (type pdf)
+<use lainnya/sampul_dalam_en.pdf, page 1>
+Package pdftex.def Info: lainnya/sampul_dalam_en.pdf , page1 used on input line 190.
+(pdftex.def)             Requested size: 597.57834pt x 845.23425pt.
+File: lainnya/sampul_dalam_en.pdf Graphic file (type pdf)
+<use lainnya/sampul_dalam_en.pdf, page 1>
+Package pdftex.def Info: lainnya/sampul_dalam_en.pdf , page1 used on input line 190.
 (pdftex.def)             Requested size: 597.57834pt x 845.23425pt.
 
 
-File: kep_yudisium/sampul_dalam.pdf Graphic file (type pdf)
-<use kep_yudisium/sampul_dalam.pdf, page 3>
-Package pdftex.def Info: kep_yudisium/sampul_dalam.pdf , page3 used on input line 183.
+File: lainnya/sampul_dalam_en.pdf Graphic file (type pdf)
+<use lainnya/sampul_dalam_en.pdf, page 1>
+Package pdftex.def Info: lainnya/sampul_dalam_en.pdf , page1 used on input line 190.
 (pdftex.def)             Requested size: 597.57834pt x 845.23425pt.
 [5
 
- <./kep_yudisium/sampul_dalam.pdf>]
+ <./lainnya/sampul_dalam_en.pdf>]
 
 [6
 
 ]
 
 pdfTeX warning: pdflatex.exe (file ./kep_yudisium/Approval.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<kep_yudisium/Approval.pdf, id=408, 597.6729pt x 845.07718pt>
+<kep_yudisium/Approval.pdf, id=461, 597.6729pt x 845.07718pt>
 File: kep_yudisium/Approval.pdf Graphic file (type pdf)
 <use kep_yudisium/Approval.pdf>
-Package pdftex.def Info: kep_yudisium/Approval.pdf  used on input line 191.
+Package pdftex.def Info: kep_yudisium/Approval.pdf  used on input line 198.
 (pdftex.def)             Requested size: 597.67143pt x 845.07512pt.
 
 
 pdfTeX warning: pdflatex.exe (file ./kep_yudisium/Approval.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 File: kep_yudisium/Approval.pdf Graphic file (type pdf)
 <use kep_yudisium/Approval.pdf>
-Package pdftex.def Info: kep_yudisium/Approval.pdf  used on input line 191.
+Package pdftex.def Info: kep_yudisium/Approval.pdf  used on input line 198.
 (pdftex.def)             Requested size: 597.67143pt x 845.07512pt.
 
 
@@ -1141,65 +1152,65 @@ pdfTeX warning: pdflatex.exe (file ./kep_yudisium/Approval.pdf): PDF inclusion: 
 
 
 pdfTeX warning: pdflatex.exe (file ./kep_yudisium/Approval.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<kep_yudisium/Approval.pdf, id=411, page=1, 597.6729pt x 845.07718pt>
+<kep_yudisium/Approval.pdf, id=464, page=1, 597.6729pt x 845.07718pt>
 File: kep_yudisium/Approval.pdf Graphic file (type pdf)
 <use kep_yudisium/Approval.pdf, page 1>
-Package pdftex.def Info: kep_yudisium/Approval.pdf , page1 used on input line 191.
+Package pdftex.def Info: kep_yudisium/Approval.pdf , page1 used on input line 198.
 (pdftex.def)             Requested size: 597.67143pt x 845.07512pt.
 File: kep_yudisium/Approval.pdf Graphic file (type pdf)
 <use kep_yudisium/Approval.pdf, page 1>
-Package pdftex.def Info: kep_yudisium/Approval.pdf , page1 used on input line 191.
+Package pdftex.def Info: kep_yudisium/Approval.pdf , page1 used on input line 198.
 (pdftex.def)             Requested size: 597.69879pt x 845.1138pt.
 File: kep_yudisium/Approval.pdf Graphic file (type pdf)
 <use kep_yudisium/Approval.pdf, page 1>
-Package pdftex.def Info: kep_yudisium/Approval.pdf , page1 used on input line 191.
+Package pdftex.def Info: kep_yudisium/Approval.pdf , page1 used on input line 198.
 (pdftex.def)             Requested size: 597.69879pt x 845.1138pt.
 File: kep_yudisium/Approval.pdf Graphic file (type pdf)
 <use kep_yudisium/Approval.pdf, page 1>
-Package pdftex.def Info: kep_yudisium/Approval.pdf , page1 used on input line 191.
+Package pdftex.def Info: kep_yudisium/Approval.pdf , page1 used on input line 198.
 (pdftex.def)             Requested size: 597.69879pt x 845.1138pt.
 
 
 File: kep_yudisium/Approval.pdf Graphic file (type pdf)
 <use kep_yudisium/Approval.pdf, page 1>
-Package pdftex.def Info: kep_yudisium/Approval.pdf , page1 used on input line 191.
+Package pdftex.def Info: kep_yudisium/Approval.pdf , page1 used on input line 198.
 (pdftex.def)             Requested size: 597.69879pt x 845.1138pt.
 [7
 
  <./kep_yudisium/Approval.pdf>]
 
 pdfTeX warning: pdflatex.exe (file ./kep_yudisium/Approval.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<kep_yudisium/Approval.pdf, id=430, page=2, 597.6729pt x 845.07718pt>
+<kep_yudisium/Approval.pdf, id=483, page=2, 597.6729pt x 845.07718pt>
 File: kep_yudisium/Approval.pdf Graphic file (type pdf)
 <use kep_yudisium/Approval.pdf, page 2>
-Package pdftex.def Info: kep_yudisium/Approval.pdf , page2 used on input line 191.
+Package pdftex.def Info: kep_yudisium/Approval.pdf , page2 used on input line 198.
 (pdftex.def)             Requested size: 597.69879pt x 845.1138pt.
 File: kep_yudisium/Approval.pdf Graphic file (type pdf)
 <use kep_yudisium/Approval.pdf, page 2>
-Package pdftex.def Info: kep_yudisium/Approval.pdf , page2 used on input line 191.
+Package pdftex.def Info: kep_yudisium/Approval.pdf , page2 used on input line 198.
 (pdftex.def)             Requested size: 597.69879pt x 845.1138pt.
 
 
 File: kep_yudisium/Approval.pdf Graphic file (type pdf)
 <use kep_yudisium/Approval.pdf, page 2>
-Package pdftex.def Info: kep_yudisium/Approval.pdf , page2 used on input line 191.
+Package pdftex.def Info: kep_yudisium/Approval.pdf , page2 used on input line 198.
 (pdftex.def)             Requested size: 597.69879pt x 845.1138pt.
 [8
 
  <./kep_yudisium/Approval.pdf>]
 
 pdfTeX warning: pdflatex.exe (file ./kep_yudisium/orisinalitas.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<kep_yudisium/orisinalitas.pdf, id=436, 597.6729pt x 845.07718pt>
+<kep_yudisium/orisinalitas.pdf, id=489, 597.6729pt x 845.07718pt>
 File: kep_yudisium/orisinalitas.pdf Graphic file (type pdf)
 <use kep_yudisium/orisinalitas.pdf>
-Package pdftex.def Info: kep_yudisium/orisinalitas.pdf  used on input line 196.
+Package pdftex.def Info: kep_yudisium/orisinalitas.pdf  used on input line 203.
 (pdftex.def)             Requested size: 597.67143pt x 845.07512pt.
 
 
 pdfTeX warning: pdflatex.exe (file ./kep_yudisium/orisinalitas.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 File: kep_yudisium/orisinalitas.pdf Graphic file (type pdf)
 <use kep_yudisium/orisinalitas.pdf>
-Package pdftex.def Info: kep_yudisium/orisinalitas.pdf  used on input line 196.
+Package pdftex.def Info: kep_yudisium/orisinalitas.pdf  used on input line 203.
 (pdftex.def)             Requested size: 597.67143pt x 845.07512pt.
 
 
@@ -1207,28 +1218,28 @@ pdfTeX warning: pdflatex.exe (file ./kep_yudisium/orisinalitas.pdf): PDF inclusi
 
 
 pdfTeX warning: pdflatex.exe (file ./kep_yudisium/orisinalitas.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<kep_yudisium/orisinalitas.pdf, id=439, page=1, 597.6729pt x 845.07718pt>
+<kep_yudisium/orisinalitas.pdf, id=492, page=1, 597.6729pt x 845.07718pt>
 File: kep_yudisium/orisinalitas.pdf Graphic file (type pdf)
 <use kep_yudisium/orisinalitas.pdf, page 1>
-Package pdftex.def Info: kep_yudisium/orisinalitas.pdf , page1 used on input line 196.
+Package pdftex.def Info: kep_yudisium/orisinalitas.pdf , page1 used on input line 203.
 (pdftex.def)             Requested size: 597.67143pt x 845.07512pt.
 File: kep_yudisium/orisinalitas.pdf Graphic file (type pdf)
 <use kep_yudisium/orisinalitas.pdf, page 1>
-Package pdftex.def Info: kep_yudisium/orisinalitas.pdf , page1 used on input line 196.
+Package pdftex.def Info: kep_yudisium/orisinalitas.pdf , page1 used on input line 203.
 (pdftex.def)             Requested size: 597.69879pt x 845.1138pt.
 File: kep_yudisium/orisinalitas.pdf Graphic file (type pdf)
 <use kep_yudisium/orisinalitas.pdf, page 1>
-Package pdftex.def Info: kep_yudisium/orisinalitas.pdf , page1 used on input line 196.
+Package pdftex.def Info: kep_yudisium/orisinalitas.pdf , page1 used on input line 203.
 (pdftex.def)             Requested size: 597.69879pt x 845.1138pt.
 File: kep_yudisium/orisinalitas.pdf Graphic file (type pdf)
 <use kep_yudisium/orisinalitas.pdf, page 1>
-Package pdftex.def Info: kep_yudisium/orisinalitas.pdf , page1 used on input line 196.
+Package pdftex.def Info: kep_yudisium/orisinalitas.pdf , page1 used on input line 203.
 (pdftex.def)             Requested size: 597.69879pt x 845.1138pt.
 
 
 File: kep_yudisium/orisinalitas.pdf Graphic file (type pdf)
 <use kep_yudisium/orisinalitas.pdf, page 1>
-Package pdftex.def Info: kep_yudisium/orisinalitas.pdf , page1 used on input line 196.
+Package pdftex.def Info: kep_yudisium/orisinalitas.pdf , page1 used on input line 203.
 (pdftex.def)             Requested size: 597.69879pt x 845.1138pt.
 [9
 
@@ -1236,20 +1247,20 @@ Package pdftex.def Info: kep_yudisium/orisinalitas.pdf , page1 used on input lin
  <./kep_yudisium/orisinalitas.pdf>]
 
 pdfTeX warning: pdflatex.exe (file ./kep_yudisium/orisinalitas.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<kep_yudisium/orisinalitas.pdf, id=462, page=2, 597.6729pt x 845.07718pt>
+<kep_yudisium/orisinalitas.pdf, id=515, page=2, 597.6729pt x 845.07718pt>
 File: kep_yudisium/orisinalitas.pdf Graphic file (type pdf)
 <use kep_yudisium/orisinalitas.pdf, page 2>
-Package pdftex.def Info: kep_yudisium/orisinalitas.pdf , page2 used on input line 196.
+Package pdftex.def Info: kep_yudisium/orisinalitas.pdf , page2 used on input line 203.
 (pdftex.def)             Requested size: 597.69879pt x 845.1138pt.
 File: kep_yudisium/orisinalitas.pdf Graphic file (type pdf)
 <use kep_yudisium/orisinalitas.pdf, page 2>
-Package pdftex.def Info: kep_yudisium/orisinalitas.pdf , page2 used on input line 196.
+Package pdftex.def Info: kep_yudisium/orisinalitas.pdf , page2 used on input line 203.
 (pdftex.def)             Requested size: 597.69879pt x 845.1138pt.
 
 
 File: kep_yudisium/orisinalitas.pdf Graphic file (type pdf)
 <use kep_yudisium/orisinalitas.pdf, page 2>
-Package pdftex.def Info: kep_yudisium/orisinalitas.pdf , page2 used on input line 196.
+Package pdftex.def Info: kep_yudisium/orisinalitas.pdf , page2 used on input line 203.
 (pdftex.def)             Requested size: 597.69879pt x 845.1138pt.
 [10
 
@@ -1259,16 +1270,16 @@ Package pdftex.def Info: kep_yudisium/orisinalitas.pdf , page2 used on input lin
 pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.213   \cleardoublepage
+l.220   \cleardoublepage
                          [1
 
-]
+{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}]
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.ii}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.213   \cleardoublepage
+l.220   \cleardoublepage
                          [2
 
 ] (./abstrak/abstrak-en.tex)
@@ -1277,14 +1288,14 @@ l.213   \cleardoublepage
 pdfTeX warning (ext4): destination with the same identifier (name{page.iii}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.218   \cleardoublepage
+l.225   \cleardoublepage
                          [3]
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.iv}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.218   \cleardoublepage
+l.225   \cleardoublepage
                          [4
 
 ] (./lainnya/kata-pengantar.tex)
@@ -1293,14 +1304,14 @@ l.218   \cleardoublepage
 pdfTeX warning (ext4): destination with the same identifier (name{page.v}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.223   \cleardoublepage
+l.230   \cleardoublepage
                          [5]
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.vi}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.223   \cleardoublepage
+l.230   \cleardoublepage
                          [6
 
 ] (./main.toc
@@ -1309,14 +1320,14 @@ l.223   \cleardoublepage
 pdfTeX warning (ext4): destination with the same identifier (name{page.vii}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.35 ...e {3}METODOLOGI PENELITIAN}{23}{chapter.3}
+l.34 ...line {2.6.3}JONSWAP}{22}{subsection.2.6.3}
                                                   % [7]
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.viii}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.86 ...mberline {5.1}Kesimpulan}{51}{section.5.1}
+l.84 ....6.3}Komponen Biaya}{51}{subsection.4.6.3}
                                                   % [8])
 \tf@toc=\write6
 \openout6 = `main.toc'.
@@ -1327,14 +1338,14 @@ l.86 ...mberline {5.1}Kesimpulan}{51}{section.5.1}
 pdfTeX warning (ext4): destination with the same identifier (name{page.ix}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.229   \cleardoublepage
+l.236   \cleardoublepage
                          [9]
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.x}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.229   \cleardoublepage
+l.236   \cleardoublepage
                          [10
 
 ] (./main.lof
@@ -1360,27 +1371,27 @@ l.229   \cleardoublepage
 ] (./bab/1-pendahuluan.tex
 Bab 1.
 (./bab/1-pendahuluan/1-latar-belakang.tex
-<grafik/gdp per unit energy consp v2.png, id=752, 288.423pt x 194.91pt>
+<grafik/gdp per unit energy consp v2.png, id=806, 288.423pt x 194.91pt>
 File: grafik/gdp per unit energy consp v2.png Graphic file (type png)
 <use grafik/gdp per unit energy consp v2.png>
 Package pdftex.def Info: grafik/gdp per unit energy consp v2.png  used on input line 6.
-(pdftex.def)             Requested size: 352.10286pt x 237.9564pt.
-<grafik/komposisi_konsumsi_energi.png, id=760, 376.461pt x 207.612pt>
-File: grafik/komposisi_konsumsi_energi.png Graphic file (type png)
-<use grafik/komposisi_konsumsi_energi.png>
-Package pdftex.def Info: grafik/komposisi_konsumsi_energi.png  used on input line 15.
-(pdftex.def)             Requested size: 352.10286pt x 194.18909pt.
+(pdftex.def)             Requested size: 341.43307pt x 230.74425pt.
 
 
 [1
 
 
  <./grafik/gdp per unit energy consp v2.png>]
-<gambar/antriBBM-MBD.jpg, id=777, 752.8125pt x 501.875pt>
+<grafik/komposisi_konsumsi_energi.png, id=823, 376.461pt x 207.612pt>
+File: grafik/komposisi_konsumsi_energi.png Graphic file (type png)
+<use grafik/komposisi_konsumsi_energi.png>
+Package pdftex.def Info: grafik/komposisi_konsumsi_energi.png  used on input line 15.
+(pdftex.def)             Requested size: 341.43307pt x 188.30313pt.
+<gambar/antriBBM-MBD.jpg, id=833, 752.8125pt x 501.875pt>
 File: gambar/antriBBM-MBD.jpg Graphic file (type jpg)
 <use gambar/antriBBM-MBD.jpg>
 Package pdftex.def Info: gambar/antriBBM-MBD.jpg  used on input line 26.
-(pdftex.def)             Requested size: 328.6279pt x 219.08731pt.
+(pdftex.def)             Requested size: 318.66948pt x 212.44783pt.
 ) (./bab/1-pendahuluan/2-permasalahan.tex
 
 [2 <./grafik/komposisi_konsumsi_energi.png>]) (./bab/1-pendahuluan/4-tujuan.tex
@@ -1398,15 +1409,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 ]
-Overfull \hbox (4.90561pt too wide) in paragraph at lines 24--25
-[]\OT1/lmr/m/n/12 Dua ta-hap per-ta-ma ju-ga di-ke-nal de-ngan \OT1/lmr/m/it/12 ba-sic de-sign\OT1/lmr/m/n/12 . Gam-bar []2.1[] me-nun-jukk-an tahapan-
- []
-
-<gambar/ship design procedure.png, id=831, 798.5835pt x 448.074pt>
+<gambar/ship design procedure.png, id=886, 798.5835pt x 448.074pt>
 File: gambar/ship design procedure.png Graphic file (type png)
 <use gambar/ship design procedure.png>
 Package pdftex.def Info: gambar/ship design procedure.png  used on input line 28.
-(pdftex.def)             Requested size: 445.99553pt x 250.24284pt.
+(pdftex.def)             Requested size: 432.48051pt x 242.66057pt.
 
 
 [6]
@@ -1416,668 +1423,755 @@ File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 
 [7{c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc} <./gambar/ship design procedure.png>]
-<gambar/design-spiral.png, id=862, 411.33675pt x 539.01375pt>
+<gambar/design-spiral.png, id=915, 411.33675pt x 539.01375pt>
 File: gambar/design-spiral.png Graphic file (type png)
 <use gambar/design-spiral.png>
 Package pdftex.def Info: gambar/design-spiral.png  used on input line 61.
-(pdftex.def)             Requested size: 352.10286pt x 461.41258pt.
-) (./bab/2-tinjauan-pustaka/3-simulasi-monte-carlo.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
+(pdftex.def)             Requested size: 341.43307pt x 447.43063pt.
 
 
-
-[8]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
+[8]) (./bab/2-tinjauan-pustaka/3-simulasi-monte-carlo.tex
 
 [9 <./gambar/design-spiral.png>]
-<gambar/excel-carlo.jpg, id=884, 1284.8pt x 722.7pt>
+<gambar/excel-carlo.jpg, id=939, 1284.8pt x 722.7pt>
 File: gambar/excel-carlo.jpg Graphic file (type jpg)
 <use gambar/excel-carlo.jpg>
 Package pdftex.def Info: gambar/excel-carlo.jpg  used on input line 20.
-(pdftex.def)             Requested size: 375.57782pt x 211.26483pt.
-<gambar/r-carlo.jpg, id=889, 411.03563pt x 295.85532pt>
+(pdftex.def)             Requested size: 364.19667pt x 204.85785pt.
+<gambar/r-carlo.jpg, id=944, 411.03563pt x 295.85532pt>
 File: gambar/r-carlo.jpg Graphic file (type jpg)
 <use gambar/r-carlo.jpg>
 Package pdftex.def Info: gambar/r-carlo.jpg  used on input line 27.
-(pdftex.def)             Requested size: 375.57782pt x 270.33478pt.
-
-
-[10 <./gambar/excel-carlo.jpg>]) (./bab/2-tinjauan-pustaka/4-bbm.tex
-<gambar/BENSIN.jpg, id=898, 455.301pt x 216.81pt>
+(pdftex.def)             Requested size: 364.19667pt x 262.14116pt.
+) (./bab/2-tinjauan-pustaka/4-bbm.tex
+<gambar/BENSIN.jpg, id=949, 455.301pt x 216.81pt>
 File: gambar/BENSIN.jpg Graphic file (type jpg)
 <use gambar/BENSIN.jpg>
 Package pdftex.def Info: gambar/BENSIN.jpg  used on input line 9.
-(pdftex.def)             Requested size: 281.68515pt x 134.1396pt.
+(pdftex.def)             Requested size: 273.14923pt x 130.07376pt.
 
 
-[11 <./gambar/r-carlo.jpg> <./gambar/BENSIN.jpg>]
-<gambar/isibensin.jpg, id=907, 702.625pt x 466.74374pt>
+[10]
+Underfull \vbox (badness 5077) has occurred while \output is active []
+
+
+
+[11 <./gambar/excel-carlo.jpg> <./gambar/r-carlo.jpg>]
+<gambar/isibensin.jpg, id=963, 702.625pt x 466.74374pt>
 File: gambar/isibensin.jpg Graphic file (type jpg)
 <use gambar/isibensin.jpg>
 Package pdftex.def Info: gambar/isibensin.jpg  used on input line 24.
-(pdftex.def)             Requested size: 328.6279pt x 218.30841pt.
-
-
-[12 <./gambar/isibensin.jpg>]
-<gambar/Minyak-Berita-Maluku-Tengah-1-500x375.jpg, id=913, 376.40625pt x 282.30469pt>
+(pdftex.def)             Requested size: 318.66948pt x 211.69215pt.
+<gambar/Minyak-Berita-Maluku-Tengah-1-500x375.jpg, id=964, 376.40625pt x 282.30469pt>
 File: gambar/Minyak-Berita-Maluku-Tengah-1-500x375.jpg Graphic file (type jpg)
 <use gambar/Minyak-Berita-Maluku-Tengah-1-500x375.jpg>
 Package pdftex.def Info: gambar/Minyak-Berita-Maluku-Tengah-1-500x375.jpg  used on input line 36.
-(pdftex.def)             Requested size: 305.15294pt x 228.8809pt.
-<gambar/masak-minyak-tanah.jpg, id=920, 702.625pt x 466.74374pt>
+(pdftex.def)             Requested size: 295.90588pt x 221.94565pt.
+
+
+[12 <./gambar/BENSIN.jpg>]
+Underfull \vbox (badness 6741) has occurred while \output is active []
+
+
+
+[13 <./gambar/isibensin.jpg> <./gambar/Minyak-Berita-Maluku-Tengah-1-500x375.jpg>]
+<gambar/masak-minyak-tanah.jpg, id=982, 702.625pt x 466.74374pt>
 File: gambar/masak-minyak-tanah.jpg Graphic file (type jpg)
 <use gambar/masak-minyak-tanah.jpg>
 Package pdftex.def Info: gambar/masak-minyak-tanah.jpg  used on input line 49.
-(pdftex.def)             Requested size: 305.15294pt x 202.7114pt.
+(pdftex.def)             Requested size: 295.90588pt x 196.5723pt.
 
 
-[13 <./gambar/Minyak-Berita-Maluku-Tengah-1-500x375.jpg>]
-<gambar/mengisi-biosolar-di-spbu.jpg, id=936, 526.96875pt x 295.85532pt>
+[14 <./gambar/masak-minyak-tanah.jpg>]
+<gambar/mengisi-biosolar-di-spbu.jpg, id=996, 526.96875pt x 295.85532pt>
 File: gambar/mengisi-biosolar-di-spbu.jpg Graphic file (type jpg)
 <use gambar/mengisi-biosolar-di-spbu.jpg>
 Package pdftex.def Info: gambar/mengisi-biosolar-di-spbu.jpg  used on input line 66.
-(pdftex.def)             Requested size: 352.10286pt x 197.68933pt.
+(pdftex.def)             Requested size: 341.43307pt x 191.69875pt.
 ) (./bab/2-tinjauan-pustaka/5-teori-gerak-kapal.tex
 
-[14 <./gambar/masak-minyak-tanah.jpg>]
-<gambar/vessel-degree-of-motion.jpeg, id=952, 552.0625pt x 345.29pt>
+[15 <./gambar/mengisi-biosolar-di-spbu.jpg>]
+<gambar/vessel-degree-of-motion.jpeg, id=1010, 552.0625pt x 345.29pt>
 File: gambar/vessel-degree-of-motion.jpeg Graphic file (type jpg)
 <use gambar/vessel-degree-of-motion.jpeg>
 Package pdftex.def Info: gambar/vessel-degree-of-motion.jpeg  used on input line 11.
-(pdftex.def)             Requested size: 328.6279pt x 205.55283pt.
+(pdftex.def)             Requested size: 318.66948pt x 199.31996pt.
 
 
-[15{c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc} <./gambar/mengisi-biosolar-di-spbu.jpg>]
-
-[16 <./gambar/vessel-degree-of-motion.jpeg>]
+[16{c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc} <./gambar/vessel-degree-of-motion.jpeg>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 [17{c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}]
-
-[18{c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}]) (./bab/2-tinjauan-pustaka/6-spektrum-gelombang.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[19]
-<gambar/pembentukan-gelombang-acak.jpg, id=1021, 405.31425pt x 254.1495pt>
-File: gambar/pembentukan-gelombang-acak.jpg Graphic file (type jpg)
-<use gambar/pembentukan-gelombang-acak.jpg>
-Package pdftex.def Info: gambar/pembentukan-gelombang-acak.jpg  used on input line 62.
-(pdftex.def)             Requested size: 328.6279pt x 206.06161pt.
+[18]) (./bab/2-tinjauan-pustaka/6-spektrum-gelombang.tex
 
+[19{c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 [20]
+<gambar/pembentukan-gelombang-acak.jpg, id=1080, 405.31425pt x 254.1495pt>
+File: gambar/pembentukan-gelombang-acak.jpg Graphic file (type jpg)
+<use gambar/pembentukan-gelombang-acak.jpg>
+Package pdftex.def Info: gambar/pembentukan-gelombang-acak.jpg  used on input line 62.
+(pdftex.def)             Requested size: 318.66948pt x 199.81804pt.
+
+Underfull \vbox (badness 1072) has occurred while \output is active []
+
+
+
+[21 <./gambar/pembentukan-gelombang-acak.jpg>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[21 <./gambar/pembentukan-gelombang-acak.jpg>]))
+[22]))
 
-[22] (./bab/3-metodologi.tex
+[23]
+
+[24
+
+] (./bab/3-metodologi.tex
 Bab 3.
 (./bab/3-metodologi/1-diagram-alir.tex
-<gambar/FC_TA_19-Jan.png, id=1048, 611.1633pt x 650.43pt>
+<gambar/FC_TA_19-Jan.png, id=1109, 611.1633pt x 650.43pt>
 File: gambar/FC_TA_19-Jan.png Graphic file (type png)
 <use gambar/FC_TA_19-Jan.png>
 Package pdftex.def Info: gambar/FC_TA_19-Jan.png  used on input line 9.
 (pdftex.def)             Requested size: 458.37134pt x 487.8213pt.
+
+Overfull \hbox (3.12723pt too wide) in paragraph at lines 9--10
+ [][] 
+ []
+
 ) (./bab/3-metodologi/2-tahap-persiapan.tex
 
-[23
-
+[25
 
  <./gambar/FC_TA_19-Jan.png>]) (./bab/3-metodologi/3-uji-hipotesis.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[24]) (./bab/3-metodologi/4-proses-simulasi.tex
-<gambar/FC_Simul.png, id=1059, 198.0198pt x 478.9092pt>
+[26]) (./bab/3-metodologi/4-proses-simulasi.tex
+<gambar/FC_Simul.png, id=1121, 198.0198pt x 478.9092pt>
 File: gambar/FC_Simul.png Graphic file (type png)
 <use gambar/FC_Simul.png>
 Package pdftex.def Info: gambar/FC_Simul.png  used on input line 6.
-(pdftex.def)             Requested size: 117.36761pt x 283.85472pt.
+(pdftex.def)             Requested size: 113.81102pt x 275.25372pt.
 
 
-[25]
+[27]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[26 <./gambar/FC_Simul.png>]
+[28 <./gambar/FC_Simul.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[27]) (./bab/3-metodologi/5-perancangan-kapal.tex
+[29]) (./bab/3-metodologi/5-perancangan-kapal.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[28]
-<gambar/FC_Deskap.png, id=1109, 368.0952pt x 469.755pt>
+[30]
+<gambar/FC_Deskap.png, id=1171, 368.0952pt x 469.755pt>
 File: gambar/FC_Deskap.png Graphic file (type png)
 <use gambar/FC_Deskap.png>
 Package pdftex.def Info: gambar/FC_Deskap.png  used on input line 6.
-(pdftex.def)             Requested size: 197.17674pt x 251.62825pt.
+(pdftex.def)             Requested size: 191.20169pt x 244.00163pt.
 
 
-[29 <./gambar/FC_Deskap.png>]) (./bab/3-metodologi/6-tahap-penutup.tex))
+[31 <./gambar/FC_Deskap.png>]) (./bab/3-metodologi/6-tahap-penutup.tex))
 
-[30] (./bab/4-analisis-pembahasan.tex
+[32] (./bab/4-analisis-pembahasan.tex
 Bab 4.
 (./bab/4-analisis-pembahasan/1-gambaran-umum.tex
-<gambar/administrasi-maluku-barat-daya-a1.jpg, id=1119, 2393.16943pt x 1690.08557pt>
+<gambar/administrasi-maluku-barat-daya-a1.jpg, id=1182, 2393.16943pt x 1690.08557pt>
 File: gambar/administrasi-maluku-barat-daya-a1.jpg Graphic file (type jpg)
 <use gambar/administrasi-maluku-barat-daya-a1.jpg>
 Package pdftex.def Info: gambar/administrasi-maluku-barat-daya-a1.jpg  used on input line 8.
-(pdftex.def)             Requested size: 375.57782pt x 265.2357pt.
-<gambar/rasio-psokan-bbm-mbd.png, id=1126, 374.49pt x 227.76pt>
+(pdftex.def)             Requested size: 364.19667pt x 257.18967pt.
+<gambar/rasio-psokan-bbm-mbd.png, id=1189, 374.49pt x 227.76pt>
 File: gambar/rasio-psokan-bbm-mbd.png Graphic file (type png)
 <use gambar/rasio-psokan-bbm-mbd.png>
 Package pdftex.def Info: gambar/rasio-psokan-bbm-mbd.png  used on input line 20.
-(pdftex.def)             Requested size: 375.57782pt x 228.43364pt.
+(pdftex.def)             Requested size: 364.19667pt x 221.51077pt.
 
 
-[31
+[33
 
 
  <./gambar/administrasi-maluku-barat-daya-a1.jpg>]
-Overfull \hbox (57.29259pt too wide) in paragraph at lines 30--50
+Overfull \hbox (71.51897pt too wide) in paragraph at lines 30--50
  [][] 
  []
 
-<gambar/cons-bbm-tepa.png, id=1133, 900.309pt x 330.471pt>
+<gambar/cons-bbm-tepa.png, id=1195, 900.309pt x 330.471pt>
 File: gambar/cons-bbm-tepa.png Graphic file (type png)
 <use gambar/cons-bbm-tepa.png>
 Package pdftex.def Info: gambar/cons-bbm-tepa.png  used on input line 56.
-(pdftex.def)             Requested size: 225.34383pt x 82.71335pt.
-<gambar/cons-bbm-lakor.png, id=1134, 900.966pt x 330.471pt>
+(pdftex.def)             Requested size: 218.51521pt x 80.20718pt.
+<gambar/cons-bbm-lakor.png, id=1196, 900.966pt x 330.471pt>
 File: gambar/cons-bbm-lakor.png Graphic file (type png)
 <use gambar/cons-bbm-lakor.png>
 Package pdftex.def Info: gambar/cons-bbm-lakor.png  used on input line 63.
-(pdftex.def)             Requested size: 225.34383pt x 82.65283pt.
-<gambar/cons-bbm-letti.png, id=1135, 902.718pt x 330.471pt>
+(pdftex.def)             Requested size: 218.51521pt x 80.14667pt.
+<gambar/cons-bbm-letti.png, id=1197, 902.718pt x 330.471pt>
 File: gambar/cons-bbm-letti.png Graphic file (type png)
 <use gambar/cons-bbm-letti.png>
 Package pdftex.def Info: gambar/cons-bbm-letti.png  used on input line 72.
-(pdftex.def)             Requested size: 225.34383pt x 82.49147pt.
-<gambar/cons-bbm-romang.png, id=1136, 900.09pt x 330.252pt>
+(pdftex.def)             Requested size: 218.51521pt x 79.99539pt.
+<gambar/cons-bbm-romang.png, id=1198, 900.09pt x 330.252pt>
 File: gambar/cons-bbm-romang.png Graphic file (type png)
 <use gambar/cons-bbm-romang.png>
 Package pdftex.def Info: gambar/cons-bbm-romang.png  used on input line 79.
-(pdftex.def)             Requested size: 225.34383pt x 82.6787pt.
+(pdftex.def)             Requested size: 218.51521pt x 80.1742pt.
 File: gambar/cons-bbm-romang.png Graphic file (type png)
 <use gambar/cons-bbm-romang.png>
 Package pdftex.def Info: gambar/cons-bbm-romang.png  used on input line 88.
-(pdftex.def)             Requested size: 225.34383pt x 82.6787pt.
-<gambar/pasokan-konsumsi-BBM-MBD.png, id=1138, 457.053pt x 252.945pt>
+(pdftex.def)             Requested size: 218.51521pt x 80.1742pt.
+<gambar/pasokan-konsumsi-BBM-MBD.png, id=1200, 457.053pt x 252.945pt>
 File: gambar/pasokan-konsumsi-BBM-MBD.png Graphic file (type png)
 <use gambar/pasokan-konsumsi-BBM-MBD.png>
 Package pdftex.def Info: gambar/pasokan-konsumsi-BBM-MBD.png  used on input line 104.
-(pdftex.def)             Requested size: 375.57782pt x 207.86009pt.
-<gambar/rute-eksisting.png, id=1144, 1156.32pt x 392.06474pt>
+(pdftex.def)             Requested size: 364.19667pt x 201.56119pt.
+<gambar/rute-eksisting.png, id=1206, 1156.32pt x 392.06474pt>
 File: gambar/rute-eksisting.png Graphic file (type png)
 <use gambar/rute-eksisting.png>
 Package pdftex.def Info: gambar/rute-eksisting.png  used on input line 114.
-(pdftex.def)             Requested size: 375.57782pt x 127.34175pt.
-<gambar/pemasokan-BBM-MBD.png, id=1145, 362.007pt x 230.388pt>
+(pdftex.def)             Requested size: 364.19667pt x 123.4831pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[34 <./gambar/rasio-psokan-bbm-mbd.png>]
+
+[35 <./gambar/cons-bbm-tepa.png> <./gambar/cons-bbm-lakor.png> <./gambar/cons-bbm-letti.png> <./gambar/cons-bbm-romang.png> <./gambar/pasokan-konsumsi-BBM-MBD.png>]
+<gambar/pemasokan-BBM-MBD.png, id=1222, 362.007pt x 230.388pt>
 File: gambar/pemasokan-BBM-MBD.png Graphic file (type png)
 <use gambar/pemasokan-BBM-MBD.png>
 Package pdftex.def Info: gambar/pemasokan-BBM-MBD.png  used on input line 123.
-(pdftex.def)             Requested size: 375.57782pt x 239.02835pt.
+(pdftex.def)             Requested size: 364.19667pt x 231.78304pt.
+) (./bab/4-analisis-pembahasan/2-bukti-hipotesis.tex
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[32 <./gambar/rasio-psokan-bbm-mbd.png>]
-
-[33 <./gambar/cons-bbm-tepa.png> <./gambar/cons-bbm-lakor.png> <./gambar/cons-bbm-letti.png> <./gambar/cons-bbm-romang.png> <./gambar/pasokan-konsumsi-BBM-MBD.png>]) (./bab/4-analisis-pembahasan/2-bukti-hipotesis.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[34 <./gambar/rute-eksisting.png>]
-<grafik/uji-heave-ori.jpg, id=1168, 432.963pt x 217.467pt>
+[36 <./gambar/rute-eksisting.png>]
+<grafik/uji-heave-ori.jpg, id=1229, 432.963pt x 217.467pt>
 File: grafik/uji-heave-ori.jpg Graphic file (type jpg)
 <use grafik/uji-heave-ori.jpg>
 Package pdftex.def Info: grafik/uji-heave-ori.jpg  used on input line 30.
-(pdftex.def)             Requested size: 225.34383pt x 113.18634pt.
-<grafik/uji-roll-ori.jpg, id=1169, 432.525pt x 217.467pt>
+(pdftex.def)             Requested size: 218.51521pt x 109.75525pt.
+<grafik/uji-roll-ori.jpg, id=1230, 432.525pt x 217.467pt>
 File: grafik/uji-roll-ori.jpg Graphic file (type jpg)
 <use grafik/uji-roll-ori.jpg>
 Package pdftex.def Info: grafik/uji-roll-ori.jpg  used on input line 37.
-(pdftex.def)             Requested size: 225.34383pt x 113.29916pt.
-<grafik/uji-pitch-ori.jpg, id=1170, 433.62pt x 217.467pt>
+(pdftex.def)             Requested size: 218.51521pt x 109.86807pt.
+<grafik/uji-pitch-ori.jpg, id=1231, 433.62pt x 217.467pt>
 File: grafik/uji-pitch-ori.jpg Graphic file (type jpg)
 <use grafik/uji-pitch-ori.jpg>
 Package pdftex.def Info: grafik/uji-pitch-ori.jpg  used on input line 47.
-(pdftex.def)             Requested size: 225.34383pt x 113.0138pt.
+(pdftex.def)             Requested size: 218.51521pt x 109.58932pt.
 
 
-[35 <./gambar/pemasokan-BBM-MBD.png>]
-<grafik/uji-pitch-spob.jpg, id=1178, 456.396pt x 218.343pt>
+[37 <./gambar/pemasokan-BBM-MBD.png>]
+<grafik/uji-pitch-spob.jpg, id=1240, 456.396pt x 218.343pt>
 File: grafik/uji-pitch-spob.jpg Graphic file (type jpg)
 <use grafik/uji-pitch-spob.jpg>
 Package pdftex.def Info: grafik/uji-pitch-spob.jpg  used on input line 86.
-(pdftex.def)             Requested size: 225.34383pt x 107.80525pt.
-<grafik/uji-pitch-spob2.jpg, id=1179, 456.396pt x 218.343pt>
+(pdftex.def)             Requested size: 218.51521pt x 104.53691pt.
+<grafik/uji-pitch-spob2.jpg, id=1241, 456.396pt x 218.343pt>
 File: grafik/uji-pitch-spob2.jpg Graphic file (type jpg)
 <use grafik/uji-pitch-spob2.jpg>
 Package pdftex.def Info: grafik/uji-pitch-spob2.jpg  used on input line 91.
-(pdftex.def)             Requested size: 225.34383pt x 107.80525pt.
-<grafik/uji-heave-spob.jpg, id=1180, 458.367pt x 218.343pt>
+(pdftex.def)             Requested size: 218.51521pt x 104.53691pt.
+<grafik/uji-heave-spob.jpg, id=1242, 458.367pt x 218.343pt>
 File: grafik/uji-heave-spob.jpg Graphic file (type jpg)
 <use grafik/uji-heave-spob.jpg>
 Package pdftex.def Info: grafik/uji-heave-spob.jpg  used on input line 101.
-(pdftex.def)             Requested size: 225.34383pt x 107.34215pt.
-<grafik/uji-heave-spob2.jpg, id=1181, 458.367pt x 218.343pt>
+(pdftex.def)             Requested size: 218.51521pt x 104.09047pt.
+<grafik/uji-heave-spob2.jpg, id=1243, 458.367pt x 218.343pt>
 File: grafik/uji-heave-spob2.jpg Graphic file (type jpg)
 <use grafik/uji-heave-spob2.jpg>
 Package pdftex.def Info: grafik/uji-heave-spob2.jpg  used on input line 106.
-(pdftex.def)             Requested size: 225.34383pt x 107.34215pt.
-<grafik/uji-roll-spob.jpg, id=1182, 458.367pt x 218.343pt>
+(pdftex.def)             Requested size: 218.51521pt x 104.09047pt.
+<grafik/uji-roll-spob.jpg, id=1244, 458.367pt x 218.343pt>
 File: grafik/uji-roll-spob.jpg Graphic file (type jpg)
 <use grafik/uji-roll-spob.jpg>
 Package pdftex.def Info: grafik/uji-roll-spob.jpg  used on input line 116.
-(pdftex.def)             Requested size: 225.34383pt x 107.34215pt.
-<grafik/uji-roll-spob2.jpg, id=1183, 458.367pt x 218.343pt>
+(pdftex.def)             Requested size: 218.51521pt x 104.09047pt.
+<grafik/uji-roll-spob2.jpg, id=1245, 458.367pt x 218.343pt>
 File: grafik/uji-roll-spob2.jpg Graphic file (type jpg)
 <use grafik/uji-roll-spob2.jpg>
 Package pdftex.def Info: grafik/uji-roll-spob2.jpg  used on input line 121.
-(pdftex.def)             Requested size: 225.34383pt x 107.34215pt.
+(pdftex.def)             Requested size: 218.51521pt x 104.09047pt.
 
 
-[36 <./grafik/uji-heave-ori.jpg> <./grafik/uji-roll-ori.jpg> <./grafik/uji-pitch-ori.jpg> <./grafik/uji-pitch-spob.jpg> <./grafik/uji-pitch-spob2.jpg> <./grafik/uji-heave-spob.jpg> <./grafik/uji-heave-spob2.jpg>]) (./bab/4-analisis-pembahasan/3-supply-side.tex
+[38 <./grafik/uji-heave-ori.jpg> <./grafik/uji-roll-ori.jpg> <./grafik/uji-pitch-ori.jpg> <./grafik/uji-pitch-spob.jpg> <./grafik/uji-pitch-spob2.jpg> <./grafik/uji-heave-spob.jpg> <./grafik/uji-heave-spob2.jpg>]) (./bab/4-analisis-pembahasan/3-supply-side.tex
 
-[37 <./grafik/uji-roll-spob.jpg> <./grafik/uji-roll-spob2.jpg>]
-<grafik/distribusi-gelombang-kabupaten-mbd.jpg, id=1197, 359.379pt x 209.364pt>
+[39 <./grafik/uji-roll-spob.jpg> <./grafik/uji-roll-spob2.jpg>]
+<grafik/distribusi-gelombang-kabupaten-mbd.jpg, id=1258, 359.379pt x 209.364pt>
 File: grafik/distribusi-gelombang-kabupaten-mbd.jpg Graphic file (type jpg)
 <use grafik/distribusi-gelombang-kabupaten-mbd.jpg>
 Package pdftex.def Info: grafik/distribusi-gelombang-kabupaten-mbd.jpg  used on input line 34.
-(pdftex.def)             Requested size: 305.15294pt x 177.77493pt.
-<gambar/rute-baru.png, id=1198, 1140.05925pt x 390.86024pt>
+(pdftex.def)             Requested size: 295.90588pt x 172.38557pt.
+<gambar/rute-baru.png, id=1259, 1140.05925pt x 390.86024pt>
 File: gambar/rute-baru.png Graphic file (type png)
 <use gambar/rute-baru.png>
 Package pdftex.def Info: gambar/rute-baru.png  used on input line 46.
-(pdftex.def)             Requested size: 375.57782pt x 128.7636pt.
+(pdftex.def)             Requested size: 364.19667pt x 124.86311pt.
 ) (./bab/4-analisis-pembahasan/4-hasil-simulasi-optimasi.tex
 
-[38 <./grafik/distribusi-gelombang-kabupaten-mbd.jpg>]
+[40 <./grafik/distribusi-gelombang-kabupaten-mbd.jpg>]
+Overfull \hbox (9.7339pt too wide) in paragraph at lines 10--30
+ [][] 
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[39 <./gambar/rute-baru.png>]
-<grafik/biaya-tahunan-baru.jpg, id=1211, 259.56975pt x 223.43475pt>
+[41 <./gambar/rute-baru.png>]
+<grafik/biaya-tahunan-baru.jpg, id=1272, 259.56975pt x 223.43475pt>
 File: grafik/biaya-tahunan-baru.jpg Graphic file (type jpg)
 <use grafik/biaya-tahunan-baru.jpg>
 Package pdftex.def Info: grafik/biaya-tahunan-baru.jpg  used on input line 64.
-(pdftex.def)             Requested size: 187.78532pt x 161.6468pt.
-<grafik/biaya-tahunan-baru-tangki.jpg, id=1212, 259.56975pt x 224.037pt>
+(pdftex.def)             Requested size: 182.09486pt x 156.74759pt.
+<grafik/biaya-tahunan-baru-tangki.jpg, id=1273, 259.56975pt x 224.037pt>
 File: grafik/biaya-tahunan-baru-tangki.jpg Graphic file (type jpg)
 <use grafik/biaya-tahunan-baru-tangki.jpg>
 Package pdftex.def Info: grafik/biaya-tahunan-baru-tangki.jpg  used on input line 70.
-(pdftex.def)             Requested size: 187.78532pt x 162.0825pt.
+(pdftex.def)             Requested size: 182.09486pt x 157.17009pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 3746) has occurred while \output is active []
 
 
 
-[40]
-<grafik/frekuensi-baru.jpg, id=1217, 259.56975pt x 224.037pt>
+[42]
+<grafik/frekuensi-baru.jpg, id=1278, 259.56975pt x 224.037pt>
 File: grafik/frekuensi-baru.jpg Graphic file (type jpg)
 <use grafik/frekuensi-baru.jpg>
 Package pdftex.def Info: grafik/frekuensi-baru.jpg  used on input line 88.
-(pdftex.def)             Requested size: 187.78532pt x 162.0825pt.
-<grafik/frekuensi-baru-tangki.jpg, id=1218, 259.7203pt x 224.33812pt>
+(pdftex.def)             Requested size: 182.09486pt x 157.17009pt.
+<grafik/frekuensi-baru-tangki.jpg, id=1279, 259.7203pt x 224.33812pt>
 File: grafik/frekuensi-baru-tangki.jpg Graphic file (type jpg)
 <use grafik/frekuensi-baru-tangki.jpg>
 Package pdftex.def Info: grafik/frekuensi-baru-tangki.jpg  used on input line 94.
-(pdftex.def)             Requested size: 187.78532pt x 162.2011pt.
+(pdftex.def)             Requested size: 182.09486pt x 157.28549pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 6477) has occurred while \output is active []
 
 
 
-[41 <./grafik/biaya-tahunan-baru.jpg> <./grafik/biaya-tahunan-baru-tangki.jpg> <./grafik/frekuensi-baru.jpg> <./grafik/frekuensi-baru-tangki.jpg>]
-<grafik/minus-bbm-baru.jpg, id=1224, 817.527pt x 227.322pt>
+[43 <./grafik/biaya-tahunan-baru.jpg> <./grafik/biaya-tahunan-baru-tangki.jpg> <./grafik/frekuensi-baru.jpg> <./grafik/frekuensi-baru-tangki.jpg>]
+<grafik/minus-bbm-baru.jpg, id=1287, 817.527pt x 227.322pt>
 File: grafik/minus-bbm-baru.jpg Graphic file (type jpg)
 <use grafik/minus-bbm-baru.jpg>
 Package pdftex.def Info: grafik/minus-bbm-baru.jpg  used on input line 113.
-(pdftex.def)             Requested size: 445.99553pt x 124.01463pt.
-<grafik/minus-bbm-baru-tangki.jpg, id=1225, 817.527pt x 227.322pt>
+(pdftex.def)             Requested size: 432.48051pt x 120.25809pt.
+<grafik/minus-bbm-baru-tangki.jpg, id=1288, 817.527pt x 227.322pt>
 File: grafik/minus-bbm-baru-tangki.jpg Graphic file (type jpg)
 <use grafik/minus-bbm-baru-tangki.jpg>
 Package pdftex.def Info: grafik/minus-bbm-baru-tangki.jpg  used on input line 121.
-(pdftex.def)             Requested size: 445.99553pt x 124.01463pt.
+(pdftex.def)             Requested size: 432.48051pt x 120.25809pt.
 
 
-[42 <./grafik/minus-bbm-baru.jpg> <./grafik/minus-bbm-baru-tangki.jpg>]
-<grafik/load-factor-baru-tangki.jpg, id=1231, 838.989pt x 217.905pt>
+[44 <./grafik/minus-bbm-baru.jpg> <./grafik/minus-bbm-baru-tangki.jpg>]
+<grafik/load-factor-baru-tangki.jpg, id=1294, 838.989pt x 217.905pt>
 File: grafik/load-factor-baru-tangki.jpg Graphic file (type jpg)
 <use grafik/load-factor-baru-tangki.jpg>
 Package pdftex.def Info: grafik/load-factor-baru-tangki.jpg  used on input line 159.
-(pdftex.def)             Requested size: 445.99553pt x 115.83488pt.
+(pdftex.def)             Requested size: 432.48051pt x 112.32706pt.
 ) (./bab/4-analisis-pembahasan/5-perancangan-kapal.tex
 
-[43 <./grafik/load-factor-baru-tangki.jpg>]
+[45 <./grafik/load-factor-baru-tangki.jpg>]
 
-[44]
+[46]
 
-[45]
-<grafik/kurva-stabilitas-new.jpg, id=1271, 370.548pt x 277.035pt>
+[47]
+<grafik/kurva-stabilitas-new.jpg, id=1332, 370.548pt x 277.035pt>
 File: grafik/kurva-stabilitas-new.jpg Graphic file (type jpg)
 <use grafik/kurva-stabilitas-new.jpg>
 Package pdftex.def Info: grafik/kurva-stabilitas-new.jpg  used on input line 125.
-(pdftex.def)             Requested size: 258.21019pt x 193.05237pt.
-<grafik/batasan-pitch-new.jpg, id=1272, 931.188pt x 217.467pt>
+(pdftex.def)             Requested size: 250.38564pt x 187.19345pt.
+<grafik/batasan-pitch-new.jpg, id=1333, 931.188pt x 217.467pt>
 File: grafik/batasan-pitch-new.jpg Graphic file (type jpg)
 <use grafik/batasan-pitch-new.jpg>
 Package pdftex.def Info: grafik/batasan-pitch-new.jpg  used on input line 139.
-(pdftex.def)             Requested size: 445.99553pt x 104.15732pt.
-<grafik/batasan-heave-new.jpg, id=1273, 931.188pt x 229.95pt>
+(pdftex.def)             Requested size: 432.48051pt x 101.00163pt.
+<grafik/batasan-heave-new.jpg, id=1334, 931.188pt x 229.95pt>
 File: grafik/batasan-heave-new.jpg Graphic file (type jpg)
 <use grafik/batasan-heave-new.jpg>
 Package pdftex.def Info: grafik/batasan-heave-new.jpg  used on input line 147.
-(pdftex.def)             Requested size: 445.99553pt x 110.13614pt.
-<grafik/batasan-roll-new.jpg, id=1274, 931.188pt x 217.467pt>
+(pdftex.def)             Requested size: 432.48051pt x 106.79932pt.
+<grafik/batasan-roll-new.jpg, id=1335, 931.188pt x 217.467pt>
 File: grafik/batasan-roll-new.jpg Graphic file (type jpg)
 <use grafik/batasan-roll-new.jpg>
 Package pdftex.def Info: grafik/batasan-roll-new.jpg  used on input line 154.
-(pdftex.def)             Requested size: 445.99553pt x 104.15732pt.
+(pdftex.def)             Requested size: 432.48051pt x 101.00163pt.
 
 
-[46]
-Overfull \vbox (10.69301pt too high) has occurred while \output is active []
+[48]
+Overfull \vbox (6.37184pt too high) has occurred while \output is active []
 
 
 
-[47 <./grafik/kurva-stabilitas-new.jpg> <./grafik/batasan-pitch-new.jpg> <./grafik/batasan-heave-new.jpg> <./grafik/batasan-roll-new.jpg>]
-<gambar/Lines Plan 22 Ujil 03 48_page-0001(1).jpg, id=1286, 2492.31125pt x 1760.5775pt>
+[49 <./grafik/kurva-stabilitas-new.jpg> <./grafik/batasan-pitch-new.jpg> <./grafik/batasan-heave-new.jpg> <./grafik/batasan-roll-new.jpg>]
+<gambar/Lines Plan 22 Ujil 03 48_page-0001(1).jpg, id=1348, 2492.31125pt x 1760.5775pt>
 File: gambar/Lines Plan 22 Ujil 03 48_page-0001(1).jpg Graphic file (type jpg)
 <use gambar/Lines Plan 22 Ujil 03 48_page-0001(1).jpg>
 Package pdftex.def Info: gambar/Lines Plan 22 Ujil 03 48_page-0001(1).jpg  used on input line 168.
-(pdftex.def)             Requested size: 234.73524pt x 165.80592pt.
-<gambar/GA 22 Juli 03 45_page-0001(1).jpg, id=1290, 2492.31125pt x 1760.5775pt>
+(pdftex.def)             Requested size: 227.62206pt x 160.78232pt.
+<gambar/GA 22 Juli 03 45_page-0001(1).jpg, id=1352, 2492.31125pt x 1760.5775pt>
 File: gambar/GA 22 Juli 03 45_page-0001(1).jpg Graphic file (type jpg)
 <use gambar/GA 22 Juli 03 45_page-0001(1).jpg>
 Package pdftex.def Info: gambar/GA 22 Juli 03 45_page-0001(1).jpg  used on input line 181.
-(pdftex.def)             Requested size: 234.73524pt x 165.80592pt.
+(pdftex.def)             Requested size: 227.62206pt x 160.78232pt.
 ) (./bab/4-analisis-pembahasan/6-analisis-kesenjangan.tex
 
-[48 <./gambar/Lines Plan 22 Ujil 03 48_page-0001(1).jpg> <./gambar/GA 22 Juli 03 45_page-0001(1).jpg>]
-<grafik/minus-bbm-all.jpg, id=1295, 401.208pt x 226.665pt>
+[50 <./gambar/Lines Plan 22 Ujil 03 48_page-0001(1).jpg> <./gambar/GA 22 Juli 03 45_page-0001(1).jpg>]
+<grafik/minus-bbm-all.jpg, id=1357, 401.208pt x 226.665pt>
 File: grafik/minus-bbm-all.jpg Graphic file (type jpg)
 <use grafik/minus-bbm-all.jpg>
 Package pdftex.def Info: grafik/minus-bbm-all.jpg  used on input line 11.
-(pdftex.def)             Requested size: 352.10286pt x 198.9297pt.
-<grafik/total-cost-all.jpg, id=1297, 400.989pt x 217.467pt>
+(pdftex.def)             Requested size: 341.43307pt x 192.90132pt.
+<grafik/total-cost-all.jpg, id=1359, 400.989pt x 217.467pt>
 File: grafik/total-cost-all.jpg Graphic file (type jpg)
 <use grafik/total-cost-all.jpg>
 Package pdftex.def Info: grafik/total-cost-all.jpg  used on input line 23.
-(pdftex.def)             Requested size: 352.10286pt x 190.96338pt.
-<grafik/element-cost-new.jpg, id=1299, 334.632pt x 326.529pt>
+(pdftex.def)             Requested size: 341.43307pt x 185.17632pt.
+<grafik/element-cost-new.jpg, id=1361, 334.632pt x 326.529pt>
 File: grafik/element-cost-new.jpg Graphic file (type jpg)
 <use grafik/element-cost-new.jpg>
 Package pdftex.def Info: grafik/element-cost-new.jpg  used on input line 35.
-(pdftex.def)             Requested size: 352.10286pt x 343.58304pt.
+(pdftex.def)             Requested size: 341.43307pt x 333.16977pt.
 ))
 
-[49 <./grafik/minus-bbm-all.jpg>]
+[51 <./grafik/minus-bbm-all.jpg>]
 
-[50 <./grafik/total-cost-all.jpg> <./grafik/element-cost-new.jpg>] (./bab/5-penutup.tex
+[52 <./grafik/total-cost-all.jpg> <./grafik/element-cost-new.jpg>] (./bab/5-penutup.tex
 Bab 5.
 (./bab/5-penutup/1-kesimpulan.tex) (./bab/5-penutup/2-saran.tex))
 
-[51
+[53
 
 
 ]
 
-[52
+[54
 
 ] (./main.bbl
 
-[53
+[55
 
 ]
 
-[54]
-Underfull \hbox (badness 2512) in paragraph at lines 156--159
+[56]
+Underfull \hbox (badness 1210) in paragraph at lines 156--159
 []\OT1/lmr/m/n/12 Syofiadi, R. (2024).  Se-pan-jang 2023, Pe-me-rin-tah Me-la-lui PMN Ter-a-ngi 76.900
  []
 
 
-Underfull \hbox (badness 2600) in paragraph at lines 156--159
-\OT1/lmr/m/n/12 De-sa Ke-lu-rah-an di Se-lu-ruh In-do-ne-sia de-ngan Lis-trik PLN - PT PLN (Per-se-
+Underfull \hbox (badness 10000) in paragraph at lines 156--159
+\OT1/lmr/m/n/12 https://web.pln.co.id/cms/media/siaran-pers/2024/01/sepanjang-2023-pemerintah-
  []
 
 )
 
-[55]
+[57]
 
-[56
+[58
 
 ] (./lampiran/lampiran-a.tex
-<grafik/minus-bensin-saat-ini.jpg, id=1338, 311.9655pt x 269.20575pt>
+<grafik/minus-bensin-saat-ini.jpg, id=1399, 311.9655pt x 269.20575pt>
 File: grafik/minus-bensin-saat-ini.jpg Graphic file (type jpg)
 <use grafik/minus-bensin-saat-ini.jpg>
 Package pdftex.def Info: grafik/minus-bensin-saat-ini.jpg  used on input line 12.
-(pdftex.def)             Requested size: 225.34383pt x 194.46057pt.
-<grafik/minus-solar-saat-ini.jpg, id=1339, 311.36325pt x 269.20575pt>
+(pdftex.def)             Requested size: 218.51521pt x 188.57007pt.
+<grafik/minus-solar-saat-ini.jpg, id=1400, 311.36325pt x 269.20575pt>
 File: grafik/minus-solar-saat-ini.jpg Graphic file (type jpg)
 <use grafik/minus-solar-saat-ini.jpg>
 Package pdftex.def Info: grafik/minus-solar-saat-ini.jpg  used on input line 19.
-(pdftex.def)             Requested size: 225.34383pt x 194.83438pt.
-<grafik/minus-mt-saat-ini.jpg, id=1340, 311.36325pt x 269.20575pt>
+(pdftex.def)             Requested size: 218.51521pt x 188.92744pt.
+<grafik/minus-mt-saat-ini.jpg, id=1401, 311.36325pt x 269.20575pt>
 File: grafik/minus-mt-saat-ini.jpg Graphic file (type jpg)
 <use grafik/minus-mt-saat-ini.jpg>
 Package pdftex.def Info: grafik/minus-mt-saat-ini.jpg  used on input line 29.
-(pdftex.def)             Requested size: 234.73524pt x 202.95128pt.
-<grafik/biaya-tahunan-saat-ini.jpg, id=1341, 316.7835pt x 273.4215pt>
+(pdftex.def)             Requested size: 227.62206pt x 196.80199pt.
+<grafik/biaya-tahunan-saat-ini.jpg, id=1402, 316.7835pt x 273.4215pt>
 File: grafik/biaya-tahunan-saat-ini.jpg Graphic file (type jpg)
 <use grafik/biaya-tahunan-saat-ini.jpg>
 Package pdftex.def Info: grafik/biaya-tahunan-saat-ini.jpg  used on input line 41.
-(pdftex.def)             Requested size: 225.34383pt x 194.49774pt.
-<grafik/biaya-publik-saat-ini.jpg, id=1342, 316.7835pt x 273.4215pt>
+(pdftex.def)             Requested size: 218.51521pt x 188.6026pt.
+<grafik/biaya-publik-saat-ini.jpg, id=1403, 316.7835pt x 273.4215pt>
 File: grafik/biaya-publik-saat-ini.jpg Graphic file (type jpg)
 <use grafik/biaya-publik-saat-ini.jpg>
 Package pdftex.def Info: grafik/biaya-publik-saat-ini.jpg  used on input line 46.
-(pdftex.def)             Requested size: 225.34383pt x 194.49774pt.
-<grafik/kurva-gz-spob.jpg, id=1343, 432.744pt x 275.721pt>
+(pdftex.def)             Requested size: 218.51521pt x 188.6026pt.
+<grafik/kurva-gz-spob.jpg, id=1404, 432.744pt x 275.721pt>
 File: grafik/kurva-gz-spob.jpg Graphic file (type jpg)
 <use grafik/kurva-gz-spob.jpg>
 Package pdftex.def Info: grafik/kurva-gz-spob.jpg  used on input line 57.
-(pdftex.def)             Requested size: 328.6279pt x 209.39445pt.
+(pdftex.def)             Requested size: 318.66948pt x 203.05006pt.
+<grafik/contoh-hasil-simulasi.jpg, id=1405, 557.355pt x 483.114pt>
+File: grafik/contoh-hasil-simulasi.jpg Graphic file (type jpg)
+<use grafik/contoh-hasil-simulasi.jpg>
+Package pdftex.def Info: grafik/contoh-hasil-simulasi.jpg  used on input line 67.
+(pdftex.def)             Requested size: 409.71692pt x 355.14719pt.
 
 
-[57
+[59
 
 
  <./grafik/minus-bensin-saat-ini.jpg> <./grafik/minus-solar-saat-ini.jpg> <./grafik/minus-mt-saat-ini.jpg>]
-<grafik/contoh-hasil-simulasi.jpg, id=1349, 557.355pt x 483.114pt>
-File: grafik/contoh-hasil-simulasi.jpg Graphic file (type jpg)
-<use grafik/contoh-hasil-simulasi.jpg>
-Package pdftex.def Info: grafik/contoh-hasil-simulasi.jpg  used on input line 80.
-(pdftex.def)             Requested size: 422.52057pt x 366.24162pt.
-
-
-[58 <./grafik/biaya-tahunan-saat-ini.jpg> <./grafik/biaya-publik-saat-ini.jpg> <./grafik/kurva-gz-spob.jpg>]
-
-[59 <./grafik/contoh-hasil-simulasi.jpg>]
-<grafik/tabel-pemuatan-1.jpg, id=1361, 534.579pt x 536.769pt>
+<grafik/tabel-pemuatan-1.jpg, id=1411, 534.579pt x 536.769pt>
 File: grafik/tabel-pemuatan-1.jpg Graphic file (type jpg)
 <use grafik/tabel-pemuatan-1.jpg>
-Package pdftex.def Info: grafik/tabel-pemuatan-1.jpg  used on input line 95.
-(pdftex.def)             Requested size: 375.57782pt x 377.11992pt.
-<grafik/tabel-pemuatan-2.jpg, id=1362, 553.851pt x 536.988pt>
+Package pdftex.def Info: grafik/tabel-pemuatan-1.jpg  used on input line 82.
+(pdftex.def)             Requested size: 364.19667pt x 365.69427pt.
+<grafik/tabel-pemuatan-2.jpg, id=1412, 553.851pt x 536.988pt>
 File: grafik/tabel-pemuatan-2.jpg Graphic file (type jpg)
 <use grafik/tabel-pemuatan-2.jpg>
-Package pdftex.def Info: grafik/tabel-pemuatan-2.jpg  used on input line 102.
-(pdftex.def)             Requested size: 375.57782pt x 364.13918pt.
-<lampiran/deskap-1.jpg, id=1363, 312.732pt x 347.772pt>
+Package pdftex.def Info: grafik/tabel-pemuatan-2.jpg  used on input line 89.
+(pdftex.def)             Requested size: 364.19667pt x 353.11035pt.
+<lampiran/deskap-1.jpg, id=1413, 312.732pt x 347.772pt>
 File: lampiran/deskap-1.jpg Graphic file (type jpg)
 <use lampiran/deskap-1.jpg>
-Package pdftex.def Info: lampiran/deskap-1.jpg  used on input line 112.
-(pdftex.def)             Requested size: 375.57782pt x 417.67453pt.
-<lampiran/deskap-2.jpg, id=1364, 216.81pt x 542.025pt>
+Package pdftex.def Info: lampiran/deskap-1.jpg  used on input line 99.
+(pdftex.def)             Requested size: 364.19667pt x 405.01836pt.
+<lampiran/deskap-2.jpg, id=1414, 216.81pt x 542.025pt>
 File: lampiran/deskap-2.jpg Graphic file (type jpg)
 <use lampiran/deskap-2.jpg>
-Package pdftex.def Info: lampiran/deskap-2.jpg  used on input line 118.
-(pdftex.def)             Requested size: 281.12514pt x 702.81288pt.
-
-
-LaTeX Warning: Float too large for page by 24.52979pt on input line 120.
-
-<lampiran/deskap-3.jpg, id=1365, 402.00188pt x 782.925pt>
+Package pdftex.def Info: lampiran/deskap-2.jpg  used on input line 105.
+(pdftex.def)             Requested size: 261.6594pt x 654.14851pt.
+<lampiran/deskap-3.jpg, id=1415, 402.00188pt x 782.925pt>
 File: lampiran/deskap-3.jpg Graphic file (type jpg)
 <use lampiran/deskap-3.jpg>
-Package pdftex.def Info: lampiran/deskap-3.jpg  used on input line 124.
-(pdftex.def)             Requested size: 360.8721pt x 702.82208pt.
-
-LaTeX Warning: Float too large for page by 24.53899pt on input line 126.
-
-<lampiran/deskap-4.jpg, id=1366, 280.04625pt x 730.22812pt>
+Package pdftex.def Info: lampiran/deskap-3.jpg  used on input line 111.
+(pdftex.def)             Requested size: 335.88812pt x 654.16415pt.
+<lampiran/deskap-4.jpg, id=1416, 280.04625pt x 730.22812pt>
 File: lampiran/deskap-4.jpg Graphic file (type jpg)
 <use lampiran/deskap-4.jpg>
-Package pdftex.def Info: lampiran/deskap-4.jpg  used on input line 130.
-(pdftex.def)             Requested size: 269.53357pt x 702.8161pt.
-
-LaTeX Warning: Float too large for page by 24.533pt on input line 132.
-
-<lampiran/deskap-5.jpg, id=1367, 542.025pt x 486.31688pt>
+Package pdftex.def Info: lampiran/deskap-4.jpg  used on input line 117.
+(pdftex.def)             Requested size: 250.87271pt x 654.15736pt.
+<lampiran/deskap-5.jpg, id=1417, 542.025pt x 486.31688pt>
 File: lampiran/deskap-5.jpg Graphic file (type jpg)
 <use lampiran/deskap-5.jpg>
-Package pdftex.def Info: lampiran/deskap-5.jpg  used on input line 136.
-(pdftex.def)             Requested size: 469.47049pt x 421.23712pt.
-<lampiran/deskap-6.jpg, id=1368, 408.02437pt x 782.925pt>
+Package pdftex.def Info: lampiran/deskap-5.jpg  used on input line 123.
+(pdftex.def)             Requested size: 455.24411pt x 408.4663pt.
+<lampiran/deskap-6.jpg, id=1418, 408.02437pt x 782.925pt>
 File: lampiran/deskap-6.jpg Graphic file (type jpg)
 <use lampiran/deskap-6.jpg>
-Package pdftex.def Info: lampiran/deskap-6.jpg  used on input line 142.
-(pdftex.def)             Requested size: 366.27843pt x 702.82208pt.
-
-LaTeX Warning: Float too large for page by 24.53899pt on input line 144.
-
-<lampiran/deskap-7.jpg, id=1369, 301.125pt x 782.925pt>
+Package pdftex.def Info: lampiran/deskap-6.jpg  used on input line 129.
+(pdftex.def)             Requested size: 340.92017pt x 654.16415pt.
+<lampiran/deskap-7.jpg, id=1419, 301.125pt x 782.925pt>
 File: lampiran/deskap-7.jpg Graphic file (type jpg)
 <use lampiran/deskap-7.jpg>
-Package pdftex.def Info: lampiran/deskap-7.jpg  used on input line 148.
-(pdftex.def)             Requested size: 270.31616pt x 702.82208pt.
-
-LaTeX Warning: Float too large for page by 24.53899pt on input line 150.
-
-<lampiran/deskap-8.jpg, id=1370, 355.3275pt x 782.925pt>
+Package pdftex.def Info: lampiran/deskap-7.jpg  used on input line 135.
+(pdftex.def)             Requested size: 251.60158pt x 654.16415pt.
+<lampiran/deskap-8.jpg, id=1420, 355.3275pt x 782.925pt>
 File: lampiran/deskap-8.jpg Graphic file (type jpg)
 <use lampiran/deskap-8.jpg>
-Package pdftex.def Info: lampiran/deskap-8.jpg  used on input line 154.
-(pdftex.def)             Requested size: 318.97308pt x 702.82208pt.
-
-LaTeX Warning: Float too large for page by 24.53899pt on input line 156.
-
-<lampiran/deskap-9.jpg, id=1371, 542.025pt x 686.565pt>
+Package pdftex.def Info: lampiran/deskap-8.jpg  used on input line 141.
+(pdftex.def)             Requested size: 296.88986pt x 654.16415pt.
+<lampiran/deskap-9.jpg, id=1421, 542.025pt x 686.565pt>
 File: lampiran/deskap-9.jpg Graphic file (type jpg)
 <use lampiran/deskap-9.jpg>
-Package pdftex.def Info: lampiran/deskap-9.jpg  used on input line 160.
-(pdftex.def)             Requested size: 469.47049pt x 594.6877pt.
-<lampiran/deskap-10.jpg, id=1372, 440.39531pt x 563.85657pt>
+Package pdftex.def Info: lampiran/deskap-9.jpg  used on input line 147.
+(pdftex.def)             Requested size: 455.24411pt x 576.6583pt.
+<lampiran/deskap-10.jpg, id=1422, 440.39531pt x 563.85657pt>
 File: lampiran/deskap-10.jpg Graphic file (type jpg)
 <use lampiran/deskap-10.jpg>
-Package pdftex.def Info: lampiran/deskap-10.jpg  used on input line 166.
-(pdftex.def)             Requested size: 469.47049pt x 601.10081pt.
-<lampiran/deskap-11.jpg, id=1373, 542.025pt x 567.62062pt>
+Package pdftex.def Info: lampiran/deskap-10.jpg  used on input line 153.
+(pdftex.def)             Requested size: 455.24411pt x 582.88667pt.
+<lampiran/deskap-11.jpg, id=1423, 542.025pt x 567.62062pt>
 File: lampiran/deskap-11.jpg Graphic file (type jpg)
 <use lampiran/deskap-11.jpg>
-Package pdftex.def Info: lampiran/deskap-11.jpg  used on input line 172.
-(pdftex.def)             Requested size: 469.47049pt x 491.66064pt.
-<lampiran/tabel-stok-simu.jpg, id=1374, 184.179pt x 347.334pt>
+Package pdftex.def Info: lampiran/deskap-11.jpg  used on input line 159.
+(pdftex.def)             Requested size: 455.24411pt x 476.75475pt.
+<lampiran/tabel-stok-simu.jpg, id=1424, 184.179pt x 347.334pt>
 File: lampiran/tabel-stok-simu.jpg Graphic file (type jpg)
 <use lampiran/tabel-stok-simu.jpg>
-Package pdftex.def Info: lampiran/tabel-stok-simu.jpg  used on input line 181.
-(pdftex.def)             Requested size: 372.68219pt x 702.8228pt.
-
-LaTeX Warning: Float too large for page by 24.5397pt on input line 183.
-
-<lampiran/tabel-konsumsi-simu.jpg, id=1375, 228.636pt x 348.648pt>
+Package pdftex.def Info: lampiran/tabel-stok-simu.jpg  used on input line 168.
+(pdftex.def)             Requested size: 346.88045pt x 654.16458pt.
+<lampiran/tabel-konsumsi-simu.jpg, id=1425, 228.636pt x 348.648pt>
 File: lampiran/tabel-konsumsi-simu.jpg Graphic file (type jpg)
 <use lampiran/tabel-konsumsi-simu.jpg>
-Package pdftex.def Info: lampiran/tabel-konsumsi-simu.jpg  used on input line 187.
-(pdftex.def)             Requested size: 460.89911pt x 702.82701pt.
-
-LaTeX Warning: Float too large for page by 24.54391pt on input line 189.
-
-<lampiran/tabel-pasokan-simu.jpg, id=1376, 189.873pt x 347.115pt>
+Package pdftex.def Info: lampiran/tabel-konsumsi-simu.jpg  used on input line 174.
+(pdftex.def)             Requested size: 428.98798pt x 654.16557pt.
+<lampiran/tabel-pasokan-simu.jpg, id=1426, 189.873pt x 347.115pt>
 File: lampiran/tabel-pasokan-simu.jpg Graphic file (type jpg)
 <use lampiran/tabel-pasokan-simu.jpg>
-Package pdftex.def Info: lampiran/tabel-pasokan-simu.jpg  used on input line 193.
-(pdftex.def)             Requested size: 384.47911pt x 702.88284pt.
-
-LaTeX Warning: Float too large for page by 24.59975pt on input line 195.
-
-<lampiran/summary-now.jpg, id=1377, 542.025pt x 381.3447pt>
+Package pdftex.def Info: lampiran/tabel-pasokan-simu.jpg  used on input line 180.
+(pdftex.def)             Requested size: 357.8623pt x 654.22351pt.
+<lampiran/summary-now.jpg, id=1427, 542.025pt x 381.3447pt>
 File: lampiran/summary-now.jpg Graphic file (type jpg)
 <use lampiran/summary-now.jpg>
-Package pdftex.def Info: lampiran/summary-now.jpg  used on input line 199.
-(pdftex.def)             Requested size: 702.78308pt x 494.46788pt.
-<lampiran/summary-no-tangki.jpg, id=1378, 542.025pt x 704.6325pt>
+Package pdftex.def Info: lampiran/summary-now.jpg  used on input line 186.
+(pdftex.def)             Requested size: 688.5567pt x 484.45366pt.
+<lampiran/summary-no-tangki.jpg, id=1428, 542.025pt x 704.6325pt>
 File: lampiran/summary-no-tangki.jpg Graphic file (type jpg)
 <use lampiran/summary-no-tangki.jpg>
-Package pdftex.def Info: lampiran/summary-no-tangki.jpg  used on input line 205.
-(pdftex.def)             Requested size: 469.49028pt x 610.33739pt.
-<lampiran/summary-tangki.jpg, id=1379, 542.025pt x 636.09645pt>
+Package pdftex.def Info: lampiran/summary-no-tangki.jpg  used on input line 192.
+(pdftex.def)             Requested size: 455.25653pt x 591.83353pt.
+<lampiran/summary-tangki.jpg, id=1429, 542.025pt x 636.09645pt>
 File: lampiran/summary-tangki.jpg Graphic file (type jpg)
 <use lampiran/summary-tangki.jpg>
-Package pdftex.def Info: lampiran/summary-tangki.jpg  used on input line 211.
-(pdftex.def)             Requested size: 469.49028pt x 550.97293pt.
-)
+Package pdftex.def Info: lampiran/summary-tangki.jpg  used on input line 198.
+(pdftex.def)             Requested size: 455.25653pt x 534.26884pt.
 
-[60 <./grafik/tabel-pemuatan-1.jpg>]
 
-[61 <./grafik/tabel-pemuatan-2.jpg>]
+[60 <./grafik/biaya-tahunan-saat-ini.jpg> <./grafik/biaya-publik-saat-ini.jpg> <./grafik/kurva-gz-spob.jpg>]
 
-[62 <./lampiran/deskap-1.jpg>]
+[61 <./grafik/contoh-hasil-simulasi.jpg>]
 
-[63 <./lampiran/deskap-2.jpg>]
+[62 <./grafik/tabel-pemuatan-1.jpg>]
 
-[64 <./lampiran/deskap-3.jpg>]
+[63 <./grafik/tabel-pemuatan-2.jpg>]
 
-[65 <./lampiran/deskap-4.jpg>]
+[64 <./lampiran/deskap-1.jpg>]
 
-[66 <./lampiran/deskap-5.jpg>]
+[65 <./lampiran/deskap-2.jpg>]
 
-[67 <./lampiran/deskap-6.jpg>]
+[66 <./lampiran/deskap-3.jpg>]
 
-[68 <./lampiran/deskap-7.jpg>]
+[67 <./lampiran/deskap-4.jpg>]
 
-[69 <./lampiran/deskap-8.jpg>]
+[68 <./lampiran/deskap-5.jpg>]
 
-[70 <./lampiran/deskap-9.jpg>]
+[69 <./lampiran/deskap-6.jpg>]
 
-[71 <./lampiran/deskap-10.jpg>]
+[70 <./lampiran/deskap-7.jpg>]
 
-[72 <./lampiran/deskap-11.jpg>]
+[71 <./lampiran/deskap-8.jpg>]
 
-[73 <./lampiran/tabel-stok-simu.jpg>]
+[72 <./lampiran/deskap-9.jpg>]
 
-[74 <./lampiran/tabel-konsumsi-simu.jpg>]
+[73 <./lampiran/deskap-10.jpg>]
 
-[75 <./lampiran/tabel-pasokan-simu.jpg>]
+[74 <./lampiran/deskap-11.jpg>]
 
-[76 <./lampiran/summary-now.jpg>]
+[75 <./lampiran/tabel-stok-simu.jpg>]
 
-[77 <./lampiran/summary-no-tangki.jpg>]
+[76 <./lampiran/tabel-konsumsi-simu.jpg>]
 
-[78 <./lampiran/summary-tangki.jpg>] (./lainnya/biodata-penulis.tex
-<kep_yudisium/crop 34.jpg, id=1478, 85.2786pt x 113.7048pt>
+[77 <./lampiran/tabel-pasokan-simu.jpg>]
+
+[78 <./lampiran/summary-now.jpg>]
+
+[79 <./lampiran/summary-no-tangki.jpg>]
+
+[80 <./lampiran/summary-tangki.jpg>]
+
+pdfTeX warning: pdflatex.exe (file ./lampiran/linesplan-15_des.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<lampiran/linesplan-15_des.pdf, id=1541, 1195.46625pt x 845.1575pt>
+File: lampiran/linesplan-15_des.pdf Graphic file (type pdf)
+<use lampiran/linesplan-15_des.pdf>
+Package pdftex.def Info: lampiran/linesplan-15_des.pdf  used on input line 207.
+(pdftex.def)             Requested size: 1195.46333pt x 845.15544pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./lampiran/linesplan-15_des.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+File: lampiran/linesplan-15_des.pdf Graphic file (type pdf)
+<use lampiran/linesplan-15_des.pdf>
+Package pdftex.def Info: lampiran/linesplan-15_des.pdf  used on input line 207.
+(pdftex.def)             Requested size: 1195.46333pt x 845.15544pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./lampiran/linesplan-15_des.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex.exe (file ./lampiran/linesplan-15_des.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<lampiran/linesplan-15_des.pdf, id=1544, page=1, 1195.46625pt x 845.1575pt>
+File: lampiran/linesplan-15_des.pdf Graphic file (type pdf)
+<use lampiran/linesplan-15_des.pdf, page 1>
+Package pdftex.def Info: lampiran/linesplan-15_des.pdf , page1 used on input line 207.
+(pdftex.def)             Requested size: 1195.46333pt x 845.15544pt.
+File: lampiran/linesplan-15_des.pdf Graphic file (type pdf)
+<use lampiran/linesplan-15_des.pdf, page 1>
+Package pdftex.def Info: lampiran/linesplan-15_des.pdf , page1 used on input line 207.
+(pdftex.def)             Requested size: 1195.68222pt x 845.31018pt.
+File: lampiran/linesplan-15_des.pdf Graphic file (type pdf)
+<use lampiran/linesplan-15_des.pdf, page 1>
+Package pdftex.def Info: lampiran/linesplan-15_des.pdf , page1 used on input line 207.
+(pdftex.def)             Requested size: 1195.68222pt x 845.31018pt.
+File: lampiran/linesplan-15_des.pdf Graphic file (type pdf)
+<use lampiran/linesplan-15_des.pdf, page 1>
+Package pdftex.def Info: lampiran/linesplan-15_des.pdf , page1 used on input line 207.
+(pdftex.def)             Requested size: 1195.68222pt x 845.31018pt.
+
+
+File: lampiran/linesplan-15_des.pdf Graphic file (type pdf)
+<use lampiran/linesplan-15_des.pdf, page 1>
+Package pdftex.def Info: lampiran/linesplan-15_des.pdf , page1 used on input line 207.
+(pdftex.def)             Requested size: 1195.68222pt x 845.31018pt.
+[81
+
+
+ <./lampiran/linesplan-15_des.pdf>]
+
+[82]
+
+pdfTeX warning: pdflatex.exe (file ./lampiran/rencana_umum-15_Des.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<lampiran/rencana_umum-15_Des.pdf, id=1565, 1195.46625pt x 845.1575pt>
+File: lampiran/rencana_umum-15_Des.pdf Graphic file (type pdf)
+<use lampiran/rencana_umum-15_Des.pdf>
+Package pdftex.def Info: lampiran/rencana_umum-15_Des.pdf  used on input line 215.
+(pdftex.def)             Requested size: 1195.46333pt x 845.15544pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./lampiran/rencana_umum-15_Des.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+File: lampiran/rencana_umum-15_Des.pdf Graphic file (type pdf)
+<use lampiran/rencana_umum-15_Des.pdf>
+Package pdftex.def Info: lampiran/rencana_umum-15_Des.pdf  used on input line 215.
+(pdftex.def)             Requested size: 1195.46333pt x 845.15544pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./lampiran/rencana_umum-15_Des.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex.exe (file ./lampiran/rencana_umum-15_Des.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<lampiran/rencana_umum-15_Des.pdf, id=1568, page=1, 1195.46625pt x 845.1575pt>
+File: lampiran/rencana_umum-15_Des.pdf Graphic file (type pdf)
+<use lampiran/rencana_umum-15_Des.pdf, page 1>
+Package pdftex.def Info: lampiran/rencana_umum-15_Des.pdf , page1 used on input line 215.
+(pdftex.def)             Requested size: 1195.46333pt x 845.15544pt.
+File: lampiran/rencana_umum-15_Des.pdf Graphic file (type pdf)
+<use lampiran/rencana_umum-15_Des.pdf, page 1>
+Package pdftex.def Info: lampiran/rencana_umum-15_Des.pdf , page1 used on input line 215.
+(pdftex.def)             Requested size: 1195.68222pt x 845.31018pt.
+File: lampiran/rencana_umum-15_Des.pdf Graphic file (type pdf)
+<use lampiran/rencana_umum-15_Des.pdf, page 1>
+Package pdftex.def Info: lampiran/rencana_umum-15_Des.pdf , page1 used on input line 215.
+(pdftex.def)             Requested size: 1195.68222pt x 845.31018pt.
+File: lampiran/rencana_umum-15_Des.pdf Graphic file (type pdf)
+<use lampiran/rencana_umum-15_Des.pdf, page 1>
+Package pdftex.def Info: lampiran/rencana_umum-15_Des.pdf , page1 used on input line 215.
+(pdftex.def)             Requested size: 1195.68222pt x 845.31018pt.
+
+
+File: lampiran/rencana_umum-15_Des.pdf Graphic file (type pdf)
+<use lampiran/rencana_umum-15_Des.pdf, page 1>
+Package pdftex.def Info: lampiran/rencana_umum-15_Des.pdf , page1 used on input line 215.
+(pdftex.def)             Requested size: 1195.68222pt x 845.31018pt.
+[83
+
+
+ <./lampiran/rencana_umum-15_Des.pdf>])
+
+[84
+
+] (./lainnya/biodata-penulis.tex
+<kep_yudisium/crop 34.jpg, id=1594, 85.2786pt x 113.7048pt>
 File: kep_yudisium/crop 34.jpg Graphic file (type jpg)
 <use kep_yudisium/crop 34.jpg>
 Package pdftex.def Info: kep_yudisium/crop 34.jpg  used on input line 5.
@@ -2089,8 +2183,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--7
 
 )
 
-[79
-
+[85
 
  <./kep_yudisium/crop 34.jpg>] (./main.aux)
  ***********
@@ -2098,21 +2191,21 @@ LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2020/03/25>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 3EA86B50A0203577A95ED016BF2F948B;16201.
+(rerunfilecheck)             Checksum: 30333379016716A5CD5F0F55331EEFFF;16128.
  ) 
 Here is how much of TeX's memory you used:
- 40805 strings out of 473249
- 917818 string characters out of 5721992
- 1521102 words of memory out of 5000000
- 62568 multiletter control sequences out of 15000+600000
- 637436 words of font info for 77 fonts, out of 8000000 for 9000
+ 40790 strings out of 473249
+ 918073 string characters out of 5721992
+ 1521100 words of memory out of 5000000
+ 62553 multiletter control sequences out of 15000+600000
+ 622333 words of font info for 72 fonts, out of 8000000 for 9000
  1300 hyphenation exceptions out of 8191
- 96i,17n,101p,1327b,736s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmex10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmmi12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmmi7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmmi9.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr9.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy9.pfb>
-Output written on main.pdf (103 pages, 23508463 bytes).
+ 96i,17n,101p,1327b,643s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmex10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmmi12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmmi7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmmi9.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr9.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy9.pfb>
+Output written on main.pdf (109 pages, 23896622 bytes).
 PDF statistics:
- 1643 PDF objects out of 1728 (max. 8388607)
- 1344 compressed objects within 14 object streams
- 368 named destinations out of 1000 (max. 500000)
- 1178 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1757 PDF objects out of 2073 (max. 8388607)
+ 1424 compressed objects within 15 object streams
+ 376 named destinations out of 1000 (max. 500000)
+ 1243 words of extra memory for PDF output out of 10000 (max. 10000000)
 

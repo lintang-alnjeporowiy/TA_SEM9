@@ -2,7 +2,7 @@
 \author{Fitri, Lintang}
 
 \documentclass[12pt,twoside]{book}
-\usepackage[a4paper,top=25mm,left=25mm,right=20mm,bottom=25mm]{geometry}
+\usepackage[a4paper,top=30mm,left=30mm,right=20mm,bottom=25mm]{geometry}
 \usepackage[onehalfspacing]{setspace}
 \usepackage[indonesian]{babel}
 \usepackage{mathptmx}
@@ -66,10 +66,10 @@
 \patchcmd{\chapter}{empty}{plain}{}{}
 
 \usepackage{titlesec}
-\titleformat{\chapter}[display]{\bfseries\Large}{BAB \centering\Roman{chapter}}{0ex}{\vspace{0ex}\centering}
-\titleformat{\section}{\bfseries\large}{\MakeUppercase{\thesection}}{1ex}{\vspace{1ex}}
-\titleformat{\subsection}{\bfseries\large}{\MakeUppercase{\thesubsection}}{1ex}{}
-\titleformat{\subsubsection}{\bfseries\large}{\MakeUppercase{\thesubsubsection}}{1ex}{}
+\titleformat{\chapter}[display]{\bfseries\large}{BAB \centering\Roman{chapter}}{0ex}{\vspace{0ex}\centering}
+\titleformat{\section}{\bfseries\normalsize}{\MakeUppercase{\thesection}}{1ex}{\vspace{1ex}}
+\titleformat{\subsection}{\bfseries\normalsize}{\MakeUppercase{\thesubsection}}{1ex}{}
+\titleformat{\subsubsection}{\bfseries\normalsize}{\MakeUppercase{\thesubsubsection}}{1ex}{}
 \titlespacing{\chapter}{0ex}{0ex}{4ex}
 \titlespacing{\section}{0ex}{1ex}{0ex}
 \titlespacing{\subsection}{0ex}{0.5ex}{0ex}
@@ -138,34 +138,34 @@
 
 \subimport{pustaka}{tanda-hubung.tex}
 
-\newenvironment{cover}[1]{
-  \AddToShipoutPictureBG*{
-    \AtPageLowerLeft{
-      \hspace{-3.5mm}
-      \raisebox{0mm}{
-        \includegraphics[width=\paperwidth,height=\paperheight]{#1}
-      }
-    }
-  }
-  \thispagestyle{empty}
-  \newgeometry{top=95mm,left=25mm,right=20mm,bottom=25mm}
-  \begin{flushleft}
-    \sffamily
-    \fontseries{bx}
-    \selectfont
-}{
-  \end{flushleft}
-  \restoregeometry
-}
+% \newenvironment{cover}[1]{
+%   \AddToShipoutPictureBG*{
+%     \AtPageLowerLeft{
+%       \hspace{-3.5mm}
+%       \raisebox{0mm}{
+%         \includegraphics[width=\paperwidth,height=\paperheight]{#1}
+%       }
+%     }
+%   }
+%   \thispagestyle{empty}
+%   \newgeometry{top=95mm,left=25mm,right=20mm,bottom=25mm}
+%   \begin{flushleft}
+%     \sffamily
+%     \fontseries{bx}
+%     \selectfont
+% }{
+%   \end{flushleft}
+%   \restoregeometry
+% }
 
 \begin{document}
 
   \frontmatter
   
-  \begin{cover}{sampul/gambar/sampul-luar.png}
-    \color{white}
-    \subimport{sampul}{sampul-id.tex}
-  \end{cover}
+  % \begin{cover}{sampul/gambar/sampul-luar.png}
+  %   \color{white}
+  %   \subimport{sampul}{sampul-id.tex}
+  % \end{cover}
   % \setcounter{page}{1}
 
   % \begin{cover}{sampul/gambar/sampul-dalam.png}
@@ -179,8 +179,15 @@
   % \cleardoublepage
 
   \phantomsection
+  \includepdf[pages=-]{lainnya/sampul_luar.pdf}
   \cleardoublepage
-  \includepdf[pages=-]{kep_yudisium/sampul_dalam.pdf}
+
+  \phantomsection
+  \includepdf[pages=-]{lainnya/sampul_dalam_id.pdf}
+  \cleardoublepage
+
+  \phantomsection
+  \includepdf[pages=-]{lainnya/sampul_dalam_en.pdf}
   \cleardoublepage
 
   \setlength{\parindent}{2em}
@@ -245,8 +252,13 @@
   % \addcontentsline{toc}{chapter}{\lstlistlistingname}
   % \cleardoublepage
 
-  \renewcommand*\listtablename{\hfill DAFTAR TABEL}
+  % \renewcommand*\listtablename{\hfill DAFTAR TABEL}
+  % \renewcommand{\cftafterlottitle}{\hfill}
+
+  \renewcommand*\listtablename{\hfill \normalsize DAFTAR TABEL}
   \renewcommand{\cftafterlottitle}{\hfill}
+  
+
   \listoftables
   \end{spacing}
   \addcontentsline{toc}{chapter}{\listtablename}
