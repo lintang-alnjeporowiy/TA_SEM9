@@ -5,9 +5,14 @@
 \usepackage[a4paper,top=30mm,left=30mm,right=20mm,bottom=25mm]{geometry}
 \usepackage[onehalfspacing]{setspace}
 \usepackage[indonesian]{babel}
-\usepackage{mathptmx}
+% \usepackage{mathptmx} %use for pdflatex
+\usepackage{fontspec} % Needed for custom font selection
+
+% Set Times New Roman as the main font
+\setmainfont{Times New Roman}
+
 \usepackage[pdfauthor={\@author},bookmarksnumbered,pdfborder={0 0 0}]{hyperref}
-\usepackage[utf8]{inputenc}
+% \usepackage[utf8]{inputenc} %XeLaTeX not needed
 \usepackage[table,xcdraw]{xcolor}
 \usepackage[authoryear]{natbib}
 \usepackage{amsmath}
@@ -24,7 +29,7 @@
 \usepackage{hhline}
 \usepackage{import}
 \usepackage{lipsum}
-\usepackage{lmodern}
+% \usepackage{lmodern} % not needed XeLaTeX
 \usepackage{longtable}
 \usepackage{multido}
 \usepackage{multirow}
@@ -179,15 +184,15 @@
   % \cleardoublepage
 
   \phantomsection
-  \includepdf[pages=-]{lainnya/sampul_luar.pdf}
+  \includepdf[pages=-]{lainnya/sampul_luar2.pdf}
   \cleardoublepage
 
   \phantomsection
-  \includepdf[pages=-]{lainnya/sampul_dalam_id.pdf}
+  \includepdf[pages=-]{lainnya/sampul_dalam_id2.pdf}
   \cleardoublepage
 
   \phantomsection
-  \includepdf[pages=-]{lainnya/sampul_dalam_en.pdf}
+  \includepdf[pages=-]{lainnya/sampul_dalam_en2.pdf}
   \cleardoublepage
 
   \setlength{\parindent}{2em}
@@ -195,12 +200,22 @@
 
   \phantomsection
   \addcontentsline{toc}{chapter}{LEMBAR PENGESAHAN}
-  \includepdf[pages=-]{kep_yudisium/Approval.pdf}
+  \includepdf[pages=-]{lainnya/lembar_pengesahan.pdf}
+  \cleardoublepage
+
+  \phantomsection
+  \addcontentsline{toc}{chapter}{APPROVAL SHEET}
+  \includepdf[pages=-]{lainnya/approval_sheet.pdf}
   \cleardoublepage
 
   \phantomsection
   \addcontentsline{toc}{chapter}{PERNYATAAN ORISINALITAS}
-  \includepdf[pages=-]{kep_yudisium/orisinalitas.pdf}
+  \includepdf[pages=-]{lainnya/pernyataan_originalitas.pdf}
+  \cleardoublepage
+
+  \phantomsection
+  \addcontentsline{toc}{chapter}{STATEMENT OF ORIGINALITY}
+  \includepdf[pages=-]{lainnya/statement_of_originality.pdf}
   \cleardoublepage
 
   % \subimport{lainnya}{pernyataan-keaslian.tex}

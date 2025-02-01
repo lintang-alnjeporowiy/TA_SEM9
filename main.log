@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.10)  1 FEB 2025 06:31
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.1.10)  1 FEB 2025 17:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -12,15 +12,15 @@ Document Class: book 2024/06/29 v1.4n Standard LaTeX document class
 (c:/texlive/2024/texmf-dist/tex/latex/base/bk12.clo
 File: bk12.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count196
-\c@chapter=\count197
-\c@section=\count198
-\c@subsection=\count199
-\c@subsubsection=\count266
-\c@paragraph=\count267
-\c@subparagraph=\count268
-\c@figure=\count269
-\c@table=\count270
+\c@part=\count192
+\c@chapter=\count193
+\c@section=\count194
+\c@subsection=\count195
+\c@subsubsection=\count196
+\c@paragraph=\count197
+\c@subparagraph=\count198
+\c@figure=\count199
+\c@table=\count266
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
 \bibindent=\dimen141
@@ -34,9 +34,9 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
  (c:/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2024/12/12 v1.0g TeX engine tests
 ))
-\Gm@cnth=\count271
-\Gm@cntv=\count272
-\c@Gm@tempcnt=\count273
+\Gm@cnth=\count267
+\Gm@cntv=\count268
+\c@Gm@tempcnt=\count269
 \Gm@bindingoffset=\dimen142
 \Gm@wd@mp=\dimen143
 \Gm@odd@mp=\dimen144
@@ -50,53 +50,77 @@ Package: iftex 2024/12/12 v1.0g TeX engine tests
 Package: setspace 2022/12/04 v6.7b set line spacing
 ) (c:/texlive/2024/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2025/01/01 v25.1 The multilingual framework for pdfLaTeX, LuaLaTeX and XeLaTeX
-\babel@savecnt=\count274
+\babel@savecnt=\count270
 \U@D=\dimen150
 \l@unhyphenated=\language89
- (c:/texlive/2024/texmf-dist/tex/generic/babel/txtbabel.def)
+ (c:/texlive/2024/texmf-dist/tex/generic/babel/xebabel.def)
 \bbl@readstream=\read2
-\bbl@dirlevel=\count275
+\bbl@dirlevel=\count271
  (c:/texlive/2024/texmf-dist/tex/generic/babel-indonesian/indonesian.ldf
 Language: indonesian 2017/02/15 v1.0m Bahasa Indonesia support from the babel system
 )) (c:/texlive/2024/texmf-dist/tex/generic/babel/locale/id/babel-indonesian.tex
 Package babel Info: Importing font and identification data for indonesian
 (babel)             from babel-id.ini. Reported on input line 11.
-) (c:/texlive/2024/texmf-dist/tex/latex/psnfss/mathptmx.sty
-Package: mathptmx 2020/03/25 PSNFSS-v9.3 Times w/ Math, improved (SPQR, WaS) 
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
-LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
-LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
-LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
-LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
-(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
-LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
-(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
-LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
-LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
-(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
-LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
-(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
-LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
-LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
-(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
-LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
-(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
-\symbold=\mathgroup4
-\symitalic=\mathgroup5
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
-LaTeX Info: Redefining \hbar on input line 50.
-) (c:/texlive/2024/texmf-dist/tex/latex/hyperref/hyperref.sty
+) (c:/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec.sty (c:/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (c:/texlive/2024/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2024-12-25 L3 programming layer (loader) 
+ (c:/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2024-05-08 L3 backend support: XeTeX
+\g__graphics_track_int=\count272
+\l__pdf_internal_box=\box52
+\g__pdf_backend_annotation_int=\count273
+\g__pdf_backend_link_int=\count274
+))
+Package: xparse 2024-08-16 L3 Experimental document command parser
+)
+Package: fontspec 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
+ (c:/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
+\l__fontspec_script_int=\count275
+\l__fontspec_language_int=\count276
+\l__fontspec_strnum_int=\count277
+\l__fontspec_tmp_int=\count278
+\l__fontspec_tmpa_int=\count279
+\l__fontspec_tmpb_int=\count280
+\l__fontspec_tmpc_int=\count281
+\l__fontspec_em_int=\count282
+\l__fontspec_emdef_int=\count283
+\l__fontspec_strong_int=\count284
+\l__fontspec_strongdef_int=\count285
+\l__fontspec_tmpa_dim=\dimen151
+\l__fontspec_tmpb_dim=\dimen152
+\l__fontspec_tmpc_dim=\dimen153
+ (c:/texlive/2024/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (c:/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+
+Package fontspec Info: 
+(fontspec)             Font family 'TimesNewRoman(0)' created for font 'Times
+(fontspec)             New Roman' with options [Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"Times New
+(fontspec)             Roman/OT:script=latn;language=dflt;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/B/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: <->"Times
+(fontspec)             New
+(fontspec)             Roman/B/OT:script=latn;language=dflt;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/I/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"Times New
+(fontspec)             Roman/I/OT:script=latn;language=dflt;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/BI/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"Times New
+(fontspec)             Roman/BI/OT:script=latn;language=dflt;+smcp;mapping=tex-text;"
+
+ (c:/texlive/2024/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2024-11-05 v7.01l Hypertext links for LaTeX
  (c:/texlive/2024/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
@@ -113,7 +137,7 @@ Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
+Package pdftexcmds Info: \pdfdraftmode not found.
 )) (c:/texlive/2024/texmf-dist/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 ) (c:/texlive/2024/texmf-dist/tex/latex/hyperref/nameref.sty
@@ -125,28 +149,24 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
  (c:/texlive/2024/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
-\c@section@level=\count276
+\c@section@level=\count286
 ) (c:/texlive/2024/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count277
+\etb@tempcnta=\count287
 ) (c:/texlive/2024/texmf-dist/tex/generic/stringenc/stringenc.sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 )
-\@linkdim=\dimen151
-\Hy@linkcounter=\count278
-\Hy@pagecounter=\count279
+\@linkdim=\dimen154
+\Hy@linkcounter=\count288
+\Hy@pagecounter=\count289
  (c:/texlive/2024/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2024-11-05 v7.01l Hyperref: PDFDocEncoding definition (HO)
-Now handling font encoding PD1 ...
-... no UTF-8 mapping file for font encoding PD1
 ) (c:/texlive/2024/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count280
+\Hy@SavedSpaceFactor=\count290
  (c:/texlive/2024/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2024-11-05 v7.01l Hyperref: PDF Unicode definition (HO)
-Now handling font encoding PU ...
-... no UTF-8 mapping file for font encoding PU
 )
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
@@ -164,21 +184,21 @@ Package hyperref Info: Plain pages OFF on input line 4172.
 Package hyperref Info: Backreferencing OFF on input line 4177.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4424.
-\c@Hy@tempcnt=\count281
+\c@Hy@tempcnt=\count291
 (c:/texlive/2024/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4763.
-\XeTeXLinkMargin=\dimen152
+\XeTeXLinkMargin=\dimen155
  (c:/texlive/2024/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
  (c:/texlive/2024/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
-\Fld@menulength=\count282
-\Field@Width=\dimen153
-\Fld@charsize=\dimen154
+\Fld@menulength=\count292
+\Field@Width=\dimen156
+\Fld@charsize=\dimen157
 Package hyperref Info: Hyper figures OFF on input line 6042.
 Package hyperref Info: Link nesting OFF on input line 6047.
 Package hyperref Info: Hyper index ON on input line 6050.
@@ -190,42 +210,39 @@ Package hyperref Info: PDF/A mode OFF on input line 6072.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count283
-\c@Item=\count284
-\c@Hfootnote=\count285
+\Hy@abspage=\count293
+\c@Item=\count294
+\c@Hfootnote=\count295
 )
-Package hyperref Info: Driver (autodetected): hpdftex.
- (c:/texlive/2024/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2024-11-05 v7.01l Hyperref driver for pdfTeX
+Package hyperref Info: Driver (autodetected): hxetex.
+ (c:/texlive/2024/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2024-11-05 v7.01l Hyperref driver for XeTeX
+\pdfm@box=\box53
+\c@Hy@AnnotLevel=\count296
+\HyField@AnnotCount=\count297
+\Fld@listcount=\count298
+\c@bookmark@seq@number=\count299
+ (c:/texlive/2024/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
  (c:/texlive/2024/texmf-dist/tex/latex/base/atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
-)
-\Fld@listcount=\count286
-\c@bookmark@seq@number=\count287
- (c:/texlive/2024/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
-Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
- (c:/texlive/2024/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+) (c:/texlive/2024/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
 )
 \Hy@SectionHShift=\skip51
-) (c:/texlive/2024/texmf-dist/tex/latex/base/inputenc.sty
-Package: inputenc 2024/02/08 v1.3d Input encoding file
-\inpenc@prehook=\toks19
-\inpenc@posthook=\toks20
 ) (c:/texlive/2024/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
  (c:/texlive/2024/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package xcolor Info: Driver file: pdftex.def on input line 274.
- (c:/texlive/2024/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+Package xcolor Info: Driver file: xetex.def on input line 274.
+ (c:/texlive/2024/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
 ) (c:/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
 Package xcolor Info: Model `RGB' extended on input line 1365.
 Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
 Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
@@ -237,23 +254,23 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
 Package: colortbl 2024/07/06 v1.0i Color table columns (DPC)
  (c:/texlive/2024/texmf-dist/tex/latex/tools/array.sty
 Package: array 2024/10/17 v2.6g Tabular extension package (FMi)
-\col@sep=\dimen155
-\ar@mcellbox=\box52
-\extrarowheight=\dimen156
-\NC@list=\toks21
+\col@sep=\dimen158
+\ar@mcellbox=\box54
+\extrarowheight=\dimen159
+\NC@list=\toks19
 \extratabsurround=\skip52
 \backup@length=\skip53
-\ar@cellbox=\box53
+\ar@cellbox=\box55
 )
-\everycr=\toks22
+\everycr=\toks20
 \minrowclearance=\skip54
-\rownum=\count288
+\rownum=\count300
 ) (c:/texlive/2024/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip55
 \bibsep=\skip56
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count289
+\c@NAT@ctr=\count301
 ) (c:/texlive/2024/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2024/11/05 v2.17t AMS math features
 \@mathmargin=\skip57
@@ -263,82 +280,82 @@ For additional information on amsmath, use the `?' option.
 Package: amstext 2021/08/26 v2.01 AMS text
  (c:/texlive/2024/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks23
-\ex@=\dimen157
+\@emptytoks=\toks21
+\ex@=\dimen160
 )) (c:/texlive/2024/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen158
+\pmbraise@=\dimen161
 ) (c:/texlive/2024/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count290
+\inf@bad=\count302
 LaTeX Info: Redefining \frac on input line 233.
-\uproot@=\count291
-\leftroot@=\count292
+\uproot@=\count303
+\leftroot@=\count304
 LaTeX Info: Redefining \overline on input line 398.
 LaTeX Info: Redefining \colon on input line 409.
-\classnum@=\count293
-\DOTSCASE@=\count294
+\classnum@=\count305
+\DOTSCASE@=\count306
 LaTeX Info: Redefining \ldots on input line 495.
 LaTeX Info: Redefining \dots on input line 498.
 LaTeX Info: Redefining \cdots on input line 619.
-\Mathstrutbox@=\box54
-\strutbox@=\box55
+\Mathstrutbox@=\box56
+\strutbox@=\box57
 LaTeX Info: Redefining \big on input line 721.
 LaTeX Info: Redefining \Big on input line 722.
 LaTeX Info: Redefining \bigg on input line 723.
 LaTeX Info: Redefining \Bigg on input line 724.
-\big@size=\dimen159
+\big@size=\dimen162
 LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
-\macc@depth=\count295
+\macc@depth=\count307
 LaTeX Info: Redefining \bmod on input line 904.
 LaTeX Info: Redefining \pmod on input line 909.
 LaTeX Info: Redefining \smash on input line 939.
 LaTeX Info: Redefining \relbar on input line 969.
 LaTeX Info: Redefining \Relbar on input line 970.
-\c@MaxMatrixCols=\count296
+\c@MaxMatrixCols=\count308
 \dotsspace@=\muskip18
-\c@parentequation=\count297
-\dspbrk@lvl=\count298
-\tag@help=\toks24
-\row@=\count299
-\column@=\count300
-\maxfields@=\count301
-\andhelp@=\toks25
-\eqnshift@=\dimen160
-\alignsep@=\dimen161
-\tagshift@=\dimen162
-\tagwidth@=\dimen163
-\totwidth@=\dimen164
-\lineht@=\dimen165
-\@envbody=\toks26
+\c@parentequation=\count309
+\dspbrk@lvl=\count310
+\tag@help=\toks22
+\row@=\count311
+\column@=\count312
+\maxfields@=\count313
+\andhelp@=\toks23
+\eqnshift@=\dimen163
+\alignsep@=\dimen164
+\tagshift@=\dimen165
+\tagwidth@=\dimen166
+\totwidth@=\dimen167
+\lineht@=\dimen168
+\@envbody=\toks24
 \multlinegap=\skip58
 \multlinetaggap=\skip59
-\mathdisplay@stack=\toks27
+\mathdisplay@stack=\toks25
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
 ) (c:/texlive/2024/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2023/08/05 v3.6o Customizing captions (AR)
  (c:/texlive/2024/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
-\caption@tempdima=\dimen166
-\captionmargin=\dimen167
-\caption@leftmargin=\dimen168
-\caption@rightmargin=\dimen169
-\caption@width=\dimen170
-\caption@indent=\dimen171
-\caption@parindent=\dimen172
-\caption@hangindent=\dimen173
+\caption@tempdima=\dimen169
+\captionmargin=\dimen170
+\caption@leftmargin=\dimen171
+\caption@rightmargin=\dimen172
+\caption@width=\dimen173
+\caption@indent=\dimen174
+\caption@parindent=\dimen175
+\caption@hangindent=\dimen176
 Package caption Info: Standard document class detected.
 )
-\c@caption@flags=\count302
-\c@continuedfloat=\count303
+\c@caption@flags=\count314
+\c@continuedfloat=\count315
 Package caption Info: hyperref package is loaded.
 ) (c:/texlive/2024/texmf-dist/tex/latex/tools/verbatim.sty
 Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks28
-\verbatim@line=\toks29
+\every@verbatim=\toks26
+\verbatim@line=\toks27
 \verbatim@in@stream=\read3
 ) (c:/texlive/2024/texmf-dist/tex/latex/tocloft/tocloft.sty
 Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
@@ -372,8 +389,8 @@ Package tocloft Info: The document has chapter divisions on input line 51.
 \cftbeforefigskip=\skip86
 \cftfigindent=\skip87
 \cftfignumwidth=\skip88
-\c@lofdepth=\count304
-\c@lotdepth=\count305
+\c@lofdepth=\count316
+\c@lotdepth=\count317
 \cftbeforelottitleskip=\skip89
 \cftafterlottitleskip=\skip90
 \cftbeforetabskip=\skip91
@@ -381,25 +398,25 @@ Package tocloft Info: The document has chapter divisions on input line 51.
 \cfttabnumwidth=\skip93
 ) (c:/texlive/2024/texmf-dist/tex/latex/changepage/changepage.sty
 Package: changepage 2009/10/20 v1.0c check page and change page layout
-\c@cp@cntr=\count306
-\cp@tempcnt=\count307
+\c@cp@cntr=\count318
+\cp@tempcnt=\count319
 ) (c:/texlive/2024/texmf-dist/tex/latex/csvsimple/csvsimple.sty
 Package: csvsimple 2024/09/27 v2.7.0 LaTeX CSV file processing
 ) (c:/texlive/2024/texmf-dist/tex/latex/csvsimple/csvsimple-legacy.sty
 Package: csvsimple-legacy 2024/09/27 version 2.7.0 LaTeX2e CSV file processing
  (c:/texlive/2024/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
-\pgfutil@everybye=\toks30
-\pgfutil@tempdima=\dimen174
-\pgfutil@tempdimb=\dimen175
+\pgfutil@everybye=\toks28
+\pgfutil@tempdima=\dimen177
+\pgfutil@tempdimb=\dimen178
 ) (c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
-\pgfutil@abb=\box56
+\pgfutil@abb=\box58
 ) (c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (c:/texlive/2024/texmf-dist/tex/generic/pgf/pgf.revision.tex)
 Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
 )) (c:/texlive/2024/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks31
-\pgfkeys@temptoks=\toks32
+\pgfkeys@pathtoks=\toks29
+\pgfkeys@temptoks=\toks30
  (c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.tex
-\pgfkeys@tmptoks=\toks33
+\pgfkeys@tmptoks=\toks31
 ))) (c:/texlive/2024/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
 ) (c:/texlive/2024/texmf-dist/tex/latex/tools/shellesc.sty
@@ -407,28 +424,28 @@ Package: shellesc 2023/07/08 v1.0d unified shell escape interface for LaTeX
 Package shellesc Info: Restricted shell escape enabled on input line 77.
 )
 \csv@file=\read4
-\c@csvinputline=\count308
-\c@csvrow=\count309
-\c@csvcol=\count310
+\c@csvinputline=\count320
+\c@csvrow=\count321
+\c@csvcol=\count322
 \csv@out=\write3
 ) (c:/texlive/2024/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \labelindent=\skip94
-\enit@outerparindent=\dimen176
-\enit@toks=\toks34
-\enit@inbox=\box57
-\enit@count@id=\count311
-\enitdp@description=\count312
+\enit@outerparindent=\dimen179
+\enit@toks=\toks32
+\enit@inbox=\box59
+\enit@count@id=\count323
+\enitdp@description=\count324
 ) (c:/texlive/2024/texmf-dist/tex/latex/eso-pic/eso-pic.sty
 Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
-\ESO@tempdima=\dimen177
-\ESO@tempdimb=\dimen178
+\ESO@tempdima=\dimen180
+\ESO@tempdimb=\dimen181
 ) (c:/texlive/2024/texmf-dist/tex/latex/caption/subcaption.sty
 Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
 Package caption Info: New subtype `subfigure' on input line 238.
-\c@subfigure=\count313
+\c@subfigure=\count325
 Package caption Info: New subtype `subtable' on input line 238.
-\c@subtable=\count314
+\c@subtable=\count326
 ) (c:/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
  (c:/texlive/2024/texmf-dist/tex/latex/graphics/graphics.sty
@@ -438,93 +455,53 @@ Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
 ) (c:/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 106.
+Package graphics Info: Driver file: xetex.def on input line 106.
 )
-\Gin@req@height=\dimen179
-\Gin@req@width=\dimen180
+\Gin@req@height=\dimen182
+\Gin@req@width=\dimen183
 ) (c:/texlive/2024/texmf-dist/tex/latex/tools/hhline.sty
 Package: hhline 2020/01/04 v2.04 Table rule package (DPC)
 ) (c:/texlive/2024/texmf-dist/tex/latex/import/import.sty
 Package: import 2020/04/01  v 6.2
-) (c:/texlive/2024/texmf-dist/tex/latex/lipsum/lipsum.sty (c:/texlive/2024/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty (c:/texlive/2024/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2024-12-25 L3 programming layer (loader) 
- (c:/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count315
-\l__pdf_internal_box=\box58
-))
+) (c:/texlive/2024/texmf-dist/tex/latex/lipsum/lipsum.sty (c:/texlive/2024/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
 Package: l3keys2e 2024-08-16 LaTeX2e option processing using LaTeX3 keys
 )
 Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
-\g__lipsum_par_int=\count316
-\l__lipsum_a_int=\count317
-\l__lipsum_b_int=\count318
- (c:/texlive/2024/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex)) (c:/texlive/2024/texmf-dist/tex/latex/lm/lmodern.sty
-Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
-LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/ztmcm/m/n --> OT1/lmr/m/n on input line 22.
-LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
-(Font)                  OML/ztmcm/m/it --> OML/lmm/m/it on input line 23.
-LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
-(Font)                  OMS/ztmcm/m/n --> OMS/lmsy/m/n on input line 24.
-LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
-(Font)                  OMX/ztmcm/m/n --> OMX/lmex/m/n on input line 25.
-LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/ztmcm/m/n --> OT1/lmr/bx/n on input line 26.
-LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
-(Font)                  OML/ztmcm/m/it --> OML/lmm/b/it on input line 27.
-LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
-(Font)                  OMS/ztmcm/m/n --> OMS/lmsy/b/n on input line 28.
-LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
-(Font)                  OMX/ztmcm/m/n --> OMX/lmex/m/n on input line 29.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/ptm/bx/n --> OT1/lmr/bx/n on input line 31.
-LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/ptm/m/it --> OT1/lmr/m/it on input line 33.
-LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/ptm/bx/n --> OT1/lmr/bx/n on input line 35.
-LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/ptm/m/it --> OT1/lmr/bx/it on input line 37.
-LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
-) (c:/texlive/2024/texmf-dist/tex/latex/tools/longtable.sty
+\g__lipsum_par_int=\count327
+\l__lipsum_a_int=\count328
+\l__lipsum_b_int=\count329
+ (c:/texlive/2024/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex)) (c:/texlive/2024/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2024-10-27 v4.22 Multi-page Table package (DPC)
 \LTleft=\skip95
 \LTright=\skip96
 \LTpre=\skip97
 \LTpost=\skip98
-\LTchunksize=\count319
-\LTcapwidth=\dimen181
-\LT@head=\box59
-\LT@firsthead=\box60
-\LT@foot=\box61
-\LT@lastfoot=\box62
-\LT@gbox=\box63
-\LT@cols=\count320
-\LT@rows=\count321
-\c@LT@tables=\count322
-\c@LT@chunks=\count323
-\LT@p@ftn=\toks35
+\LTchunksize=\count330
+\LTcapwidth=\dimen184
+\LT@head=\box60
+\LT@firsthead=\box61
+\LT@foot=\box62
+\LT@lastfoot=\box63
+\LT@gbox=\box64
+\LT@cols=\count331
+\LT@rows=\count332
+\c@LT@tables=\count333
+\c@LT@chunks=\count334
+\LT@p@ftn=\toks33
 ) (c:/texlive/2024/texmf-dist/tex/latex/multido/multido.sty
 Package: multido 2004/05/17 package wrapper for PSTricks `multido.tex', (HV/RN)
  (c:/texlive/2024/texmf-dist/tex/generic/multido/multido.tex  v1.42, 2010/05/14 <tvz>
-\multido@count=\count324
-\multidocount=\count325
-\multido@stuff=\toks36
+\multido@count=\count335
+\multidocount=\count336
+\multido@stuff=\toks34
 )
 File: multido.tex 2010/05/14 v1.42 `multido' (tvz,hv)
 ) (c:/texlive/2024/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
 \multirow@colwidth=\skip99
-\multirow@cntb=\count326
+\multirow@cntb=\count337
 \multirow@dima=\skip100
-\bigstrutjot=\dimen182
+\bigstrutjot=\dimen185
 ) (c:/texlive/2024/texmf-dist/tex/latex/pdflscape/pdflscape.sty
 Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
  (c:/texlive/2024/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty
@@ -532,75 +509,73 @@ Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PDF
  (c:/texlive/2024/texmf-dist/tex/latex/graphics/lscape.sty
 Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
-Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
 )) (c:/texlive/2024/texmf-dist/tex/latex/pdfpages/pdfpages.sty
 Package: pdfpages 2024/10/28 v0.6c Insert pages of external PDF documents (AM)
  (c:/texlive/2024/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count327
-\calc@Bcount=\count328
-\calc@Adimen=\dimen183
-\calc@Bdimen=\dimen184
+\calc@Acount=\count338
+\calc@Bcount=\count339
+\calc@Adimen=\dimen186
+\calc@Bdimen=\dimen187
 \calc@Askip=\skip101
 \calc@Bskip=\skip102
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count329
+\calc@Ccount=\count340
 \calc@Cskip=\skip103
 )
-\AM@pagewidth=\dimen185
-\AM@pageheight=\dimen186
-\AM@fboxrule=\dimen187
- (c:/texlive/2024/texmf-dist/tex/latex/pdfpages/pppdftex.def
-File: pppdftex.def 2024/10/28 v0.6c Pdfpages driver for pdfTeX (AM)
+\AM@pagewidth=\dimen188
+\AM@pageheight=\dimen189
+\AM@fboxrule=\dimen190
+ (c:/texlive/2024/texmf-dist/tex/latex/pdfpages/ppxetex.def
+File: ppxetex.def 2024/10/28 v0.6c Pdfpages driver for XeTeX (AM)
 )
-\pdfpages@includegraphics@status=\count330
-\AM@pagebox=\box64
-\AM@global@opts=\toks37
-\AM@pagecnt=\count331
-\AM@toc@title=\toks38
-\AM@lof@heading=\toks39
-\c@AM@survey=\count332
-\AM@templatesizebox=\box65
+\pdfpages@includegraphics@status=\count341
+\AM@pagebox=\box65
+\AM@global@opts=\toks35
+\AM@pagecnt=\count342
+\AM@toc@title=\toks36
+\AM@lof@heading=\toks37
+\c@AM@survey=\count343
+\AM@templatesizebox=\box66
 ) (c:/texlive/2024/texmf-dist/tex/latex/graphics/rotating.sty
 Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
-\c@r@tfl@t=\count333
+\c@r@tfl@t=\count344
 \rotFPtop=\skip104
 \rotFPbot=\skip105
-\rot@float@box=\box66
-\rot@mess@toks=\toks40
+\rot@float@box=\box67
+\rot@mess@toks=\toks38
 ) (c:/texlive/2024/texmf-dist/tex/latex/rotfloat/rotfloat.sty
 Package: rotfloat 2004/01/04 v1.2 Combining float+rotating package (AS)
  (c:/texlive/2024/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count334
-\float@exts=\toks41
-\float@box=\box67
-\@float@everytoks=\toks42
-\@floatcapt=\box68
+\c@float@type=\count345
+\float@exts=\toks39
+\float@box=\box68
+\@float@everytoks=\toks40
+\@floatcapt=\box69
 )
 Package rotfloat Info: float package v1.3 detected on input line 74.
 ) (c:/texlive/2024/texmf-dist/tex/latex/tools/tabularx.sty
 Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
-\TX@col@width=\dimen188
-\TX@old@table=\dimen189
-\TX@old@col=\dimen190
-\TX@target=\dimen191
-\TX@delta=\dimen192
-\TX@cols=\count335
-\TX@ftn=\toks43
+\TX@col@width=\dimen191
+\TX@old@table=\dimen192
+\TX@old@col=\dimen193
+\TX@target=\dimen194
+\TX@delta=\dimen195
+\TX@cols=\count346
+\TX@ftn=\toks41
 ) (c:/texlive/2024/texmf-dist/tex/latex/wrapfig/wrapfig.sty
-\wrapoverhang=\dimen193
-\WF@size=\dimen194
-\c@WF@wrappedlines=\count336
-\WF@box=\box69
-\WF@everypar=\toks44
+\wrapoverhang=\dimen196
+\WF@size=\dimen197
+\c@WF@wrappedlines=\count347
+\WF@box=\box70
+\WF@everypar=\toks42
 Package: wrapfig 2003/01/31  v 3.6
 ) (c:/texlive/2024/texmf-dist/tex/latex/xpatch/xpatch.sty
 Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
- (c:/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-Package: xparse 2024-08-16 L3 Experimental document command parser
-)) (c:/texlive/2024/texmf-dist/tex/latex/zref/zref-abspage.sty
+) (c:/texlive/2024/texmf-dist/tex/latex/zref/zref-abspage.sty
 Package: zref-abspage 2023-09-14 v2.35 Module abspage for zref (HO)
  (c:/texlive/2024/texmf-dist/tex/latex/zref/zref-base.sty
 Package: zref-base 2023-09-14 v2.35 Module base for zref (HO)
@@ -613,7 +588,7 @@ Package zref Info: New property list: main on input line 767.
 Package zref Info: New property: default on input line 768.
 Package zref Info: New property: page on input line 769.
 )
-\c@abspage=\count337
+\c@abspage=\count348
 Package zref Info: New property: abspage on input line 67.
 ) (c:/texlive/2024/texmf-dist/tex/latex/zref/zref-user.sty
 Package: zref-user 2023-09-14 v2.35 Module user for zref (HO)
@@ -633,38 +608,38 @@ Package: fancyhdr 2025/01/06 v5.1 Extensive control of page headers and footers
 \f@nch@widthL=\skip117
 \f@nch@widthC=\skip118
 \f@nch@widthR=\skip119
-\@temptokenb=\toks45
+\@temptokenb=\toks43
 ) (c:/texlive/2024/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2025/01/04 v2.17 Sectioning titles
-\ttl@box=\box70
+\ttl@box=\box71
 \beforetitleunit=\skip120
 \aftertitleunit=\skip121
-\ttl@plus=\dimen195
-\ttl@minus=\dimen196
-\ttl@toksa=\toks46
-\titlewidth=\dimen197
-\titlewidthlast=\dimen198
-\titlewidthfirst=\dimen199
+\ttl@plus=\dimen198
+\ttl@minus=\dimen199
+\ttl@toksa=\toks44
+\titlewidth=\dimen256
+\titlewidthlast=\dimen257
+\titlewidthfirst=\dimen258
 ) (c:/texlive/2024/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count338
-\lst@gtempboxa=\box71
-\lst@token=\toks47
-\lst@length=\count339
-\lst@currlwidth=\dimen256
-\lst@column=\count340
-\lst@pos=\count341
-\lst@lostspace=\dimen257
-\lst@width=\dimen258
-\lst@newlines=\count342
-\lst@lineno=\count343
-\lst@maxwidth=\dimen259
+\lst@mode=\count349
+\lst@gtempboxa=\box72
+\lst@token=\toks45
+\lst@length=\count350
+\lst@currlwidth=\dimen259
+\lst@column=\count351
+\lst@pos=\count352
+\lst@lostspace=\dimen260
+\lst@width=\dimen261
+\lst@newlines=\count353
+\lst@lineno=\count354
+\lst@maxwidth=\dimen262
  (c:/texlive/2024/texmf-dist/tex/latex/listings/lstpatch.sty
 File: lstpatch.sty 2024/09/23 1.10c (Carsten Heinz)
 ) (c:/texlive/2024/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2024/09/23 1.10c (Carsten Heinz)
-\c@lstnumber=\count344
-\lst@skipnumbers=\count345
-\lst@framebox=\box72
+\c@lstnumber=\count355
+\lst@skipnumbers=\count356
+\lst@framebox=\box73
 ) (c:/texlive/2024/texmf-dist/tex/latex/listings/listings.cfg
 File: listings.cfg 2024/09/23 1.10c listings configuration
 ))
@@ -675,89 +650,93 @@ Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
 Package: pgf 2023-01-15 v3.1.10 (3.1.10)
  (c:/texlive/2024/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (c:/texlive/2024/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
 Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
-\pgf@x=\dimen260
-\pgf@y=\dimen261
-\pgf@xa=\dimen262
-\pgf@ya=\dimen263
-\pgf@xb=\dimen264
-\pgf@yb=\dimen265
-\pgf@xc=\dimen266
-\pgf@yc=\dimen267
-\pgf@xd=\dimen268
-\pgf@yd=\dimen269
+\pgf@x=\dimen263
+\pgf@y=\dimen264
+\pgf@xa=\dimen265
+\pgf@ya=\dimen266
+\pgf@xb=\dimen267
+\pgf@yb=\dimen268
+\pgf@xc=\dimen269
+\pgf@yc=\dimen270
+\pgf@xd=\dimen271
+\pgf@yd=\dimen272
 \w@pgf@writea=\write4
 \r@pgf@reada=\read5
-\c@pgf@counta=\count346
-\c@pgf@countb=\count347
-\c@pgf@countc=\count348
-\c@pgf@countd=\count349
-\t@pgf@toka=\toks48
-\t@pgf@tokb=\toks49
-\t@pgf@tokc=\toks50
-\pgf@sys@id@count=\count350
+\c@pgf@counta=\count357
+\c@pgf@countb=\count358
+\c@pgf@countc=\count359
+\c@pgf@countd=\count360
+\t@pgf@toka=\toks46
+\t@pgf@tokb=\toks47
+\t@pgf@tokc=\toks48
+\pgf@sys@id@count=\count361
  (c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
 )
-Driver file for pgf: pgfsys-pdftex.def
- (c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
-File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+Driver file for pgf: pgfsys-xetex.def
+ (c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.def
+File: pgfsys-xetex.def 2023-01-15 v3.1.10 (3.1.10)
+ (c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx.def
+File: pgfsys-dvipdfmx.def 2023-01-15 v3.1.10 (3.1.10)
  (c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
 File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+)
+\pgfsys@objnum=\count362
 ))) (c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfsyssoftpath@smallbuffer@items=\count351
-\pgfsyssoftpath@bigbuffer@items=\count352
+\pgfsyssoftpath@smallbuffer@items=\count363
+\pgfsyssoftpath@bigbuffer@items=\count364
 ) (c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
 Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
  (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen270
-\pgfmath@count=\count353
-\pgfmath@box=\box73
-\pgfmath@toks=\toks51
-\pgfmath@stack@operand=\toks52
-\pgfmath@stack@operation=\toks53
+\pgfmath@dimen=\dimen273
+\pgfmath@count=\count365
+\pgfmath@box=\box74
+\pgfmath@toks=\toks49
+\pgfmath@stack@operand=\toks50
+\pgfmath@stack@operation=\toks51
 ) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count354
+\c@pgfmathroundto@lastzeros=\count366
 )) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@picminx=\dimen271
-\pgf@picmaxx=\dimen272
-\pgf@picminy=\dimen273
-\pgf@picmaxy=\dimen274
-\pgf@pathminx=\dimen275
-\pgf@pathmaxx=\dimen276
-\pgf@pathminy=\dimen277
-\pgf@pathmaxy=\dimen278
-\pgf@xx=\dimen279
-\pgf@xy=\dimen280
-\pgf@yx=\dimen281
-\pgf@yy=\dimen282
-\pgf@zx=\dimen283
-\pgf@zy=\dimen284
+\pgf@picminx=\dimen274
+\pgf@picmaxx=\dimen275
+\pgf@picminy=\dimen276
+\pgf@picmaxy=\dimen277
+\pgf@pathminx=\dimen278
+\pgf@pathmaxx=\dimen279
+\pgf@pathminy=\dimen280
+\pgf@pathmaxy=\dimen281
+\pgf@xx=\dimen282
+\pgf@xy=\dimen283
+\pgf@yx=\dimen284
+\pgf@yy=\dimen285
+\pgf@zx=\dimen286
+\pgf@zy=\dimen287
 ) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@path@lastx=\dimen285
-\pgf@path@lasty=\dimen286
+\pgf@path@lastx=\dimen288
+\pgf@path@lasty=\dimen289
 ) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
 File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@shorten@end@additional=\dimen287
-\pgf@shorten@start@additional=\dimen288
+\pgf@shorten@end@additional=\dimen290
+\pgf@shorten@start@additional=\dimen291
 ) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
 File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfpic=\box74
-\pgf@hbox=\box75
-\pgf@layerbox@main=\box76
-\pgf@picture@serial@count=\count355
+\pgfpic=\box75
+\pgf@hbox=\box76
+\pgf@layerbox@main=\box77
+\pgf@picture@serial@count=\count367
 ) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgflinewidth=\dimen289
+\pgflinewidth=\dimen292
 ) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
 File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@pt@x=\dimen290
-\pgf@pt@y=\dimen291
-\pgf@pt@temp=\dimen292
+\pgf@pt@x=\dimen293
+\pgf@pt@y=\dimen294
+\pgf@pt@temp=\dimen295
 ) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
@@ -766,17 +745,17 @@ File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
 File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
 File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfarrowsep=\dimen293
+\pgfarrowsep=\dimen296
 ) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@max=\dimen294
-\pgf@sys@shading@range@num=\count356
-\pgf@shadingcount=\count357
+\pgf@max=\dimen297
+\pgf@sys@shading@range@num=\count368
+\pgf@shadingcount=\count369
 ) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
 File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfexternal@startupbox=\box77
+\pgfexternal@startupbox=\box78
 ) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
 File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
@@ -787,127 +766,127 @@ File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
 File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))) (c:/texlive/2024/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfnodeparttextbox=\box78
+\pgfnodeparttextbox=\box79
 ) (c:/texlive/2024/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
 File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (c:/texlive/2024/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
 Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
-\pgf@nodesepstart=\dimen295
-\pgf@nodesepend=\dimen296
+\pgf@nodesepstart=\dimen298
+\pgf@nodesepend=\dimen299
 ) (c:/texlive/2024/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
 Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
 )) (c:/texlive/2024/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (c:/texlive/2024/texmf-dist/tex/latex/pgf/math/pgfmath.sty (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
 Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
-\pgffor@iter=\dimen297
-\pgffor@skip=\dimen298
-\pgffor@stack=\toks54
-\pgffor@toks=\toks55
+\pgffor@iter=\dimen300
+\pgffor@skip=\dimen301
+\pgffor@stack=\toks52
+\pgffor@toks=\toks53
 )) (c:/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
 Package: tikz 2023-01-15 v3.1.10 (3.1.10)
  (c:/texlive/2024/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@plot@mark@count=\count358
-\pgfplotmarksize=\dimen299
+\pgf@plot@mark@count=\count370
+\pgfplotmarksize=\dimen302
 )
-\tikz@lastx=\dimen300
-\tikz@lasty=\dimen301
-\tikz@lastxsaved=\dimen302
-\tikz@lastysaved=\dimen303
-\tikz@lastmovetox=\dimen304
-\tikz@lastmovetoy=\dimen305
-\tikzleveldistance=\dimen306
-\tikzsiblingdistance=\dimen307
-\tikz@figbox=\box79
-\tikz@figbox@bg=\box80
-\tikz@tempbox=\box81
-\tikz@tempbox@bg=\box82
-\tikztreelevel=\count359
-\tikznumberofchildren=\count360
-\tikznumberofcurrentchild=\count361
-\tikz@fig@count=\count362
+\tikz@lastx=\dimen303
+\tikz@lasty=\dimen304
+\tikz@lastxsaved=\dimen305
+\tikz@lastysaved=\dimen306
+\tikz@lastmovetox=\dimen307
+\tikz@lastmovetoy=\dimen308
+\tikzleveldistance=\dimen309
+\tikzsiblingdistance=\dimen310
+\tikz@figbox=\box80
+\tikz@figbox@bg=\box81
+\tikz@tempbox=\box82
+\tikz@tempbox@bg=\box83
+\tikztreelevel=\count371
+\tikznumberofchildren=\count372
+\tikznumberofcurrentchild=\count373
+\tikz@fig@count=\count374
  (c:/texlive/2024/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfmatrixcurrentrow=\count363
-\pgfmatrixcurrentcolumn=\count364
-\pgf@matrix@numberofcolumns=\count365
+\pgfmatrixcurrentrow=\count375
+\pgfmatrixcurrentcolumn=\count376
+\pgf@matrix@numberofcolumns=\count377
 )
-\tikz@expandcount=\count366
+\tikz@expandcount=\count378
  (c:/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))) (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplots.code.tex (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplotscore.code.tex
-\t@pgfplots@toka=\toks56
-\t@pgfplots@tokb=\toks57
-\t@pgfplots@tokc=\toks58
-\pgfplots@tmpa=\dimen308
-\c@pgfplots@coordindex=\count367
-\c@pgfplots@scanlineindex=\count368
+\t@pgfplots@toka=\toks54
+\t@pgfplots@tokb=\toks55
+\t@pgfplots@tokc=\toks56
+\pgfplots@tmpa=\dimen311
+\c@pgfplots@coordindex=\count379
+\c@pgfplots@scanlineindex=\count380
  (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/sys/pgfplotssysgeneric.code.tex)) (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/libs/pgfplotslibrary.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldpgfsupp_loader.code.tex (c:/texlive/2024/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.code.tex)
 Package pgfplots: loading complementary utilities for your pgf version...
-\t@pgf@toka=\toks59
-\t@pgf@tokb=\toks60
-\t@pgf@tokc=\toks61
+\t@pgf@toka=\toks57
+\t@pgf@tokb=\toks58
+\t@pgf@tokc=\toks59
 (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldpgfsupp_pgfutil-common-lists.tex)) (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.code.tex (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsliststructure.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsliststructureext.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsarray.code.tex
-\c@pgfplotsarray@tmp=\count369
+\c@pgfplotsarray@tmp=\count381
 ) (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsmatrix.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstableshared.code.tex
-\c@pgfplotstable@counta=\count370
-\t@pgfplotstable@a=\toks62
+\c@pgfplotstable@counta=\count382
+\t@pgfplotstable@a=\toks60
 ) (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsdeque.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.code.tex (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.data.code.tex)) (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.verb.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/libs/pgflibrarypgfplots.surfshading.code.tex
-\c@pgfplotslibrarysurf@no=\count371
- (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/sys/pgflibrarypgfplots.surfshading.pgfsys-pdftex.def))) (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/util/pgfplotscolormap.code.tex (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/util/pgfplotscolor.code.tex)) (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplotsstackedplots.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplotsplothandlers.code.tex (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplothandler.code.tex (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplotimage.code.tex))) (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplots.scaling.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplotscoordprocessing.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplots.errorbars.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplots.markers.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplotsticks.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplots.paths.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.code.tex (c:/texlive/2024/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.code.tex
-\pgfdecoratedcompleteddistance=\dimen309
-\pgfdecoratedremainingdistance=\dimen310
-\pgfdecoratedinputsegmentcompleteddistance=\dimen311
-\pgfdecoratedinputsegmentremainingdistance=\dimen312
-\pgf@decorate@distancetomove=\dimen313
-\pgf@decorate@repeatstate=\count372
-\pgfdecorationsegmentamplitude=\dimen314
-\pgfdecorationsegmentlength=\dimen315
+\c@pgfplotslibrarysurf@no=\count383
+ (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/sys/pgflibrarypgfplots.surfshading.pgfsys-xetex.def (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/sys/pgflibrarypgfplots.surfshading.pgfsys-dvipdfmx.def
+\c@pgfplotslibrarysurf@streamlen=\count384
+)))) (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/util/pgfplotscolormap.code.tex (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/util/pgfplotscolor.code.tex)) (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplotsstackedplots.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplotsplothandlers.code.tex (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplothandler.code.tex (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplotimage.code.tex))) (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplots.scaling.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplotscoordprocessing.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplots.errorbars.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplots.markers.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplotsticks.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplots.paths.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.code.tex (c:/texlive/2024/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen312
+\pgfdecoratedremainingdistance=\dimen313
+\pgfdecoratedinputsegmentcompleteddistance=\dimen314
+\pgfdecoratedinputsegmentremainingdistance=\dimen315
+\pgf@decorate@distancetomove=\dimen316
+\pgf@decorate@repeatstate=\count385
+\pgfdecorationsegmentamplitude=\dimen317
+\pgfdecorationsegmentlength=\dimen318
 )
-\tikz@lib@dec@box=\box83
+\tikz@lib@dec@box=\box84
 ) (c:/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathmorphing.code.tex (c:/texlive/2024/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.pathmorphing.code.tex)) (c:/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathreplacing.code.tex (c:/texlive/2024/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.pathreplacing.code.tex)) (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/libs/tikzlibrarypgfplots.contourlua.code.tex)
-\pgfplots@numplots=\count373
-\pgfplots@xmin@reg=\dimen316
-\pgfplots@xmax@reg=\dimen317
-\pgfplots@ymin@reg=\dimen318
-\pgfplots@ymax@reg=\dimen319
-\pgfplots@zmin@reg=\dimen320
-\pgfplots@zmax@reg=\dimen321
+\pgfplots@numplots=\count386
+\pgfplots@xmin@reg=\dimen319
+\pgfplots@xmax@reg=\dimen320
+\pgfplots@ymin@reg=\dimen321
+\pgfplots@ymax@reg=\dimen322
+\pgfplots@zmin@reg=\dimen323
+\pgfplots@zmax@reg=\dimen324
 ) (c:/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryplotmarks.code.tex
 File: tikzlibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
  (c:/texlive/2024/texmf-dist/tex/generic/pgf/libraries/pgflibraryplotmarks.code.tex
 File: pgflibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )))
-\c@cntsideways=\count374
- (./pustaka/tanda-hubung.tex)
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 161.
- (c:/texlive/2024/texmf-dist/tex/latex/lm/ot1lmr.fd
-File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) (./main.aux)
+\c@cntsideways=\count387
+ (./pustaka/tanda-hubung.tex) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 161.
-LaTeX Font Info:    ... okay on input line 161.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 161.
-LaTeX Font Info:    ... okay on input line 161.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 161.
-LaTeX Font Info:    ... okay on input line 161.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 161.
-LaTeX Font Info:    ... okay on input line 161.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 161.
-LaTeX Font Info:    ... okay on input line 161.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 161.
-LaTeX Font Info:    ... okay on input line 161.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 161.
-LaTeX Font Info:    ... okay on input line 161.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 161.
-LaTeX Font Info:    ... okay on input line 161.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 161.
-LaTeX Font Info:    ... okay on input line 161.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 166.
+LaTeX Font Info:    ... okay on input line 166.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 166.
+LaTeX Font Info:    ... okay on input line 166.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 166.
+LaTeX Font Info:    ... okay on input line 166.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 166.
+LaTeX Font Info:    ... okay on input line 166.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 166.
+LaTeX Font Info:    ... okay on input line 166.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 166.
+LaTeX Font Info:    ... okay on input line 166.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 166.
+LaTeX Font Info:    ... okay on input line 166.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 166.
+LaTeX Font Info:    ... okay on input line 166.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 166.
+LaTeX Font Info:    ... okay on input line 166.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 166.
+LaTeX Font Info:    ... okay on input line 166.
 
 *geometry* driver: auto-detecting
-*geometry* detected driver: pdftex
+*geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
-* driver: pdftex
+* driver: xetex
 * paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
@@ -938,34 +917,72 @@ LaTeX Font Info:    ... okay on input line 161.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 161.
+
+Package fontspec Info: 
+(fontspec)             Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 166.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 166.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 166.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 166.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 166.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 166.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 166.
+LaTeX Font Info:    Redeclaring math accent \check on input line 166.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 166.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 166.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 166.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 166.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 166.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 166.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 166.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 166.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 166.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 166.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 166.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 166.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 166.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 166.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 166.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 166.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 166.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/TimesNewRoman(0)/m/n on input line 166.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 166.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/m/n on input line 166.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/m/n on input line 166.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/TimesNewRoman(0)/m/it on input line 166.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/b/n on input line 166.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 166.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 166.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/b/n on input line 166.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/TimesNewRoman(0)/b/it on input line 166.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 166.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 166.
+Package hyperref Info: Link coloring OFF on input line 166.
 (./main.out) (./main.out)
 \@outlinefile=\write5
 \openout5 = `main.out'.
 
- (c:/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count375
-\scratchdimen=\dimen322
-\scratchbox=\box84
-\nofMPsegments=\count376
-\nofMParguments=\count377
-\everyMPshowfont=\toks63
-\MPscratchCnt=\count378
-\MPscratchDim=\dimen323
-\MPnumerator=\count379
-\makeMPintoPDFobject=\count380
-\everyMPtoPDFconversion=\toks64
-) (c:/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
- (c:/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
-))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: changepage package is loaded.
-\caption@adjustwidth@hsize=\dimen324
-\caption@adjustwidth@linewidth=\dimen325
+\caption@adjustwidth@hsize=\dimen325
+\caption@adjustwidth@linewidth=\dimen326
 Package caption Info: float package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: longtable package is loaded.
@@ -975,378 +992,203 @@ Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 Package caption Info: rotating package is loaded.
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\c@lstlisting=\count381
+\c@lstlisting=\count388
 
 Package pgfplots notification 'compat/show suggested version=true': document has been generated with the most recent feature set (\pgfplotsset{compat=1.18}).
 
+File: lainnya/sampul_luar2.pdf Graphic file (type pdf)
+<use lainnya/sampul_luar2.pdf>
+File: lainnya/sampul_luar2.pdf Graphic file (type pdf)
+<use lainnya/sampul_luar2.pdf>
+File: lainnya/sampul_luar2.pdf Graphic file (type pdf)
+<use lainnya/sampul_luar2.pdf, page 1>
+File: lainnya/sampul_luar2.pdf Graphic file (type pdf)
+<use lainnya/sampul_luar2.pdf, page 1>
+File: lainnya/sampul_luar2.pdf Graphic file (type pdf)
+<use lainnya/sampul_luar2.pdf, page 1>
+File: lainnya/sampul_luar2.pdf Graphic file (type pdf)
+<use lainnya/sampul_luar2.pdf, page 1>
 
 
-pdfTeX warning: pdflatex.exe (file ./lainnya/sampul_luar.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<lainnya/sampul_luar.pdf, id=345, 597.55246pt x 845.19763pt>
-File: lainnya/sampul_luar.pdf Graphic file (type pdf)
-<use lainnya/sampul_luar.pdf>
-Package pdftex.def Info: lainnya/sampul_luar.pdf  used on input line 182.
-(pdftex.def)             Requested size: 597.551pt x 845.19557pt.
-
-
-pdfTeX warning: pdflatex.exe (file ./lainnya/sampul_luar.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-File: lainnya/sampul_luar.pdf Graphic file (type pdf)
-<use lainnya/sampul_luar.pdf>
-Package pdftex.def Info: lainnya/sampul_luar.pdf  used on input line 182.
-(pdftex.def)             Requested size: 597.551pt x 845.19557pt.
-
-
-pdfTeX warning: pdflatex.exe (file ./lainnya/sampul_luar.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-
-
-pdfTeX warning: pdflatex.exe (file ./lainnya/sampul_luar.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<lainnya/sampul_luar.pdf, id=348, page=1, 597.55246pt x 845.19763pt>
-File: lainnya/sampul_luar.pdf Graphic file (type pdf)
-<use lainnya/sampul_luar.pdf, page 1>
-Package pdftex.def Info: lainnya/sampul_luar.pdf , page1 used on input line 182.
-(pdftex.def)             Requested size: 597.551pt x 845.19557pt.
-File: lainnya/sampul_luar.pdf Graphic file (type pdf)
-<use lainnya/sampul_luar.pdf, page 1>
-Package pdftex.def Info: lainnya/sampul_luar.pdf , page1 used on input line 182.
-(pdftex.def)             Requested size: 597.57834pt x 845.23425pt.
-File: lainnya/sampul_luar.pdf Graphic file (type pdf)
-<use lainnya/sampul_luar.pdf, page 1>
-Package pdftex.def Info: lainnya/sampul_luar.pdf , page1 used on input line 182.
-(pdftex.def)             Requested size: 597.57834pt x 845.23425pt.
-File: lainnya/sampul_luar.pdf Graphic file (type pdf)
-<use lainnya/sampul_luar.pdf, page 1>
-Package pdftex.def Info: lainnya/sampul_luar.pdf , page1 used on input line 182.
-(pdftex.def)             Requested size: 597.57834pt x 845.23425pt.
-
-
-File: lainnya/sampul_luar.pdf Graphic file (type pdf)
-<use lainnya/sampul_luar.pdf, page 1>
-Package pdftex.def Info: lainnya/sampul_luar.pdf , page1 used on input line 182.
-(pdftex.def)             Requested size: 597.57834pt x 845.23425pt.
+File: lainnya/sampul_luar2.pdf Graphic file (type pdf)
+<use lainnya/sampul_luar2.pdf, page 1>
 [1
 
 
 
- <./lainnya/sampul_luar.pdf>]
+]
 
 [2
 
 ]
-
-pdfTeX warning: pdflatex.exe (file ./lainnya/sampul_dalam_id.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<lainnya/sampul_dalam_id.pdf, id=386, 597.55246pt x 845.19763pt>
-File: lainnya/sampul_dalam_id.pdf Graphic file (type pdf)
-<use lainnya/sampul_dalam_id.pdf>
-Package pdftex.def Info: lainnya/sampul_dalam_id.pdf  used on input line 186.
-(pdftex.def)             Requested size: 597.551pt x 845.19557pt.
-
-
-pdfTeX warning: pdflatex.exe (file ./lainnya/sampul_dalam_id.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-File: lainnya/sampul_dalam_id.pdf Graphic file (type pdf)
-<use lainnya/sampul_dalam_id.pdf>
-Package pdftex.def Info: lainnya/sampul_dalam_id.pdf  used on input line 186.
-(pdftex.def)             Requested size: 597.551pt x 845.19557pt.
+File: lainnya/sampul_dalam_id2.pdf Graphic file (type pdf)
+<use lainnya/sampul_dalam_id2.pdf>
+File: lainnya/sampul_dalam_id2.pdf Graphic file (type pdf)
+<use lainnya/sampul_dalam_id2.pdf>
+File: lainnya/sampul_dalam_id2.pdf Graphic file (type pdf)
+<use lainnya/sampul_dalam_id2.pdf, page 1>
+File: lainnya/sampul_dalam_id2.pdf Graphic file (type pdf)
+<use lainnya/sampul_dalam_id2.pdf, page 1>
+File: lainnya/sampul_dalam_id2.pdf Graphic file (type pdf)
+<use lainnya/sampul_dalam_id2.pdf, page 1>
+File: lainnya/sampul_dalam_id2.pdf Graphic file (type pdf)
+<use lainnya/sampul_dalam_id2.pdf, page 1>
 
 
-pdfTeX warning: pdflatex.exe (file ./lainnya/sampul_dalam_id.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-
-
-pdfTeX warning: pdflatex.exe (file ./lainnya/sampul_dalam_id.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<lainnya/sampul_dalam_id.pdf, id=389, page=1, 597.55246pt x 845.19763pt>
-File: lainnya/sampul_dalam_id.pdf Graphic file (type pdf)
-<use lainnya/sampul_dalam_id.pdf, page 1>
-Package pdftex.def Info: lainnya/sampul_dalam_id.pdf , page1 used on input line 186.
-(pdftex.def)             Requested size: 597.551pt x 845.19557pt.
-File: lainnya/sampul_dalam_id.pdf Graphic file (type pdf)
-<use lainnya/sampul_dalam_id.pdf, page 1>
-Package pdftex.def Info: lainnya/sampul_dalam_id.pdf , page1 used on input line 186.
-(pdftex.def)             Requested size: 597.57834pt x 845.23425pt.
-File: lainnya/sampul_dalam_id.pdf Graphic file (type pdf)
-<use lainnya/sampul_dalam_id.pdf, page 1>
-Package pdftex.def Info: lainnya/sampul_dalam_id.pdf , page1 used on input line 186.
-(pdftex.def)             Requested size: 597.57834pt x 845.23425pt.
-File: lainnya/sampul_dalam_id.pdf Graphic file (type pdf)
-<use lainnya/sampul_dalam_id.pdf, page 1>
-Package pdftex.def Info: lainnya/sampul_dalam_id.pdf , page1 used on input line 186.
-(pdftex.def)             Requested size: 597.57834pt x 845.23425pt.
-
-
-File: lainnya/sampul_dalam_id.pdf Graphic file (type pdf)
-<use lainnya/sampul_dalam_id.pdf, page 1>
-Package pdftex.def Info: lainnya/sampul_dalam_id.pdf , page1 used on input line 186.
-(pdftex.def)             Requested size: 597.57834pt x 845.23425pt.
+File: lainnya/sampul_dalam_id2.pdf Graphic file (type pdf)
+<use lainnya/sampul_dalam_id2.pdf, page 1>
 [3
 
- <./lainnya/sampul_dalam_id.pdf>]
+]
 
 [4
 
 ]
-
-pdfTeX warning: pdflatex.exe (file ./lainnya/sampul_dalam_en.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<lainnya/sampul_dalam_en.pdf, id=424, 597.55246pt x 845.19763pt>
-File: lainnya/sampul_dalam_en.pdf Graphic file (type pdf)
-<use lainnya/sampul_dalam_en.pdf>
-Package pdftex.def Info: lainnya/sampul_dalam_en.pdf  used on input line 190.
-(pdftex.def)             Requested size: 597.551pt x 845.19557pt.
-
-
-pdfTeX warning: pdflatex.exe (file ./lainnya/sampul_dalam_en.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-File: lainnya/sampul_dalam_en.pdf Graphic file (type pdf)
-<use lainnya/sampul_dalam_en.pdf>
-Package pdftex.def Info: lainnya/sampul_dalam_en.pdf  used on input line 190.
-(pdftex.def)             Requested size: 597.551pt x 845.19557pt.
+File: lainnya/sampul_dalam_en2.pdf Graphic file (type pdf)
+<use lainnya/sampul_dalam_en2.pdf>
+File: lainnya/sampul_dalam_en2.pdf Graphic file (type pdf)
+<use lainnya/sampul_dalam_en2.pdf>
+File: lainnya/sampul_dalam_en2.pdf Graphic file (type pdf)
+<use lainnya/sampul_dalam_en2.pdf, page 1>
+File: lainnya/sampul_dalam_en2.pdf Graphic file (type pdf)
+<use lainnya/sampul_dalam_en2.pdf, page 1>
+File: lainnya/sampul_dalam_en2.pdf Graphic file (type pdf)
+<use lainnya/sampul_dalam_en2.pdf, page 1>
+File: lainnya/sampul_dalam_en2.pdf Graphic file (type pdf)
+<use lainnya/sampul_dalam_en2.pdf, page 1>
 
 
-pdfTeX warning: pdflatex.exe (file ./lainnya/sampul_dalam_en.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-
-
-pdfTeX warning: pdflatex.exe (file ./lainnya/sampul_dalam_en.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<lainnya/sampul_dalam_en.pdf, id=427, page=1, 597.55246pt x 845.19763pt>
-File: lainnya/sampul_dalam_en.pdf Graphic file (type pdf)
-<use lainnya/sampul_dalam_en.pdf, page 1>
-Package pdftex.def Info: lainnya/sampul_dalam_en.pdf , page1 used on input line 190.
-(pdftex.def)             Requested size: 597.551pt x 845.19557pt.
-File: lainnya/sampul_dalam_en.pdf Graphic file (type pdf)
-<use lainnya/sampul_dalam_en.pdf, page 1>
-Package pdftex.def Info: lainnya/sampul_dalam_en.pdf , page1 used on input line 190.
-(pdftex.def)             Requested size: 597.57834pt x 845.23425pt.
-File: lainnya/sampul_dalam_en.pdf Graphic file (type pdf)
-<use lainnya/sampul_dalam_en.pdf, page 1>
-Package pdftex.def Info: lainnya/sampul_dalam_en.pdf , page1 used on input line 190.
-(pdftex.def)             Requested size: 597.57834pt x 845.23425pt.
-File: lainnya/sampul_dalam_en.pdf Graphic file (type pdf)
-<use lainnya/sampul_dalam_en.pdf, page 1>
-Package pdftex.def Info: lainnya/sampul_dalam_en.pdf , page1 used on input line 190.
-(pdftex.def)             Requested size: 597.57834pt x 845.23425pt.
-
-
-File: lainnya/sampul_dalam_en.pdf Graphic file (type pdf)
-<use lainnya/sampul_dalam_en.pdf, page 1>
-Package pdftex.def Info: lainnya/sampul_dalam_en.pdf , page1 used on input line 190.
-(pdftex.def)             Requested size: 597.57834pt x 845.23425pt.
+File: lainnya/sampul_dalam_en2.pdf Graphic file (type pdf)
+<use lainnya/sampul_dalam_en2.pdf, page 1>
 [5
 
- <./lainnya/sampul_dalam_en.pdf>]
+]
 
 [6
 
 ]
-
-pdfTeX warning: pdflatex.exe (file ./kep_yudisium/Approval.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<kep_yudisium/Approval.pdf, id=461, 597.6729pt x 845.07718pt>
-File: kep_yudisium/Approval.pdf Graphic file (type pdf)
-<use kep_yudisium/Approval.pdf>
-Package pdftex.def Info: kep_yudisium/Approval.pdf  used on input line 198.
-(pdftex.def)             Requested size: 597.67143pt x 845.07512pt.
-
-
-pdfTeX warning: pdflatex.exe (file ./kep_yudisium/Approval.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-File: kep_yudisium/Approval.pdf Graphic file (type pdf)
-<use kep_yudisium/Approval.pdf>
-Package pdftex.def Info: kep_yudisium/Approval.pdf  used on input line 198.
-(pdftex.def)             Requested size: 597.67143pt x 845.07512pt.
+File: lainnya/lembar_pengesahan.pdf Graphic file (type pdf)
+<use lainnya/lembar_pengesahan.pdf>
+File: lainnya/lembar_pengesahan.pdf Graphic file (type pdf)
+<use lainnya/lembar_pengesahan.pdf>
+File: lainnya/lembar_pengesahan.pdf Graphic file (type pdf)
+<use lainnya/lembar_pengesahan.pdf, page 1>
+File: lainnya/lembar_pengesahan.pdf Graphic file (type pdf)
+<use lainnya/lembar_pengesahan.pdf, page 1>
+File: lainnya/lembar_pengesahan.pdf Graphic file (type pdf)
+<use lainnya/lembar_pengesahan.pdf, page 1>
+File: lainnya/lembar_pengesahan.pdf Graphic file (type pdf)
+<use lainnya/lembar_pengesahan.pdf, page 1>
 
 
-pdfTeX warning: pdflatex.exe (file ./kep_yudisium/Approval.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-
-
-pdfTeX warning: pdflatex.exe (file ./kep_yudisium/Approval.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<kep_yudisium/Approval.pdf, id=464, page=1, 597.6729pt x 845.07718pt>
-File: kep_yudisium/Approval.pdf Graphic file (type pdf)
-<use kep_yudisium/Approval.pdf, page 1>
-Package pdftex.def Info: kep_yudisium/Approval.pdf , page1 used on input line 198.
-(pdftex.def)             Requested size: 597.67143pt x 845.07512pt.
-File: kep_yudisium/Approval.pdf Graphic file (type pdf)
-<use kep_yudisium/Approval.pdf, page 1>
-Package pdftex.def Info: kep_yudisium/Approval.pdf , page1 used on input line 198.
-(pdftex.def)             Requested size: 597.69879pt x 845.1138pt.
-File: kep_yudisium/Approval.pdf Graphic file (type pdf)
-<use kep_yudisium/Approval.pdf, page 1>
-Package pdftex.def Info: kep_yudisium/Approval.pdf , page1 used on input line 198.
-(pdftex.def)             Requested size: 597.69879pt x 845.1138pt.
-File: kep_yudisium/Approval.pdf Graphic file (type pdf)
-<use kep_yudisium/Approval.pdf, page 1>
-Package pdftex.def Info: kep_yudisium/Approval.pdf , page1 used on input line 198.
-(pdftex.def)             Requested size: 597.69879pt x 845.1138pt.
-
-
-File: kep_yudisium/Approval.pdf Graphic file (type pdf)
-<use kep_yudisium/Approval.pdf, page 1>
-Package pdftex.def Info: kep_yudisium/Approval.pdf , page1 used on input line 198.
-(pdftex.def)             Requested size: 597.69879pt x 845.1138pt.
+File: lainnya/lembar_pengesahan.pdf Graphic file (type pdf)
+<use lainnya/lembar_pengesahan.pdf, page 1>
 [7
 
- <./kep_yudisium/Approval.pdf>]
+]
 
-pdfTeX warning: pdflatex.exe (file ./kep_yudisium/Approval.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<kep_yudisium/Approval.pdf, id=483, page=2, 597.6729pt x 845.07718pt>
-File: kep_yudisium/Approval.pdf Graphic file (type pdf)
-<use kep_yudisium/Approval.pdf, page 2>
-Package pdftex.def Info: kep_yudisium/Approval.pdf , page2 used on input line 198.
-(pdftex.def)             Requested size: 597.69879pt x 845.1138pt.
-File: kep_yudisium/Approval.pdf Graphic file (type pdf)
-<use kep_yudisium/Approval.pdf, page 2>
-Package pdftex.def Info: kep_yudisium/Approval.pdf , page2 used on input line 198.
-(pdftex.def)             Requested size: 597.69879pt x 845.1138pt.
-
-
-File: kep_yudisium/Approval.pdf Graphic file (type pdf)
-<use kep_yudisium/Approval.pdf, page 2>
-Package pdftex.def Info: kep_yudisium/Approval.pdf , page2 used on input line 198.
-(pdftex.def)             Requested size: 597.69879pt x 845.1138pt.
 [8
 
- <./kep_yudisium/Approval.pdf>]
-
-pdfTeX warning: pdflatex.exe (file ./kep_yudisium/orisinalitas.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<kep_yudisium/orisinalitas.pdf, id=489, 597.6729pt x 845.07718pt>
-File: kep_yudisium/orisinalitas.pdf Graphic file (type pdf)
-<use kep_yudisium/orisinalitas.pdf>
-Package pdftex.def Info: kep_yudisium/orisinalitas.pdf  used on input line 203.
-(pdftex.def)             Requested size: 597.67143pt x 845.07512pt.
-
-
-pdfTeX warning: pdflatex.exe (file ./kep_yudisium/orisinalitas.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-File: kep_yudisium/orisinalitas.pdf Graphic file (type pdf)
-<use kep_yudisium/orisinalitas.pdf>
-Package pdftex.def Info: kep_yudisium/orisinalitas.pdf  used on input line 203.
-(pdftex.def)             Requested size: 597.67143pt x 845.07512pt.
+]
+File: lainnya/approval_sheet.pdf Graphic file (type pdf)
+<use lainnya/approval_sheet.pdf>
+File: lainnya/approval_sheet.pdf Graphic file (type pdf)
+<use lainnya/approval_sheet.pdf>
+File: lainnya/approval_sheet.pdf Graphic file (type pdf)
+<use lainnya/approval_sheet.pdf, page 1>
+File: lainnya/approval_sheet.pdf Graphic file (type pdf)
+<use lainnya/approval_sheet.pdf, page 1>
+File: lainnya/approval_sheet.pdf Graphic file (type pdf)
+<use lainnya/approval_sheet.pdf, page 1>
+File: lainnya/approval_sheet.pdf Graphic file (type pdf)
+<use lainnya/approval_sheet.pdf, page 1>
 
 
-pdfTeX warning: pdflatex.exe (file ./kep_yudisium/orisinalitas.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-
-
-pdfTeX warning: pdflatex.exe (file ./kep_yudisium/orisinalitas.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<kep_yudisium/orisinalitas.pdf, id=492, page=1, 597.6729pt x 845.07718pt>
-File: kep_yudisium/orisinalitas.pdf Graphic file (type pdf)
-<use kep_yudisium/orisinalitas.pdf, page 1>
-Package pdftex.def Info: kep_yudisium/orisinalitas.pdf , page1 used on input line 203.
-(pdftex.def)             Requested size: 597.67143pt x 845.07512pt.
-File: kep_yudisium/orisinalitas.pdf Graphic file (type pdf)
-<use kep_yudisium/orisinalitas.pdf, page 1>
-Package pdftex.def Info: kep_yudisium/orisinalitas.pdf , page1 used on input line 203.
-(pdftex.def)             Requested size: 597.69879pt x 845.1138pt.
-File: kep_yudisium/orisinalitas.pdf Graphic file (type pdf)
-<use kep_yudisium/orisinalitas.pdf, page 1>
-Package pdftex.def Info: kep_yudisium/orisinalitas.pdf , page1 used on input line 203.
-(pdftex.def)             Requested size: 597.69879pt x 845.1138pt.
-File: kep_yudisium/orisinalitas.pdf Graphic file (type pdf)
-<use kep_yudisium/orisinalitas.pdf, page 1>
-Package pdftex.def Info: kep_yudisium/orisinalitas.pdf , page1 used on input line 203.
-(pdftex.def)             Requested size: 597.69879pt x 845.1138pt.
-
-
-File: kep_yudisium/orisinalitas.pdf Graphic file (type pdf)
-<use kep_yudisium/orisinalitas.pdf, page 1>
-Package pdftex.def Info: kep_yudisium/orisinalitas.pdf , page1 used on input line 203.
-(pdftex.def)             Requested size: 597.69879pt x 845.1138pt.
+File: lainnya/approval_sheet.pdf Graphic file (type pdf)
+<use lainnya/approval_sheet.pdf, page 1>
 [9
 
+]
 
- <./kep_yudisium/orisinalitas.pdf>]
-
-pdfTeX warning: pdflatex.exe (file ./kep_yudisium/orisinalitas.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<kep_yudisium/orisinalitas.pdf, id=515, page=2, 597.6729pt x 845.07718pt>
-File: kep_yudisium/orisinalitas.pdf Graphic file (type pdf)
-<use kep_yudisium/orisinalitas.pdf, page 2>
-Package pdftex.def Info: kep_yudisium/orisinalitas.pdf , page2 used on input line 203.
-(pdftex.def)             Requested size: 597.69879pt x 845.1138pt.
-File: kep_yudisium/orisinalitas.pdf Graphic file (type pdf)
-<use kep_yudisium/orisinalitas.pdf, page 2>
-Package pdftex.def Info: kep_yudisium/orisinalitas.pdf , page2 used on input line 203.
-(pdftex.def)             Requested size: 597.69879pt x 845.1138pt.
-
-
-File: kep_yudisium/orisinalitas.pdf Graphic file (type pdf)
-<use kep_yudisium/orisinalitas.pdf, page 2>
-Package pdftex.def Info: kep_yudisium/orisinalitas.pdf , page2 used on input line 203.
-(pdftex.def)             Requested size: 597.69879pt x 845.1138pt.
 [10
 
- <./kep_yudisium/orisinalitas.pdf>] (./abstrak/abstrak-id.tex (c:/texlive/2024/texmf-dist/tex/latex/lm/omllmm.fd) (c:/texlive/2024/texmf-dist/tex/latex/lm/omslmsy.fd) (c:/texlive/2024/texmf-dist/tex/latex/lm/omxlmex.fd) (c:/texlive/2024/texmf-dist/tex/latex/psnfss/ot1ptm.fd))
+]
+File: lainnya/pernyataan_originalitas.pdf Graphic file (type pdf)
+<use lainnya/pernyataan_originalitas.pdf>
+File: lainnya/pernyataan_originalitas.pdf Graphic file (type pdf)
+<use lainnya/pernyataan_originalitas.pdf>
+File: lainnya/pernyataan_originalitas.pdf Graphic file (type pdf)
+<use lainnya/pernyataan_originalitas.pdf, page 1>
+File: lainnya/pernyataan_originalitas.pdf Graphic file (type pdf)
+<use lainnya/pernyataan_originalitas.pdf, page 1>
+File: lainnya/pernyataan_originalitas.pdf Graphic file (type pdf)
+<use lainnya/pernyataan_originalitas.pdf, page 1>
+File: lainnya/pernyataan_originalitas.pdf Graphic file (type pdf)
+<use lainnya/pernyataan_originalitas.pdf, page 1>
 
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.220   \cleardoublepage
-                         [1
+File: lainnya/pernyataan_originalitas.pdf Graphic file (type pdf)
+<use lainnya/pernyataan_originalitas.pdf, page 1>
+[11
 
-{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}]
+]
+
+[12
+
+]
+File: lainnya/statement_of_originality.pdf Graphic file (type pdf)
+<use lainnya/statement_of_originality.pdf>
+File: lainnya/statement_of_originality.pdf Graphic file (type pdf)
+<use lainnya/statement_of_originality.pdf>
+File: lainnya/statement_of_originality.pdf Graphic file (type pdf)
+<use lainnya/statement_of_originality.pdf, page 1>
+File: lainnya/statement_of_originality.pdf Graphic file (type pdf)
+<use lainnya/statement_of_originality.pdf, page 1>
+File: lainnya/statement_of_originality.pdf Graphic file (type pdf)
+<use lainnya/statement_of_originality.pdf, page 1>
+File: lainnya/statement_of_originality.pdf Graphic file (type pdf)
+<use lainnya/statement_of_originality.pdf, page 1>
 
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.ii}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.220   \cleardoublepage
-                         [2
+File: lainnya/statement_of_originality.pdf Graphic file (type pdf)
+<use lainnya/statement_of_originality.pdf, page 1>
+[13
+
+]
+
+[14
+
+] (./abstrak/abstrak-id.tex)
+
+[1]
+
+[2
 
 ] (./abstrak/abstrak-en.tex)
 
+[3]
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.iii}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.225   \cleardoublepage
-                         [3]
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.iv}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.225   \cleardoublepage
-                         [4
+[4
 
 ] (./lainnya/kata-pengantar.tex)
 
+[5]
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.v}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.230   \cleardoublepage
-                         [5]
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.vi}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.230   \cleardoublepage
-                         [6
+[6
 
 ] (./main.toc
 
+[7]
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.vii}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.34 ...line {2.6.3}JONSWAP}{22}{subsection.2.6.3}
-                                                  % [7]
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.viii}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.84 ....6.3}Komponen Biaya}{51}{subsection.4.6.3}
-                                                  % [8])
+[8])
 \tf@toc=\write6
 \openout6 = `main.toc'.
 
 
 
+[9]
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.ix}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.236   \cleardoublepage
-                         [9]
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.x}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.236   \cleardoublepage
-                         [10
+[10
 
 ] (./main.lof
 
@@ -1371,32 +1213,26 @@ l.236   \cleardoublepage
 ] (./bab/1-pendahuluan.tex
 Bab 1.
 (./bab/1-pendahuluan/1-latar-belakang.tex
-<grafik/gdp per unit energy consp v2.png, id=806, 288.423pt x 194.91pt>
-File: grafik/gdp per unit energy consp v2.png Graphic file (type png)
-<use grafik/gdp per unit energy consp v2.png>
-Package pdftex.def Info: grafik/gdp per unit energy consp v2.png  used on input line 6.
-(pdftex.def)             Requested size: 341.43307pt x 230.74425pt.
+File: grafik/gdp per unit energy consp v2.png Graphic file (type bmp)
+<grafik/gdp per unit energy consp v2.png>
+File: grafik/komposisi_konsumsi_energi.png Graphic file (type bmp)
+<grafik/komposisi_konsumsi_energi.png>
 
 
 [1
 
 
- <./grafik/gdp per unit energy consp v2.png>]
-<grafik/komposisi_konsumsi_energi.png, id=823, 376.461pt x 207.612pt>
-File: grafik/komposisi_konsumsi_energi.png Graphic file (type png)
-<use grafik/komposisi_konsumsi_energi.png>
-Package pdftex.def Info: grafik/komposisi_konsumsi_energi.png  used on input line 15.
-(pdftex.def)             Requested size: 341.43307pt x 188.30313pt.
-<gambar/antriBBM-MBD.jpg, id=833, 752.8125pt x 501.875pt>
-File: gambar/antriBBM-MBD.jpg Graphic file (type jpg)
-<use gambar/antriBBM-MBD.jpg>
-Package pdftex.def Info: gambar/antriBBM-MBD.jpg  used on input line 26.
-(pdftex.def)             Requested size: 318.66948pt x 212.44783pt.
+]
+File: gambar/antriBBM-MBD.jpg Graphic file (type bmp)
+<gambar/antriBBM-MBD.jpg>
 ) (./bab/1-pendahuluan/2-permasalahan.tex
+Underfull \vbox (badness 2409) has occurred while \output is active []
 
-[2 <./grafik/komposisi_konsumsi_energi.png>]) (./bab/1-pendahuluan/4-tujuan.tex
 
-[3 <./gambar/antriBBM-MBD.jpg>]) (./bab/1-pendahuluan/5-batasan-masalah.tex))
+
+[2]) (./bab/1-pendahuluan/4-tujuan.tex
+
+[3]) (./bab/1-pendahuluan/5-batasan-masalah.tex))
 
 [4] (./bab/2-tinjauan-pustaka.tex
 Bab 2.
@@ -1409,461 +1245,305 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 ]
-<gambar/ship design procedure.png, id=886, 798.5835pt x 448.074pt>
-File: gambar/ship design procedure.png Graphic file (type png)
-<use gambar/ship design procedure.png>
-Package pdftex.def Info: gambar/ship design procedure.png  used on input line 28.
-(pdftex.def)             Requested size: 432.48051pt x 242.66057pt.
+File: gambar/ship design procedure.png Graphic file (type bmp)
+<gambar/ship design procedure.png>
 
 
 [6]
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 42.
- (c:/texlive/2024/texmf-dist/tex/latex/lm/ts1lmr.fd
-File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
 
-[7{c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc} <./gambar/ship design procedure.png>]
-<gambar/design-spiral.png, id=915, 411.33675pt x 539.01375pt>
-File: gambar/design-spiral.png Graphic file (type png)
-<use gambar/design-spiral.png>
-Package pdftex.def Info: gambar/design-spiral.png  used on input line 61.
-(pdftex.def)             Requested size: 341.43307pt x 447.43063pt.
+[7]
+File: gambar/design-spiral.png Graphic file (type bmp)
+<gambar/design-spiral.png>
+) (./bab/2-tinjauan-pustaka/3-simulasi-monte-carlo.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-[8]) (./bab/2-tinjauan-pustaka/3-simulasi-monte-carlo.tex
 
-[9 <./gambar/design-spiral.png>]
-<gambar/excel-carlo.jpg, id=939, 1284.8pt x 722.7pt>
-File: gambar/excel-carlo.jpg Graphic file (type jpg)
-<use gambar/excel-carlo.jpg>
-Package pdftex.def Info: gambar/excel-carlo.jpg  used on input line 20.
-(pdftex.def)             Requested size: 364.19667pt x 204.85785pt.
-<gambar/r-carlo.jpg, id=944, 411.03563pt x 295.85532pt>
-File: gambar/r-carlo.jpg Graphic file (type jpg)
-<use gambar/r-carlo.jpg>
-Package pdftex.def Info: gambar/r-carlo.jpg  used on input line 27.
-(pdftex.def)             Requested size: 364.19667pt x 262.14116pt.
+[8]
+
+[9]
+File: gambar/excel-carlo.jpg Graphic file (type bmp)
+<gambar/excel-carlo.jpg>
+File: gambar/r-carlo.jpg Graphic file (type bmp)
+<gambar/r-carlo.jpg>
 ) (./bab/2-tinjauan-pustaka/4-bbm.tex
-<gambar/BENSIN.jpg, id=949, 455.301pt x 216.81pt>
-File: gambar/BENSIN.jpg Graphic file (type jpg)
-<use gambar/BENSIN.jpg>
-Package pdftex.def Info: gambar/BENSIN.jpg  used on input line 9.
-(pdftex.def)             Requested size: 273.14923pt x 130.07376pt.
-
 
 [10]
-Underfull \vbox (badness 5077) has occurred while \output is active []
+File: gambar/BENSIN.jpg Graphic file (type bmp)
+<gambar/BENSIN.jpg>
+
+
+[11]
+File: gambar/isibensin.jpg Graphic file (type bmp)
+<gambar/isibensin.jpg>
+File: gambar/Minyak-Berita-Maluku-Tengah-1-500x375.jpg Graphic file (type bmp)
+<gambar/Minyak-Berita-Maluku-Tengah-1-500x375.jpg>
+
+
+[12]
+File: gambar/masak-minyak-tanah.jpg Graphic file (type bmp)
+<gambar/masak-minyak-tanah.jpg>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[11 <./gambar/excel-carlo.jpg> <./gambar/r-carlo.jpg>]
-<gambar/isibensin.jpg, id=963, 702.625pt x 466.74374pt>
-File: gambar/isibensin.jpg Graphic file (type jpg)
-<use gambar/isibensin.jpg>
-Package pdftex.def Info: gambar/isibensin.jpg  used on input line 24.
-(pdftex.def)             Requested size: 318.66948pt x 211.69215pt.
-<gambar/Minyak-Berita-Maluku-Tengah-1-500x375.jpg, id=964, 376.40625pt x 282.30469pt>
-File: gambar/Minyak-Berita-Maluku-Tengah-1-500x375.jpg Graphic file (type jpg)
-<use gambar/Minyak-Berita-Maluku-Tengah-1-500x375.jpg>
-Package pdftex.def Info: gambar/Minyak-Berita-Maluku-Tengah-1-500x375.jpg  used on input line 36.
-(pdftex.def)             Requested size: 295.90588pt x 221.94565pt.
-
-
-[12 <./gambar/BENSIN.jpg>]
-Underfull \vbox (badness 6741) has occurred while \output is active []
-
-
-
-[13 <./gambar/isibensin.jpg> <./gambar/Minyak-Berita-Maluku-Tengah-1-500x375.jpg>]
-<gambar/masak-minyak-tanah.jpg, id=982, 702.625pt x 466.74374pt>
-File: gambar/masak-minyak-tanah.jpg Graphic file (type jpg)
-<use gambar/masak-minyak-tanah.jpg>
-Package pdftex.def Info: gambar/masak-minyak-tanah.jpg  used on input line 49.
-(pdftex.def)             Requested size: 295.90588pt x 196.5723pt.
-
-
-[14 <./gambar/masak-minyak-tanah.jpg>]
-<gambar/mengisi-biosolar-di-spbu.jpg, id=996, 526.96875pt x 295.85532pt>
-File: gambar/mengisi-biosolar-di-spbu.jpg Graphic file (type jpg)
-<use gambar/mengisi-biosolar-di-spbu.jpg>
-Package pdftex.def Info: gambar/mengisi-biosolar-di-spbu.jpg  used on input line 66.
-(pdftex.def)             Requested size: 341.43307pt x 191.69875pt.
+[13]
+File: gambar/mengisi-biosolar-di-spbu.jpg Graphic file (type bmp)
+<gambar/mengisi-biosolar-di-spbu.jpg>
 ) (./bab/2-tinjauan-pustaka/5-teori-gerak-kapal.tex
-
-[15 <./gambar/mengisi-biosolar-di-spbu.jpg>]
-<gambar/vessel-degree-of-motion.jpeg, id=1010, 552.0625pt x 345.29pt>
-File: gambar/vessel-degree-of-motion.jpeg Graphic file (type jpg)
-<use gambar/vessel-degree-of-motion.jpeg>
-Package pdftex.def Info: gambar/vessel-degree-of-motion.jpeg  used on input line 11.
-(pdftex.def)             Requested size: 318.66948pt x 199.31996pt.
+Underfull \vbox (badness 1478) has occurred while \output is active []
 
 
-[16{c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc} <./gambar/vessel-degree-of-motion.jpeg>]
+
+[14]
+File: gambar/vessel-degree-of-motion.jpeg Graphic file (type bmp)
+<gambar/vessel-degree-of-motion.jpeg>
+
+
+[15]
+
+[16]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[17{c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}]
+[17]) (./bab/2-tinjauan-pustaka/6-spektrum-gelombang.tex
+
+[18]
+Overfull \hbox (3.50165pt too wide) in paragraph at lines 25--26
+[]\TU/TimesNewRoman(0)/m/n/12 dengan $\OML/cmm/m/it/12 T[]$ \TU/TimesNewRoman(0)/m/n/12 sebagai rentang waktu keseluruhan proses. $\OML/cmm/m/it/12 A[]$ \TU/TimesNewRoman(0)/m/n/12 dan $\OML/cmm/m/it/12 B[]$ \TU/TimesNewRoman(0)/m/n/12 adalah koefisien-koefisien
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[18]) (./bab/2-tinjauan-pustaka/6-spektrum-gelombang.tex
+[19]
+File: gambar/pembentukan-gelombang-acak.jpg Graphic file (type bmp)
+<gambar/pembentukan-gelombang-acak.jpg>
 
-[19{c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 [20]
-<gambar/pembentukan-gelombang-acak.jpg, id=1080, 405.31425pt x 254.1495pt>
-File: gambar/pembentukan-gelombang-acak.jpg Graphic file (type jpg)
-<use gambar/pembentukan-gelombang-acak.jpg>
-Package pdftex.def Info: gambar/pembentukan-gelombang-acak.jpg  used on input line 62.
-(pdftex.def)             Requested size: 318.66948pt x 199.81804pt.
-
-Underfull \vbox (badness 1072) has occurred while \output is active []
-
-
-
-[21 <./gambar/pembentukan-gelombang-acak.jpg>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[22]))
+[21]))
 
-[23]
-
-[24
-
-] (./bab/3-metodologi.tex
+[22] (./bab/3-metodologi.tex
 Bab 3.
 (./bab/3-metodologi/1-diagram-alir.tex
-<gambar/FC_TA_19-Jan.png, id=1109, 611.1633pt x 650.43pt>
-File: gambar/FC_TA_19-Jan.png Graphic file (type png)
-<use gambar/FC_TA_19-Jan.png>
-Package pdftex.def Info: gambar/FC_TA_19-Jan.png  used on input line 9.
-(pdftex.def)             Requested size: 458.37134pt x 487.8213pt.
+File: gambar/FC_TA_19-Jan.png Graphic file (type bmp)
+<gambar/FC_TA_19-Jan.png>
 
-Overfull \hbox (3.12723pt too wide) in paragraph at lines 9--10
+Overfull \hbox (3.12817pt too wide) in paragraph at lines 9--10
  [][] 
  []
 
 ) (./bab/3-metodologi/2-tahap-persiapan.tex
 
-[25
+[23
 
- <./gambar/FC_TA_19-Jan.png>]) (./bab/3-metodologi/3-uji-hipotesis.tex
+
+]) (./bab/3-metodologi/3-uji-hipotesis.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[26]) (./bab/3-metodologi/4-proses-simulasi.tex
-<gambar/FC_Simul.png, id=1121, 198.0198pt x 478.9092pt>
-File: gambar/FC_Simul.png Graphic file (type png)
-<use gambar/FC_Simul.png>
-Package pdftex.def Info: gambar/FC_Simul.png  used on input line 6.
-(pdftex.def)             Requested size: 113.81102pt x 275.25372pt.
+[24]) (./bab/3-metodologi/4-proses-simulasi.tex
+File: gambar/FC_Simul.png Graphic file (type bmp)
+<gambar/FC_Simul.png>
 
 
-[27]
+[25]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[28 <./gambar/FC_Simul.png>]
+[26]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[29]) (./bab/3-metodologi/5-perancangan-kapal.tex
+[27]) (./bab/3-metodologi/5-perancangan-kapal.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[30]
-<gambar/FC_Deskap.png, id=1171, 368.0952pt x 469.755pt>
-File: gambar/FC_Deskap.png Graphic file (type png)
-<use gambar/FC_Deskap.png>
-Package pdftex.def Info: gambar/FC_Deskap.png  used on input line 6.
-(pdftex.def)             Requested size: 191.20169pt x 244.00163pt.
+[28]
+File: gambar/FC_Deskap.png Graphic file (type bmp)
+<gambar/FC_Deskap.png>
+) (./bab/3-metodologi/6-tahap-penutup.tex
 
+[29]))
 
-[31 <./gambar/FC_Deskap.png>]) (./bab/3-metodologi/6-tahap-penutup.tex))
-
-[32] (./bab/4-analisis-pembahasan.tex
+[30] (./bab/4-analisis-pembahasan.tex
 Bab 4.
 (./bab/4-analisis-pembahasan/1-gambaran-umum.tex
-<gambar/administrasi-maluku-barat-daya-a1.jpg, id=1182, 2393.16943pt x 1690.08557pt>
-File: gambar/administrasi-maluku-barat-daya-a1.jpg Graphic file (type jpg)
-<use gambar/administrasi-maluku-barat-daya-a1.jpg>
-Package pdftex.def Info: gambar/administrasi-maluku-barat-daya-a1.jpg  used on input line 8.
-(pdftex.def)             Requested size: 364.19667pt x 257.18967pt.
-<gambar/rasio-psokan-bbm-mbd.png, id=1189, 374.49pt x 227.76pt>
-File: gambar/rasio-psokan-bbm-mbd.png Graphic file (type png)
-<use gambar/rasio-psokan-bbm-mbd.png>
-Package pdftex.def Info: gambar/rasio-psokan-bbm-mbd.png  used on input line 20.
-(pdftex.def)             Requested size: 364.19667pt x 221.51077pt.
+File: gambar/administrasi-maluku-barat-daya-a1.jpg Graphic file (type bmp)
+<gambar/administrasi-maluku-barat-daya-a1.jpg>
+File: gambar/rasio-psokan-bbm-mbd.png Graphic file (type bmp)
+<gambar/rasio-psokan-bbm-mbd.png>
 
 
-[33
+[31
 
 
- <./gambar/administrasi-maluku-barat-daya-a1.jpg>]
-Overfull \hbox (71.51897pt too wide) in paragraph at lines 30--50
+]
+Overfull \hbox (26.72382pt too wide) in paragraph at lines 30--50
  [][] 
  []
 
-<gambar/cons-bbm-tepa.png, id=1195, 900.309pt x 330.471pt>
-File: gambar/cons-bbm-tepa.png Graphic file (type png)
-<use gambar/cons-bbm-tepa.png>
-Package pdftex.def Info: gambar/cons-bbm-tepa.png  used on input line 56.
-(pdftex.def)             Requested size: 218.51521pt x 80.20718pt.
-<gambar/cons-bbm-lakor.png, id=1196, 900.966pt x 330.471pt>
-File: gambar/cons-bbm-lakor.png Graphic file (type png)
-<use gambar/cons-bbm-lakor.png>
-Package pdftex.def Info: gambar/cons-bbm-lakor.png  used on input line 63.
-(pdftex.def)             Requested size: 218.51521pt x 80.14667pt.
-<gambar/cons-bbm-letti.png, id=1197, 902.718pt x 330.471pt>
-File: gambar/cons-bbm-letti.png Graphic file (type png)
-<use gambar/cons-bbm-letti.png>
-Package pdftex.def Info: gambar/cons-bbm-letti.png  used on input line 72.
-(pdftex.def)             Requested size: 218.51521pt x 79.99539pt.
-<gambar/cons-bbm-romang.png, id=1198, 900.09pt x 330.252pt>
-File: gambar/cons-bbm-romang.png Graphic file (type png)
-<use gambar/cons-bbm-romang.png>
-Package pdftex.def Info: gambar/cons-bbm-romang.png  used on input line 79.
-(pdftex.def)             Requested size: 218.51521pt x 80.1742pt.
-File: gambar/cons-bbm-romang.png Graphic file (type png)
-<use gambar/cons-bbm-romang.png>
-Package pdftex.def Info: gambar/cons-bbm-romang.png  used on input line 88.
-(pdftex.def)             Requested size: 218.51521pt x 80.1742pt.
-<gambar/pasokan-konsumsi-BBM-MBD.png, id=1200, 457.053pt x 252.945pt>
-File: gambar/pasokan-konsumsi-BBM-MBD.png Graphic file (type png)
-<use gambar/pasokan-konsumsi-BBM-MBD.png>
-Package pdftex.def Info: gambar/pasokan-konsumsi-BBM-MBD.png  used on input line 104.
-(pdftex.def)             Requested size: 364.19667pt x 201.56119pt.
-<gambar/rute-eksisting.png, id=1206, 1156.32pt x 392.06474pt>
-File: gambar/rute-eksisting.png Graphic file (type png)
-<use gambar/rute-eksisting.png>
-Package pdftex.def Info: gambar/rute-eksisting.png  used on input line 114.
-(pdftex.def)             Requested size: 364.19667pt x 123.4831pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
+File: gambar/cons-bbm-tepa.png Graphic file (type bmp)
+<gambar/cons-bbm-tepa.png>
+File: gambar/cons-bbm-lakor.png Graphic file (type bmp)
+<gambar/cons-bbm-lakor.png>
+File: gambar/cons-bbm-letti.png Graphic file (type bmp)
+<gambar/cons-bbm-letti.png>
+File: gambar/cons-bbm-romang.png Graphic file (type bmp)
+<gambar/cons-bbm-romang.png>
+File: gambar/cons-bbm-romang.png Graphic file (type bmp)
+<gambar/cons-bbm-romang.png>
 
 
+[32]
 
-[34 <./gambar/rasio-psokan-bbm-mbd.png>]
-
-[35 <./gambar/cons-bbm-tepa.png> <./gambar/cons-bbm-lakor.png> <./gambar/cons-bbm-letti.png> <./gambar/cons-bbm-romang.png> <./gambar/pasokan-konsumsi-BBM-MBD.png>]
-<gambar/pemasokan-BBM-MBD.png, id=1222, 362.007pt x 230.388pt>
-File: gambar/pemasokan-BBM-MBD.png Graphic file (type png)
-<use gambar/pemasokan-BBM-MBD.png>
-Package pdftex.def Info: gambar/pemasokan-BBM-MBD.png  used on input line 123.
-(pdftex.def)             Requested size: 364.19667pt x 231.78304pt.
+[33]
+File: gambar/pasokan-konsumsi-BBM-MBD.png Graphic file (type bmp)
+<gambar/pasokan-konsumsi-BBM-MBD.png>
+File: gambar/rute-eksisting.png Graphic file (type bmp)
+<gambar/rute-eksisting.png>
+File: gambar/pemasokan-BBM-MBD.png Graphic file (type bmp)
+<gambar/pemasokan-BBM-MBD.png>
 ) (./bab/4-analisis-pembahasan/2-bukti-hipotesis.tex
 
-[36 <./gambar/rute-eksisting.png>]
-<grafik/uji-heave-ori.jpg, id=1229, 432.963pt x 217.467pt>
-File: grafik/uji-heave-ori.jpg Graphic file (type jpg)
-<use grafik/uji-heave-ori.jpg>
-Package pdftex.def Info: grafik/uji-heave-ori.jpg  used on input line 30.
-(pdftex.def)             Requested size: 218.51521pt x 109.75525pt.
-<grafik/uji-roll-ori.jpg, id=1230, 432.525pt x 217.467pt>
-File: grafik/uji-roll-ori.jpg Graphic file (type jpg)
-<use grafik/uji-roll-ori.jpg>
-Package pdftex.def Info: grafik/uji-roll-ori.jpg  used on input line 37.
-(pdftex.def)             Requested size: 218.51521pt x 109.86807pt.
-<grafik/uji-pitch-ori.jpg, id=1231, 433.62pt x 217.467pt>
-File: grafik/uji-pitch-ori.jpg Graphic file (type jpg)
-<use grafik/uji-pitch-ori.jpg>
-Package pdftex.def Info: grafik/uji-pitch-ori.jpg  used on input line 47.
-(pdftex.def)             Requested size: 218.51521pt x 109.58932pt.
-
-
-[37 <./gambar/pemasokan-BBM-MBD.png>]
-<grafik/uji-pitch-spob.jpg, id=1240, 456.396pt x 218.343pt>
-File: grafik/uji-pitch-spob.jpg Graphic file (type jpg)
-<use grafik/uji-pitch-spob.jpg>
-Package pdftex.def Info: grafik/uji-pitch-spob.jpg  used on input line 86.
-(pdftex.def)             Requested size: 218.51521pt x 104.53691pt.
-<grafik/uji-pitch-spob2.jpg, id=1241, 456.396pt x 218.343pt>
-File: grafik/uji-pitch-spob2.jpg Graphic file (type jpg)
-<use grafik/uji-pitch-spob2.jpg>
-Package pdftex.def Info: grafik/uji-pitch-spob2.jpg  used on input line 91.
-(pdftex.def)             Requested size: 218.51521pt x 104.53691pt.
-<grafik/uji-heave-spob.jpg, id=1242, 458.367pt x 218.343pt>
-File: grafik/uji-heave-spob.jpg Graphic file (type jpg)
-<use grafik/uji-heave-spob.jpg>
-Package pdftex.def Info: grafik/uji-heave-spob.jpg  used on input line 101.
-(pdftex.def)             Requested size: 218.51521pt x 104.09047pt.
-<grafik/uji-heave-spob2.jpg, id=1243, 458.367pt x 218.343pt>
-File: grafik/uji-heave-spob2.jpg Graphic file (type jpg)
-<use grafik/uji-heave-spob2.jpg>
-Package pdftex.def Info: grafik/uji-heave-spob2.jpg  used on input line 106.
-(pdftex.def)             Requested size: 218.51521pt x 104.09047pt.
-<grafik/uji-roll-spob.jpg, id=1244, 458.367pt x 218.343pt>
-File: grafik/uji-roll-spob.jpg Graphic file (type jpg)
-<use grafik/uji-roll-spob.jpg>
-Package pdftex.def Info: grafik/uji-roll-spob.jpg  used on input line 116.
-(pdftex.def)             Requested size: 218.51521pt x 104.09047pt.
-<grafik/uji-roll-spob2.jpg, id=1245, 458.367pt x 218.343pt>
-File: grafik/uji-roll-spob2.jpg Graphic file (type jpg)
-<use grafik/uji-roll-spob2.jpg>
-Package pdftex.def Info: grafik/uji-roll-spob2.jpg  used on input line 121.
-(pdftex.def)             Requested size: 218.51521pt x 104.09047pt.
-
-
-[38 <./grafik/uji-heave-ori.jpg> <./grafik/uji-roll-ori.jpg> <./grafik/uji-pitch-ori.jpg> <./grafik/uji-pitch-spob.jpg> <./grafik/uji-pitch-spob2.jpg> <./grafik/uji-heave-spob.jpg> <./grafik/uji-heave-spob2.jpg>]) (./bab/4-analisis-pembahasan/3-supply-side.tex
-
-[39 <./grafik/uji-roll-spob.jpg> <./grafik/uji-roll-spob2.jpg>]
-<grafik/distribusi-gelombang-kabupaten-mbd.jpg, id=1258, 359.379pt x 209.364pt>
-File: grafik/distribusi-gelombang-kabupaten-mbd.jpg Graphic file (type jpg)
-<use grafik/distribusi-gelombang-kabupaten-mbd.jpg>
-Package pdftex.def Info: grafik/distribusi-gelombang-kabupaten-mbd.jpg  used on input line 34.
-(pdftex.def)             Requested size: 295.90588pt x 172.38557pt.
-<gambar/rute-baru.png, id=1259, 1140.05925pt x 390.86024pt>
-File: gambar/rute-baru.png Graphic file (type png)
-<use gambar/rute-baru.png>
-Package pdftex.def Info: gambar/rute-baru.png  used on input line 46.
-(pdftex.def)             Requested size: 364.19667pt x 124.86311pt.
-) (./bab/4-analisis-pembahasan/4-hasil-simulasi-optimasi.tex
-
-[40 <./grafik/distribusi-gelombang-kabupaten-mbd.jpg>]
-Overfull \hbox (9.7339pt too wide) in paragraph at lines 10--30
- [][] 
- []
-
+[34]
+File: grafik/uji-heave-ori.jpg Graphic file (type bmp)
+<grafik/uji-heave-ori.jpg>
+File: grafik/uji-roll-ori.jpg Graphic file (type bmp)
+<grafik/uji-roll-ori.jpg>
+File: grafik/uji-pitch-ori.jpg Graphic file (type bmp)
+<grafik/uji-pitch-ori.jpg>
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[41 <./gambar/rute-baru.png>]
-<grafik/biaya-tahunan-baru.jpg, id=1272, 259.56975pt x 223.43475pt>
-File: grafik/biaya-tahunan-baru.jpg Graphic file (type jpg)
-<use grafik/biaya-tahunan-baru.jpg>
-Package pdftex.def Info: grafik/biaya-tahunan-baru.jpg  used on input line 64.
-(pdftex.def)             Requested size: 182.09486pt x 156.74759pt.
-<grafik/biaya-tahunan-baru-tangki.jpg, id=1273, 259.56975pt x 224.037pt>
-File: grafik/biaya-tahunan-baru-tangki.jpg Graphic file (type jpg)
-<use grafik/biaya-tahunan-baru-tangki.jpg>
-Package pdftex.def Info: grafik/biaya-tahunan-baru-tangki.jpg  used on input line 70.
-(pdftex.def)             Requested size: 182.09486pt x 157.17009pt.
+[35]
+File: grafik/uji-pitch-spob.jpg Graphic file (type bmp)
+<grafik/uji-pitch-spob.jpg>
+File: grafik/uji-pitch-spob2.jpg Graphic file (type bmp)
+<grafik/uji-pitch-spob2.jpg>
+File: grafik/uji-heave-spob.jpg Graphic file (type bmp)
+<grafik/uji-heave-spob.jpg>
+File: grafik/uji-heave-spob2.jpg Graphic file (type bmp)
+<grafik/uji-heave-spob2.jpg>
+File: grafik/uji-roll-spob.jpg Graphic file (type bmp)
+<grafik/uji-roll-spob.jpg>
+File: grafik/uji-roll-spob2.jpg Graphic file (type bmp)
+<grafik/uji-roll-spob2.jpg>
 
-Underfull \vbox (badness 3746) has occurred while \output is active []
 
+[36]) (./bab/4-analisis-pembahasan/3-supply-side.tex
+
+[37]
+File: grafik/distribusi-gelombang-kabupaten-mbd.jpg Graphic file (type bmp)
+<grafik/distribusi-gelombang-kabupaten-mbd.jpg>
+File: gambar/rute-baru.png Graphic file (type bmp)
+<gambar/rute-baru.png>
+) (./bab/4-analisis-pembahasan/4-hasil-simulasi-optimasi.tex
+
+[38]
+
+[39]
+Underfull \vbox (badness 3826) has occurred while \output is active []
+
+
+
+[40]
+File: grafik/biaya-tahunan-baru.jpg Graphic file (type bmp)
+<grafik/biaya-tahunan-baru.jpg>
+File: grafik/biaya-tahunan-baru-tangki.jpg Graphic file (type bmp)
+<grafik/biaya-tahunan-baru-tangki.jpg>
+
+
+[41]
+File: grafik/frekuensi-baru.jpg Graphic file (type bmp)
+<grafik/frekuensi-baru.jpg>
+File: grafik/frekuensi-baru-tangki.jpg Graphic file (type bmp)
+<grafik/frekuensi-baru-tangki.jpg>
+File: grafik/minus-bbm-baru.jpg Graphic file (type bmp)
+<grafik/minus-bbm-baru.jpg>
+File: grafik/minus-bbm-baru-tangki.jpg Graphic file (type bmp)
+<grafik/minus-bbm-baru-tangki.jpg>
 
 
 [42]
-<grafik/frekuensi-baru.jpg, id=1278, 259.56975pt x 224.037pt>
-File: grafik/frekuensi-baru.jpg Graphic file (type jpg)
-<use grafik/frekuensi-baru.jpg>
-Package pdftex.def Info: grafik/frekuensi-baru.jpg  used on input line 88.
-(pdftex.def)             Requested size: 182.09486pt x 157.17009pt.
-<grafik/frekuensi-baru-tangki.jpg, id=1279, 259.7203pt x 224.33812pt>
-File: grafik/frekuensi-baru-tangki.jpg Graphic file (type jpg)
-<use grafik/frekuensi-baru-tangki.jpg>
-Package pdftex.def Info: grafik/frekuensi-baru-tangki.jpg  used on input line 94.
-(pdftex.def)             Requested size: 182.09486pt x 157.28549pt.
-
-Underfull \vbox (badness 6477) has occurred while \output is active []
-
-
-
-[43 <./grafik/biaya-tahunan-baru.jpg> <./grafik/biaya-tahunan-baru-tangki.jpg> <./grafik/frekuensi-baru.jpg> <./grafik/frekuensi-baru-tangki.jpg>]
-<grafik/minus-bbm-baru.jpg, id=1287, 817.527pt x 227.322pt>
-File: grafik/minus-bbm-baru.jpg Graphic file (type jpg)
-<use grafik/minus-bbm-baru.jpg>
-Package pdftex.def Info: grafik/minus-bbm-baru.jpg  used on input line 113.
-(pdftex.def)             Requested size: 432.48051pt x 120.25809pt.
-<grafik/minus-bbm-baru-tangki.jpg, id=1288, 817.527pt x 227.322pt>
-File: grafik/minus-bbm-baru-tangki.jpg Graphic file (type jpg)
-<use grafik/minus-bbm-baru-tangki.jpg>
-Package pdftex.def Info: grafik/minus-bbm-baru-tangki.jpg  used on input line 121.
-(pdftex.def)             Requested size: 432.48051pt x 120.25809pt.
-
-
-[44 <./grafik/minus-bbm-baru.jpg> <./grafik/minus-bbm-baru-tangki.jpg>]
-<grafik/load-factor-baru-tangki.jpg, id=1294, 838.989pt x 217.905pt>
-File: grafik/load-factor-baru-tangki.jpg Graphic file (type jpg)
-<use grafik/load-factor-baru-tangki.jpg>
-Package pdftex.def Info: grafik/load-factor-baru-tangki.jpg  used on input line 159.
-(pdftex.def)             Requested size: 432.48051pt x 112.32706pt.
+File: grafik/load-factor-baru-tangki.jpg Graphic file (type bmp)
+<grafik/load-factor-baru-tangki.jpg>
 ) (./bab/4-analisis-pembahasan/5-perancangan-kapal.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[45 <./grafik/load-factor-baru-tangki.jpg>]
+
+
+[43]
+Underfull \vbox (badness 2253) has occurred while \output is active []
+
+
+
+[44]
+
+[45]
 
 [46]
+File: grafik/kurva-stabilitas-new.jpg Graphic file (type bmp)
+<grafik/kurva-stabilitas-new.jpg>
+File: grafik/batasan-pitch-new.jpg Graphic file (type bmp)
+<grafik/batasan-pitch-new.jpg>
+File: grafik/batasan-heave-new.jpg Graphic file (type bmp)
+<grafik/batasan-heave-new.jpg>
+File: grafik/batasan-roll-new.jpg Graphic file (type bmp)
+<grafik/batasan-roll-new.jpg>
+File: gambar/Lines Plan 22 Ujil 03 48_page-0001(1).jpg Graphic file (type bmp)
+<gambar/Lines Plan 22 Ujil 03 48_page-0001(1).jpg>
+
 
 [47]
-<grafik/kurva-stabilitas-new.jpg, id=1332, 370.548pt x 277.035pt>
-File: grafik/kurva-stabilitas-new.jpg Graphic file (type jpg)
-<use grafik/kurva-stabilitas-new.jpg>
-Package pdftex.def Info: grafik/kurva-stabilitas-new.jpg  used on input line 125.
-(pdftex.def)             Requested size: 250.38564pt x 187.19345pt.
-<grafik/batasan-pitch-new.jpg, id=1333, 931.188pt x 217.467pt>
-File: grafik/batasan-pitch-new.jpg Graphic file (type jpg)
-<use grafik/batasan-pitch-new.jpg>
-Package pdftex.def Info: grafik/batasan-pitch-new.jpg  used on input line 139.
-(pdftex.def)             Requested size: 432.48051pt x 101.00163pt.
-<grafik/batasan-heave-new.jpg, id=1334, 931.188pt x 229.95pt>
-File: grafik/batasan-heave-new.jpg Graphic file (type jpg)
-<use grafik/batasan-heave-new.jpg>
-Package pdftex.def Info: grafik/batasan-heave-new.jpg  used on input line 147.
-(pdftex.def)             Requested size: 432.48051pt x 106.79932pt.
-<grafik/batasan-roll-new.jpg, id=1335, 931.188pt x 217.467pt>
-File: grafik/batasan-roll-new.jpg Graphic file (type jpg)
-<use grafik/batasan-roll-new.jpg>
-Package pdftex.def Info: grafik/batasan-roll-new.jpg  used on input line 154.
-(pdftex.def)             Requested size: 432.48051pt x 101.00163pt.
+File: gambar/GA 22 Juli 03 45_page-0001(1).jpg Graphic file (type bmp)
+<gambar/GA 22 Juli 03 45_page-0001(1).jpg>
+) (./bab/4-analisis-pembahasan/6-analisis-kesenjangan.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 
 
 [48]
-Overfull \vbox (6.37184pt too high) has occurred while \output is active []
+File: grafik/minus-bbm-all.jpg Graphic file (type bmp)
+<grafik/minus-bbm-all.jpg>
 
 
-
-[49 <./grafik/kurva-stabilitas-new.jpg> <./grafik/batasan-pitch-new.jpg> <./grafik/batasan-heave-new.jpg> <./grafik/batasan-roll-new.jpg>]
-<gambar/Lines Plan 22 Ujil 03 48_page-0001(1).jpg, id=1348, 2492.31125pt x 1760.5775pt>
-File: gambar/Lines Plan 22 Ujil 03 48_page-0001(1).jpg Graphic file (type jpg)
-<use gambar/Lines Plan 22 Ujil 03 48_page-0001(1).jpg>
-Package pdftex.def Info: gambar/Lines Plan 22 Ujil 03 48_page-0001(1).jpg  used on input line 168.
-(pdftex.def)             Requested size: 227.62206pt x 160.78232pt.
-<gambar/GA 22 Juli 03 45_page-0001(1).jpg, id=1352, 2492.31125pt x 1760.5775pt>
-File: gambar/GA 22 Juli 03 45_page-0001(1).jpg Graphic file (type jpg)
-<use gambar/GA 22 Juli 03 45_page-0001(1).jpg>
-Package pdftex.def Info: gambar/GA 22 Juli 03 45_page-0001(1).jpg  used on input line 181.
-(pdftex.def)             Requested size: 227.62206pt x 160.78232pt.
-) (./bab/4-analisis-pembahasan/6-analisis-kesenjangan.tex
-
-[50 <./gambar/Lines Plan 22 Ujil 03 48_page-0001(1).jpg> <./gambar/GA 22 Juli 03 45_page-0001(1).jpg>]
-<grafik/minus-bbm-all.jpg, id=1357, 401.208pt x 226.665pt>
-File: grafik/minus-bbm-all.jpg Graphic file (type jpg)
-<use grafik/minus-bbm-all.jpg>
-Package pdftex.def Info: grafik/minus-bbm-all.jpg  used on input line 11.
-(pdftex.def)             Requested size: 341.43307pt x 192.90132pt.
-<grafik/total-cost-all.jpg, id=1359, 400.989pt x 217.467pt>
-File: grafik/total-cost-all.jpg Graphic file (type jpg)
-<use grafik/total-cost-all.jpg>
-Package pdftex.def Info: grafik/total-cost-all.jpg  used on input line 23.
-(pdftex.def)             Requested size: 341.43307pt x 185.17632pt.
-<grafik/element-cost-new.jpg, id=1361, 334.632pt x 326.529pt>
-File: grafik/element-cost-new.jpg Graphic file (type jpg)
-<use grafik/element-cost-new.jpg>
-Package pdftex.def Info: grafik/element-cost-new.jpg  used on input line 35.
-(pdftex.def)             Requested size: 341.43307pt x 333.16977pt.
+[49]
+File: grafik/total-cost-all.jpg Graphic file (type bmp)
+<grafik/total-cost-all.jpg>
+File: grafik/element-cost-new.jpg Graphic file (type bmp)
+<grafik/element-cost-new.jpg>
 ))
 
-[51 <./grafik/minus-bbm-all.jpg>]
+[50]
 
-[52 <./grafik/total-cost-all.jpg> <./grafik/element-cost-new.jpg>] (./bab/5-penutup.tex
+[51]
+
+[52
+
+] (./bab/5-penutup.tex
 Bab 5.
 (./bab/5-penutup/1-kesimpulan.tex) (./bab/5-penutup/2-saran.tex))
 
 [53
-
 
 ]
 
@@ -1876,13 +1556,18 @@ Bab 5.
 ]
 
 [56]
-Underfull \hbox (badness 1210) in paragraph at lines 156--159
-[]\OT1/lmr/m/n/12 Syofiadi, R. (2024).  Se-pan-jang 2023, Pe-me-rin-tah Me-la-lui PMN Ter-a-ngi 76.900
+Underfull \hbox (badness 6380) in paragraph at lines 156--159
+[]\TU/TimesNewRoman(0)/m/n/12 Syofiadi, R. (2024).  Sepanjang 2023, Pemerintah Melalui PMN Terangi 76.900
+ []
+
+
+Underfull \hbox (badness 6396) in paragraph at lines 156--159
+\TU/TimesNewRoman(0)/m/n/12 Desa Kelurahan di Seluruh Indonesia dengan Listrik PLN - PT PLN (Persero).
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 156--159
-\OT1/lmr/m/n/12 https://web.pln.co.id/cms/media/siaran-pers/2024/01/sepanjang-2023-pemerintah-
+\TU/TimesNewRoman(0)/m/n/12 https://web.pln.co.id/cms/media/siaran-pers/2024/01/sepanjang-2023-pemerintah-melalui-
  []
 
 )
@@ -1892,290 +1577,109 @@ Underfull \hbox (badness 10000) in paragraph at lines 156--159
 [58
 
 ] (./lampiran/lampiran-a.tex
-<grafik/minus-bensin-saat-ini.jpg, id=1399, 311.9655pt x 269.20575pt>
-File: grafik/minus-bensin-saat-ini.jpg Graphic file (type jpg)
-<use grafik/minus-bensin-saat-ini.jpg>
-Package pdftex.def Info: grafik/minus-bensin-saat-ini.jpg  used on input line 12.
-(pdftex.def)             Requested size: 218.51521pt x 188.57007pt.
-<grafik/minus-solar-saat-ini.jpg, id=1400, 311.36325pt x 269.20575pt>
-File: grafik/minus-solar-saat-ini.jpg Graphic file (type jpg)
-<use grafik/minus-solar-saat-ini.jpg>
-Package pdftex.def Info: grafik/minus-solar-saat-ini.jpg  used on input line 19.
-(pdftex.def)             Requested size: 218.51521pt x 188.92744pt.
-<grafik/minus-mt-saat-ini.jpg, id=1401, 311.36325pt x 269.20575pt>
-File: grafik/minus-mt-saat-ini.jpg Graphic file (type jpg)
-<use grafik/minus-mt-saat-ini.jpg>
-Package pdftex.def Info: grafik/minus-mt-saat-ini.jpg  used on input line 29.
-(pdftex.def)             Requested size: 227.62206pt x 196.80199pt.
-<grafik/biaya-tahunan-saat-ini.jpg, id=1402, 316.7835pt x 273.4215pt>
-File: grafik/biaya-tahunan-saat-ini.jpg Graphic file (type jpg)
-<use grafik/biaya-tahunan-saat-ini.jpg>
-Package pdftex.def Info: grafik/biaya-tahunan-saat-ini.jpg  used on input line 41.
-(pdftex.def)             Requested size: 218.51521pt x 188.6026pt.
-<grafik/biaya-publik-saat-ini.jpg, id=1403, 316.7835pt x 273.4215pt>
-File: grafik/biaya-publik-saat-ini.jpg Graphic file (type jpg)
-<use grafik/biaya-publik-saat-ini.jpg>
-Package pdftex.def Info: grafik/biaya-publik-saat-ini.jpg  used on input line 46.
-(pdftex.def)             Requested size: 218.51521pt x 188.6026pt.
-<grafik/kurva-gz-spob.jpg, id=1404, 432.744pt x 275.721pt>
-File: grafik/kurva-gz-spob.jpg Graphic file (type jpg)
-<use grafik/kurva-gz-spob.jpg>
-Package pdftex.def Info: grafik/kurva-gz-spob.jpg  used on input line 57.
-(pdftex.def)             Requested size: 318.66948pt x 203.05006pt.
-<grafik/contoh-hasil-simulasi.jpg, id=1405, 557.355pt x 483.114pt>
-File: grafik/contoh-hasil-simulasi.jpg Graphic file (type jpg)
-<use grafik/contoh-hasil-simulasi.jpg>
-Package pdftex.def Info: grafik/contoh-hasil-simulasi.jpg  used on input line 67.
-(pdftex.def)             Requested size: 409.71692pt x 355.14719pt.
+File: grafik/minus-bensin-saat-ini.jpg Graphic file (type bmp)
+<grafik/minus-bensin-saat-ini.jpg>
+File: grafik/minus-solar-saat-ini.jpg Graphic file (type bmp)
+<grafik/minus-solar-saat-ini.jpg>
+File: grafik/minus-mt-saat-ini.jpg Graphic file (type bmp)
+<grafik/minus-mt-saat-ini.jpg>
+File: grafik/biaya-tahunan-saat-ini.jpg Graphic file (type bmp)
+<grafik/biaya-tahunan-saat-ini.jpg>
+File: grafik/biaya-publik-saat-ini.jpg Graphic file (type bmp)
+<grafik/biaya-publik-saat-ini.jpg>
+File: grafik/kurva-gz-spob.jpg Graphic file (type bmp)
+<grafik/kurva-gz-spob.jpg>
+File: grafik/contoh-hasil-simulasi.jpg Graphic file (type bmp)
+<grafik/contoh-hasil-simulasi.jpg>
 
 
 [59
 
 
- <./grafik/minus-bensin-saat-ini.jpg> <./grafik/minus-solar-saat-ini.jpg> <./grafik/minus-mt-saat-ini.jpg>]
-<grafik/tabel-pemuatan-1.jpg, id=1411, 534.579pt x 536.769pt>
-File: grafik/tabel-pemuatan-1.jpg Graphic file (type jpg)
-<use grafik/tabel-pemuatan-1.jpg>
-Package pdftex.def Info: grafik/tabel-pemuatan-1.jpg  used on input line 82.
-(pdftex.def)             Requested size: 364.19667pt x 365.69427pt.
-<grafik/tabel-pemuatan-2.jpg, id=1412, 553.851pt x 536.988pt>
-File: grafik/tabel-pemuatan-2.jpg Graphic file (type jpg)
-<use grafik/tabel-pemuatan-2.jpg>
-Package pdftex.def Info: grafik/tabel-pemuatan-2.jpg  used on input line 89.
-(pdftex.def)             Requested size: 364.19667pt x 353.11035pt.
-<lampiran/deskap-1.jpg, id=1413, 312.732pt x 347.772pt>
-File: lampiran/deskap-1.jpg Graphic file (type jpg)
-<use lampiran/deskap-1.jpg>
-Package pdftex.def Info: lampiran/deskap-1.jpg  used on input line 99.
-(pdftex.def)             Requested size: 364.19667pt x 405.01836pt.
-<lampiran/deskap-2.jpg, id=1414, 216.81pt x 542.025pt>
-File: lampiran/deskap-2.jpg Graphic file (type jpg)
-<use lampiran/deskap-2.jpg>
-Package pdftex.def Info: lampiran/deskap-2.jpg  used on input line 105.
-(pdftex.def)             Requested size: 261.6594pt x 654.14851pt.
-<lampiran/deskap-3.jpg, id=1415, 402.00188pt x 782.925pt>
-File: lampiran/deskap-3.jpg Graphic file (type jpg)
-<use lampiran/deskap-3.jpg>
-Package pdftex.def Info: lampiran/deskap-3.jpg  used on input line 111.
-(pdftex.def)             Requested size: 335.88812pt x 654.16415pt.
-<lampiran/deskap-4.jpg, id=1416, 280.04625pt x 730.22812pt>
-File: lampiran/deskap-4.jpg Graphic file (type jpg)
-<use lampiran/deskap-4.jpg>
-Package pdftex.def Info: lampiran/deskap-4.jpg  used on input line 117.
-(pdftex.def)             Requested size: 250.87271pt x 654.15736pt.
-<lampiran/deskap-5.jpg, id=1417, 542.025pt x 486.31688pt>
-File: lampiran/deskap-5.jpg Graphic file (type jpg)
-<use lampiran/deskap-5.jpg>
-Package pdftex.def Info: lampiran/deskap-5.jpg  used on input line 123.
-(pdftex.def)             Requested size: 455.24411pt x 408.4663pt.
-<lampiran/deskap-6.jpg, id=1418, 408.02437pt x 782.925pt>
-File: lampiran/deskap-6.jpg Graphic file (type jpg)
-<use lampiran/deskap-6.jpg>
-Package pdftex.def Info: lampiran/deskap-6.jpg  used on input line 129.
-(pdftex.def)             Requested size: 340.92017pt x 654.16415pt.
-<lampiran/deskap-7.jpg, id=1419, 301.125pt x 782.925pt>
-File: lampiran/deskap-7.jpg Graphic file (type jpg)
-<use lampiran/deskap-7.jpg>
-Package pdftex.def Info: lampiran/deskap-7.jpg  used on input line 135.
-(pdftex.def)             Requested size: 251.60158pt x 654.16415pt.
-<lampiran/deskap-8.jpg, id=1420, 355.3275pt x 782.925pt>
-File: lampiran/deskap-8.jpg Graphic file (type jpg)
-<use lampiran/deskap-8.jpg>
-Package pdftex.def Info: lampiran/deskap-8.jpg  used on input line 141.
-(pdftex.def)             Requested size: 296.88986pt x 654.16415pt.
-<lampiran/deskap-9.jpg, id=1421, 542.025pt x 686.565pt>
-File: lampiran/deskap-9.jpg Graphic file (type jpg)
-<use lampiran/deskap-9.jpg>
-Package pdftex.def Info: lampiran/deskap-9.jpg  used on input line 147.
-(pdftex.def)             Requested size: 455.24411pt x 576.6583pt.
-<lampiran/deskap-10.jpg, id=1422, 440.39531pt x 563.85657pt>
-File: lampiran/deskap-10.jpg Graphic file (type jpg)
-<use lampiran/deskap-10.jpg>
-Package pdftex.def Info: lampiran/deskap-10.jpg  used on input line 153.
-(pdftex.def)             Requested size: 455.24411pt x 582.88667pt.
-<lampiran/deskap-11.jpg, id=1423, 542.025pt x 567.62062pt>
-File: lampiran/deskap-11.jpg Graphic file (type jpg)
-<use lampiran/deskap-11.jpg>
-Package pdftex.def Info: lampiran/deskap-11.jpg  used on input line 159.
-(pdftex.def)             Requested size: 455.24411pt x 476.75475pt.
-<lampiran/tabel-stok-simu.jpg, id=1424, 184.179pt x 347.334pt>
-File: lampiran/tabel-stok-simu.jpg Graphic file (type jpg)
-<use lampiran/tabel-stok-simu.jpg>
-Package pdftex.def Info: lampiran/tabel-stok-simu.jpg  used on input line 168.
-(pdftex.def)             Requested size: 346.88045pt x 654.16458pt.
-<lampiran/tabel-konsumsi-simu.jpg, id=1425, 228.636pt x 348.648pt>
-File: lampiran/tabel-konsumsi-simu.jpg Graphic file (type jpg)
-<use lampiran/tabel-konsumsi-simu.jpg>
-Package pdftex.def Info: lampiran/tabel-konsumsi-simu.jpg  used on input line 174.
-(pdftex.def)             Requested size: 428.98798pt x 654.16557pt.
-<lampiran/tabel-pasokan-simu.jpg, id=1426, 189.873pt x 347.115pt>
-File: lampiran/tabel-pasokan-simu.jpg Graphic file (type jpg)
-<use lampiran/tabel-pasokan-simu.jpg>
-Package pdftex.def Info: lampiran/tabel-pasokan-simu.jpg  used on input line 180.
-(pdftex.def)             Requested size: 357.8623pt x 654.22351pt.
-<lampiran/summary-now.jpg, id=1427, 542.025pt x 381.3447pt>
-File: lampiran/summary-now.jpg Graphic file (type jpg)
-<use lampiran/summary-now.jpg>
-Package pdftex.def Info: lampiran/summary-now.jpg  used on input line 186.
-(pdftex.def)             Requested size: 688.5567pt x 484.45366pt.
-<lampiran/summary-no-tangki.jpg, id=1428, 542.025pt x 704.6325pt>
-File: lampiran/summary-no-tangki.jpg Graphic file (type jpg)
-<use lampiran/summary-no-tangki.jpg>
-Package pdftex.def Info: lampiran/summary-no-tangki.jpg  used on input line 192.
-(pdftex.def)             Requested size: 455.25653pt x 591.83353pt.
-<lampiran/summary-tangki.jpg, id=1429, 542.025pt x 636.09645pt>
-File: lampiran/summary-tangki.jpg Graphic file (type jpg)
-<use lampiran/summary-tangki.jpg>
-Package pdftex.def Info: lampiran/summary-tangki.jpg  used on input line 198.
-(pdftex.def)             Requested size: 455.25653pt x 534.26884pt.
+]
+File: grafik/tabel-pemuatan-1.jpg Graphic file (type bmp)
+<grafik/tabel-pemuatan-1.jpg>
+File: grafik/tabel-pemuatan-2.jpg Graphic file (type bmp)
+<grafik/tabel-pemuatan-2.jpg>
+File: lampiran/deskap-1.jpg Graphic file (type bmp)
+<lampiran/deskap-1.jpg>
+File: lampiran/deskap-2.jpg Graphic file (type bmp)
+<lampiran/deskap-2.jpg>
+File: lampiran/deskap-3.jpg Graphic file (type bmp)
+<lampiran/deskap-3.jpg>
+File: lampiran/deskap-4.jpg Graphic file (type bmp)
+<lampiran/deskap-4.jpg>
+File: lampiran/deskap-5.jpg Graphic file (type bmp)
+<lampiran/deskap-5.jpg>
+File: lampiran/deskap-6.jpg Graphic file (type bmp)
+<lampiran/deskap-6.jpg>
+File: lampiran/deskap-7.jpg Graphic file (type bmp)
+<lampiran/deskap-7.jpg>
+File: lampiran/deskap-8.jpg Graphic file (type bmp)
+<lampiran/deskap-8.jpg>
+File: lampiran/deskap-9.jpg Graphic file (type bmp)
+<lampiran/deskap-9.jpg>
+File: lampiran/deskap-10.jpg Graphic file (type bmp)
+<lampiran/deskap-10.jpg>
+File: lampiran/deskap-11.jpg Graphic file (type bmp)
+<lampiran/deskap-11.jpg>
+File: lampiran/tabel-stok-simu.jpg Graphic file (type bmp)
+<lampiran/tabel-stok-simu.jpg>
+File: lampiran/tabel-konsumsi-simu.jpg Graphic file (type bmp)
+<lampiran/tabel-konsumsi-simu.jpg>
+File: lampiran/tabel-pasokan-simu.jpg Graphic file (type bmp)
+<lampiran/tabel-pasokan-simu.jpg>
+File: lampiran/summary-now.jpg Graphic file (type bmp)
+<lampiran/summary-now.jpg>
+File: lampiran/summary-no-tangki.jpg Graphic file (type bmp)
+<lampiran/summary-no-tangki.jpg>
+File: lampiran/summary-tangki.jpg Graphic file (type bmp)
+<lampiran/summary-tangki.jpg>
+)
 
+[60]
 
-[60 <./grafik/biaya-tahunan-saat-ini.jpg> <./grafik/biaya-publik-saat-ini.jpg> <./grafik/kurva-gz-spob.jpg>]
+[61]
 
-[61 <./grafik/contoh-hasil-simulasi.jpg>]
+[62]
 
-[62 <./grafik/tabel-pemuatan-1.jpg>]
+[63]
 
-[63 <./grafik/tabel-pemuatan-2.jpg>]
+[64]
 
-[64 <./lampiran/deskap-1.jpg>]
+[65]
 
-[65 <./lampiran/deskap-2.jpg>]
+[66]
 
-[66 <./lampiran/deskap-3.jpg>]
+[67]
 
-[67 <./lampiran/deskap-4.jpg>]
+[68]
 
-[68 <./lampiran/deskap-5.jpg>]
+[69]
 
-[69 <./lampiran/deskap-6.jpg>]
+[70]
 
-[70 <./lampiran/deskap-7.jpg>]
+[71]
 
-[71 <./lampiran/deskap-8.jpg>]
+[72]
 
-[72 <./lampiran/deskap-9.jpg>]
+[73]
 
-[73 <./lampiran/deskap-10.jpg>]
+[74]
 
-[74 <./lampiran/deskap-11.jpg>]
+[75]
 
-[75 <./lampiran/tabel-stok-simu.jpg>]
+[76]
 
-[76 <./lampiran/tabel-konsumsi-simu.jpg>]
+[77]
 
-[77 <./lampiran/tabel-pasokan-simu.jpg>]
+[78]
 
-[78 <./lampiran/summary-now.jpg>]
+[79]
 
-[79 <./lampiran/summary-no-tangki.jpg>]
-
-[80 <./lampiran/summary-tangki.jpg>]
-
-pdfTeX warning: pdflatex.exe (file ./lampiran/linesplan-15_des.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<lampiran/linesplan-15_des.pdf, id=1541, 1195.46625pt x 845.1575pt>
-File: lampiran/linesplan-15_des.pdf Graphic file (type pdf)
-<use lampiran/linesplan-15_des.pdf>
-Package pdftex.def Info: lampiran/linesplan-15_des.pdf  used on input line 207.
-(pdftex.def)             Requested size: 1195.46333pt x 845.15544pt.
-
-
-pdfTeX warning: pdflatex.exe (file ./lampiran/linesplan-15_des.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-File: lampiran/linesplan-15_des.pdf Graphic file (type pdf)
-<use lampiran/linesplan-15_des.pdf>
-Package pdftex.def Info: lampiran/linesplan-15_des.pdf  used on input line 207.
-(pdftex.def)             Requested size: 1195.46333pt x 845.15544pt.
-
-
-pdfTeX warning: pdflatex.exe (file ./lampiran/linesplan-15_des.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-
-
-pdfTeX warning: pdflatex.exe (file ./lampiran/linesplan-15_des.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<lampiran/linesplan-15_des.pdf, id=1544, page=1, 1195.46625pt x 845.1575pt>
-File: lampiran/linesplan-15_des.pdf Graphic file (type pdf)
-<use lampiran/linesplan-15_des.pdf, page 1>
-Package pdftex.def Info: lampiran/linesplan-15_des.pdf , page1 used on input line 207.
-(pdftex.def)             Requested size: 1195.46333pt x 845.15544pt.
-File: lampiran/linesplan-15_des.pdf Graphic file (type pdf)
-<use lampiran/linesplan-15_des.pdf, page 1>
-Package pdftex.def Info: lampiran/linesplan-15_des.pdf , page1 used on input line 207.
-(pdftex.def)             Requested size: 1195.68222pt x 845.31018pt.
-File: lampiran/linesplan-15_des.pdf Graphic file (type pdf)
-<use lampiran/linesplan-15_des.pdf, page 1>
-Package pdftex.def Info: lampiran/linesplan-15_des.pdf , page1 used on input line 207.
-(pdftex.def)             Requested size: 1195.68222pt x 845.31018pt.
-File: lampiran/linesplan-15_des.pdf Graphic file (type pdf)
-<use lampiran/linesplan-15_des.pdf, page 1>
-Package pdftex.def Info: lampiran/linesplan-15_des.pdf , page1 used on input line 207.
-(pdftex.def)             Requested size: 1195.68222pt x 845.31018pt.
-
-
-File: lampiran/linesplan-15_des.pdf Graphic file (type pdf)
-<use lampiran/linesplan-15_des.pdf, page 1>
-Package pdftex.def Info: lampiran/linesplan-15_des.pdf , page1 used on input line 207.
-(pdftex.def)             Requested size: 1195.68222pt x 845.31018pt.
-[81
-
-
- <./lampiran/linesplan-15_des.pdf>]
-
-[82]
-
-pdfTeX warning: pdflatex.exe (file ./lampiran/rencana_umum-15_Des.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<lampiran/rencana_umum-15_Des.pdf, id=1565, 1195.46625pt x 845.1575pt>
-File: lampiran/rencana_umum-15_Des.pdf Graphic file (type pdf)
-<use lampiran/rencana_umum-15_Des.pdf>
-Package pdftex.def Info: lampiran/rencana_umum-15_Des.pdf  used on input line 215.
-(pdftex.def)             Requested size: 1195.46333pt x 845.15544pt.
-
-
-pdfTeX warning: pdflatex.exe (file ./lampiran/rencana_umum-15_Des.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-File: lampiran/rencana_umum-15_Des.pdf Graphic file (type pdf)
-<use lampiran/rencana_umum-15_Des.pdf>
-Package pdftex.def Info: lampiran/rencana_umum-15_Des.pdf  used on input line 215.
-(pdftex.def)             Requested size: 1195.46333pt x 845.15544pt.
-
-
-pdfTeX warning: pdflatex.exe (file ./lampiran/rencana_umum-15_Des.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-
-
-pdfTeX warning: pdflatex.exe (file ./lampiran/rencana_umum-15_Des.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<lampiran/rencana_umum-15_Des.pdf, id=1568, page=1, 1195.46625pt x 845.1575pt>
-File: lampiran/rencana_umum-15_Des.pdf Graphic file (type pdf)
-<use lampiran/rencana_umum-15_Des.pdf, page 1>
-Package pdftex.def Info: lampiran/rencana_umum-15_Des.pdf , page1 used on input line 215.
-(pdftex.def)             Requested size: 1195.46333pt x 845.15544pt.
-File: lampiran/rencana_umum-15_Des.pdf Graphic file (type pdf)
-<use lampiran/rencana_umum-15_Des.pdf, page 1>
-Package pdftex.def Info: lampiran/rencana_umum-15_Des.pdf , page1 used on input line 215.
-(pdftex.def)             Requested size: 1195.68222pt x 845.31018pt.
-File: lampiran/rencana_umum-15_Des.pdf Graphic file (type pdf)
-<use lampiran/rencana_umum-15_Des.pdf, page 1>
-Package pdftex.def Info: lampiran/rencana_umum-15_Des.pdf , page1 used on input line 215.
-(pdftex.def)             Requested size: 1195.68222pt x 845.31018pt.
-File: lampiran/rencana_umum-15_Des.pdf Graphic file (type pdf)
-<use lampiran/rencana_umum-15_Des.pdf, page 1>
-Package pdftex.def Info: lampiran/rencana_umum-15_Des.pdf , page1 used on input line 215.
-(pdftex.def)             Requested size: 1195.68222pt x 845.31018pt.
-
-
-File: lampiran/rencana_umum-15_Des.pdf Graphic file (type pdf)
-<use lampiran/rencana_umum-15_Des.pdf, page 1>
-Package pdftex.def Info: lampiran/rencana_umum-15_Des.pdf , page1 used on input line 215.
-(pdftex.def)             Requested size: 1195.68222pt x 845.31018pt.
-[83
-
-
- <./lampiran/rencana_umum-15_Des.pdf>])
-
-[84
-
-] (./lainnya/biodata-penulis.tex
-<kep_yudisium/crop 34.jpg, id=1594, 85.2786pt x 113.7048pt>
-File: kep_yudisium/crop 34.jpg Graphic file (type jpg)
-<use kep_yudisium/crop 34.jpg>
-Package pdftex.def Info: kep_yudisium/crop 34.jpg  used on input line 5.
-(pdftex.def)             Requested size: 112.38829pt x 149.85829pt.
+[80] (./lainnya/biodata-penulis.tex
+File: kep_yudisium/crop 34.jpg Graphic file (type bmp)
+<kep_yudisium/crop 34.jpg>
 
 Underfull \hbox (badness 10000) in paragraph at lines 5--7
 [][]
@@ -2183,29 +1687,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--7
 
 )
 
-[85
+[81
 
- <./kep_yudisium/crop 34.jpg>] (./main.aux)
+
+] (./main.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2020/03/25>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 30333379016716A5CD5F0F55331EEFFF;16128.
+(rerunfilecheck)             Checksum: 46648B12005024A0DE02222FB043CE6B;16492.
  ) 
 Here is how much of TeX's memory you used:
- 40790 strings out of 473249
- 918073 string characters out of 5721992
- 1521100 words of memory out of 5000000
- 62553 multiletter control sequences out of 15000+600000
- 622333 words of font info for 72 fonts, out of 8000000 for 9000
- 1300 hyphenation exceptions out of 8191
- 96i,17n,101p,1327b,643s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmex10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmmi12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmmi7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmmi9.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr9.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy9.pfb>
-Output written on main.pdf (109 pages, 23896622 bytes).
-PDF statistics:
- 1757 PDF objects out of 2073 (max. 8388607)
- 1424 compressed objects within 15 object streams
- 376 named destinations out of 1000 (max. 500000)
- 1243 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 42019 strings out of 473884
+ 990371 string characters out of 5734746
+ 1643571 words of memory out of 5000000
+ 63967 multiletter control sequences out of 15000+600000
+ 562298 words of font info for 79 fonts, out of 8000000 for 9000
+ 1507 hyphenation exceptions out of 8191
+ 96i,17n,101p,1336b,622s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
+Output written on main.xdv (109 pages, 1214928 bytes).
