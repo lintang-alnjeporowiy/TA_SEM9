@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.1.10)  1 FEB 2025 17:15
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.1.10)  2 FEB 2025 20:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -891,15 +891,15 @@ LaTeX Font Info:    ... okay on input line 166.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: twoside 
-* h-part:(L,W,R)=(85.35826pt, 455.24411pt, 56.9055pt)
-* v-part:(T,H,B)=(85.35826pt, 688.5567pt, 71.13188pt)
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
 * \textwidth=455.24411pt
-* \textheight=688.5567pt
-* \oddsidemargin=13.08827pt
-* \evensidemargin=-15.36449pt
-* \topmargin=-18.78552pt
+* \textheight=702.78308pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-33.0119pt
 * \headheight=12.0pt
 * \headsep=19.8738pt
 * \topskip=12.0pt
@@ -996,22 +996,22 @@ Package caption Info: End \AtBeginDocument code.
 
 Package pgfplots notification 'compat/show suggested version=true': document has been generated with the most recent feature set (\pgfplotsset{compat=1.18}).
 
-File: lainnya/sampul_luar2.pdf Graphic file (type pdf)
-<use lainnya/sampul_luar2.pdf>
-File: lainnya/sampul_luar2.pdf Graphic file (type pdf)
-<use lainnya/sampul_luar2.pdf>
-File: lainnya/sampul_luar2.pdf Graphic file (type pdf)
-<use lainnya/sampul_luar2.pdf, page 1>
-File: lainnya/sampul_luar2.pdf Graphic file (type pdf)
-<use lainnya/sampul_luar2.pdf, page 1>
-File: lainnya/sampul_luar2.pdf Graphic file (type pdf)
-<use lainnya/sampul_luar2.pdf, page 1>
-File: lainnya/sampul_luar2.pdf Graphic file (type pdf)
-<use lainnya/sampul_luar2.pdf, page 1>
+File: lainnya/sampul_luar3.pdf Graphic file (type pdf)
+<use lainnya/sampul_luar3.pdf>
+File: lainnya/sampul_luar3.pdf Graphic file (type pdf)
+<use lainnya/sampul_luar3.pdf>
+File: lainnya/sampul_luar3.pdf Graphic file (type pdf)
+<use lainnya/sampul_luar3.pdf, page 1>
+File: lainnya/sampul_luar3.pdf Graphic file (type pdf)
+<use lainnya/sampul_luar3.pdf, page 1>
+File: lainnya/sampul_luar3.pdf Graphic file (type pdf)
+<use lainnya/sampul_luar3.pdf, page 1>
+File: lainnya/sampul_luar3.pdf Graphic file (type pdf)
+<use lainnya/sampul_luar3.pdf, page 1>
 
 
-File: lainnya/sampul_luar2.pdf Graphic file (type pdf)
-<use lainnya/sampul_luar2.pdf, page 1>
+File: lainnya/sampul_luar3.pdf Graphic file (type pdf)
+<use lainnya/sampul_luar3.pdf, page 1>
 [1
 
 
@@ -1021,22 +1021,22 @@ File: lainnya/sampul_luar2.pdf Graphic file (type pdf)
 [2
 
 ]
-File: lainnya/sampul_dalam_id2.pdf Graphic file (type pdf)
-<use lainnya/sampul_dalam_id2.pdf>
-File: lainnya/sampul_dalam_id2.pdf Graphic file (type pdf)
-<use lainnya/sampul_dalam_id2.pdf>
-File: lainnya/sampul_dalam_id2.pdf Graphic file (type pdf)
-<use lainnya/sampul_dalam_id2.pdf, page 1>
-File: lainnya/sampul_dalam_id2.pdf Graphic file (type pdf)
-<use lainnya/sampul_dalam_id2.pdf, page 1>
-File: lainnya/sampul_dalam_id2.pdf Graphic file (type pdf)
-<use lainnya/sampul_dalam_id2.pdf, page 1>
-File: lainnya/sampul_dalam_id2.pdf Graphic file (type pdf)
-<use lainnya/sampul_dalam_id2.pdf, page 1>
+File: lainnya/sampul_dalam_id3.pdf Graphic file (type pdf)
+<use lainnya/sampul_dalam_id3.pdf>
+File: lainnya/sampul_dalam_id3.pdf Graphic file (type pdf)
+<use lainnya/sampul_dalam_id3.pdf>
+File: lainnya/sampul_dalam_id3.pdf Graphic file (type pdf)
+<use lainnya/sampul_dalam_id3.pdf, page 1>
+File: lainnya/sampul_dalam_id3.pdf Graphic file (type pdf)
+<use lainnya/sampul_dalam_id3.pdf, page 1>
+File: lainnya/sampul_dalam_id3.pdf Graphic file (type pdf)
+<use lainnya/sampul_dalam_id3.pdf, page 1>
+File: lainnya/sampul_dalam_id3.pdf Graphic file (type pdf)
+<use lainnya/sampul_dalam_id3.pdf, page 1>
 
 
-File: lainnya/sampul_dalam_id2.pdf Graphic file (type pdf)
-<use lainnya/sampul_dalam_id2.pdf, page 1>
+File: lainnya/sampul_dalam_id3.pdf Graphic file (type pdf)
+<use lainnya/sampul_dalam_id3.pdf, page 1>
 [3
 
 ]
@@ -1160,55 +1160,54 @@ File: lainnya/statement_of_originality.pdf Graphic file (type pdf)
 
 ] (./abstrak/abstrak-id.tex)
 
-[1]
+[15]
 
-[2
+[16
 
 ] (./abstrak/abstrak-en.tex)
 
-[3]
+[17]
 
-[4
+[18
 
 ] (./lainnya/kata-pengantar.tex)
 
-[5]
+[19]
 
-[6
+[20
 
 ] (./main.toc
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[7]
 
-[8])
+
+[21])
 \tf@toc=\write6
 \openout6 = `main.toc'.
 
 
 
-[9]
+[22] (./main.lof
 
-[10
+[23
 
-] (./main.lof
-
-[11])
+])
 \tf@lof=\write7
 \openout7 = `main.lof'.
 
 
 
-[12] (./main.lot)
+[24] (./main.lot)
 \tf@lot=\write8
 \openout8 = `main.lot'.
 
 
 
-[13
+[25
 
 ]
 
-[14
+[26
 
 ] (./bab/1-pendahuluan.tex
 Bab 1.
@@ -1226,13 +1225,10 @@ File: grafik/komposisi_konsumsi_energi.png Graphic file (type bmp)
 File: gambar/antriBBM-MBD.jpg Graphic file (type bmp)
 <gambar/antriBBM-MBD.jpg>
 ) (./bab/1-pendahuluan/2-permasalahan.tex
-Underfull \vbox (badness 2409) has occurred while \output is active []
 
+[2]) (./bab/1-pendahuluan/4-tujuan.tex) (./bab/1-pendahuluan/5-batasan-masalah.tex
 
-
-[2]) (./bab/1-pendahuluan/4-tujuan.tex
-
-[3]) (./bab/1-pendahuluan/5-batasan-masalah.tex))
+[3]))
 
 [4] (./bab/2-tinjauan-pustaka.tex
 Bab 2.
@@ -1254,12 +1250,12 @@ File: gambar/ship design procedure.png Graphic file (type bmp)
 [7]
 File: gambar/design-spiral.png Graphic file (type bmp)
 <gambar/design-spiral.png>
-) (./bab/2-tinjauan-pustaka/3-simulasi-monte-carlo.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Underfull \vbox (badness 2418) has occurred while \output is active []
 
 
 
-[8]
+[8]) (./bab/2-tinjauan-pustaka/3-simulasi-monte-carlo.tex
 
 [9]
 File: gambar/excel-carlo.jpg Graphic file (type bmp)
@@ -1267,11 +1263,14 @@ File: gambar/excel-carlo.jpg Graphic file (type bmp)
 File: gambar/r-carlo.jpg Graphic file (type bmp)
 <gambar/r-carlo.jpg>
 ) (./bab/2-tinjauan-pustaka/4-bbm.tex
-
-[10]
 File: gambar/BENSIN.jpg Graphic file (type bmp)
 <gambar/BENSIN.jpg>
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[10]
 
 [11]
 File: gambar/isibensin.jpg Graphic file (type bmp)
@@ -1292,7 +1291,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: gambar/mengisi-biosolar-di-spbu.jpg Graphic file (type bmp)
 <gambar/mengisi-biosolar-di-spbu.jpg>
 ) (./bab/2-tinjauan-pustaka/5-teori-gerak-kapal.tex
-Underfull \vbox (badness 1478) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
@@ -1324,7 +1323,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: gambar/pembentukan-gelombang-acak.jpg Graphic file (type bmp)
 <gambar/pembentukan-gelombang-acak.jpg>
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 2088) has occurred while \output is active []
 
 
 
@@ -1361,7 +1360,7 @@ File: gambar/FC_Simul.png Graphic file (type bmp)
 
 
 [25]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 5622) has occurred while \output is active []
 
 
 
@@ -1410,10 +1409,11 @@ File: gambar/cons-bbm-romang.png Graphic file (type bmp)
 File: gambar/cons-bbm-romang.png Graphic file (type bmp)
 <gambar/cons-bbm-romang.png>
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 
 [32]
-
-[33]
 File: gambar/pasokan-konsumsi-BBM-MBD.png Graphic file (type bmp)
 <gambar/pasokan-konsumsi-BBM-MBD.png>
 File: gambar/rute-eksisting.png Graphic file (type bmp)
@@ -1421,6 +1421,11 @@ File: gambar/rute-eksisting.png Graphic file (type bmp)
 File: gambar/pemasokan-BBM-MBD.png Graphic file (type bmp)
 <gambar/pemasokan-BBM-MBD.png>
 ) (./bab/4-analisis-pembahasan/2-bukti-hipotesis.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[33]
 
 [34]
 File: grafik/uji-heave-ori.jpg Graphic file (type bmp)
@@ -1429,12 +1434,6 @@ File: grafik/uji-roll-ori.jpg Graphic file (type bmp)
 <grafik/uji-roll-ori.jpg>
 File: grafik/uji-pitch-ori.jpg Graphic file (type bmp)
 <grafik/uji-pitch-ori.jpg>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[35]
 File: grafik/uji-pitch-spob.jpg Graphic file (type bmp)
 <grafik/uji-pitch-spob.jpg>
 File: grafik/uji-pitch-spob2.jpg Graphic file (type bmp)
@@ -1449,7 +1448,12 @@ File: grafik/uji-roll-spob2.jpg Graphic file (type bmp)
 <grafik/uji-roll-spob2.jpg>
 
 
-[36]) (./bab/4-analisis-pembahasan/3-supply-side.tex
+[35]) (./bab/4-analisis-pembahasan/3-supply-side.tex
+Underfull \vbox (badness 2351) has occurred while \output is active []
+
+
+
+[36]
 
 [37]
 File: grafik/distribusi-gelombang-kabupaten-mbd.jpg Graphic file (type bmp)
@@ -1459,20 +1463,18 @@ File: gambar/rute-baru.png Graphic file (type bmp)
 ) (./bab/4-analisis-pembahasan/4-hasil-simulasi-optimasi.tex
 
 [38]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 
 [39]
-Underfull \vbox (badness 3826) has occurred while \output is active []
-
-
-
-[40]
 File: grafik/biaya-tahunan-baru.jpg Graphic file (type bmp)
 <grafik/biaya-tahunan-baru.jpg>
 File: grafik/biaya-tahunan-baru-tangki.jpg Graphic file (type bmp)
 <grafik/biaya-tahunan-baru-tangki.jpg>
 
 
-[41]
+[40]
 File: grafik/frekuensi-baru.jpg Graphic file (type bmp)
 <grafik/frekuensi-baru.jpg>
 File: grafik/frekuensi-baru-tangki.jpg Graphic file (type bmp)
@@ -1483,26 +1485,27 @@ File: grafik/minus-bbm-baru-tangki.jpg Graphic file (type bmp)
 <grafik/minus-bbm-baru-tangki.jpg>
 
 
-[42]
+[41]
 File: grafik/load-factor-baru-tangki.jpg Graphic file (type bmp)
 <grafik/load-factor-baru-tangki.jpg>
 ) (./bab/4-analisis-pembahasan/5-perancangan-kapal.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 4291) has occurred while \output is active []
 
 
+
+[42]
 
 [43]
-Underfull \vbox (badness 2253) has occurred while \output is active []
+Underfull \vbox (badness 1308) has occurred while \output is active []
 
 
 
 [44]
-
-[45]
-
-[46]
 File: grafik/kurva-stabilitas-new.jpg Graphic file (type bmp)
 <grafik/kurva-stabilitas-new.jpg>
+
+
+[45]
 File: grafik/batasan-pitch-new.jpg Graphic file (type bmp)
 <grafik/batasan-pitch-new.jpg>
 File: grafik/batasan-heave-new.jpg Graphic file (type bmp)
@@ -1511,51 +1514,42 @@ File: grafik/batasan-roll-new.jpg Graphic file (type bmp)
 <grafik/batasan-roll-new.jpg>
 File: gambar/Lines Plan 22 Ujil 03 48_page-0001(1).jpg Graphic file (type bmp)
 <gambar/Lines Plan 22 Ujil 03 48_page-0001(1).jpg>
-
-
-[47]
 File: gambar/GA 22 Juli 03 45_page-0001(1).jpg Graphic file (type bmp)
 <gambar/GA 22 Juli 03 45_page-0001(1).jpg>
 ) (./bab/4-analisis-pembahasan/6-analisis-kesenjangan.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
+[46]
 
-
-[48]
+[47]
 File: grafik/minus-bbm-all.jpg Graphic file (type bmp)
 <grafik/minus-bbm-all.jpg>
-
-
-[49]
 File: grafik/total-cost-all.jpg Graphic file (type bmp)
 <grafik/total-cost-all.jpg>
 File: grafik/element-cost-new.jpg Graphic file (type bmp)
 <grafik/element-cost-new.jpg>
-))
 
-[50]
 
-[51]
+[48]))
 
-[52
+[49]
+
+[50
 
 ] (./bab/5-penutup.tex
 Bab 5.
 (./bab/5-penutup/1-kesimpulan.tex) (./bab/5-penutup/2-saran.tex))
 
-[53
+[51
 
 ]
 
-[54
+[52
 
 ] (./main.bbl
 
-[55
+[53
 
 ]
-
-[56]
 Underfull \hbox (badness 6380) in paragraph at lines 156--159
 []\TU/TimesNewRoman(0)/m/n/12 Syofiadi, R. (2024).  Sepanjang 2023, Pemerintah Melalui PMN Terangi 76.900
  []
@@ -1572,11 +1566,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 156--159
 
 )
 
-[57]
-
-[58
-
-] (./lampiran/lampiran-a.tex
+[54] (./lampiran/lampiran-a.tex
 File: grafik/minus-bensin-saat-ini.jpg Graphic file (type bmp)
 <grafik/minus-bensin-saat-ini.jpg>
 File: grafik/minus-solar-saat-ini.jpg Graphic file (type bmp)
@@ -1593,7 +1583,8 @@ File: grafik/contoh-hasil-simulasi.jpg Graphic file (type bmp)
 <grafik/contoh-hasil-simulasi.jpg>
 
 
-[59
+[55
+
 
 
 ]
@@ -1637,6 +1628,14 @@ File: lampiran/summary-tangki.jpg Graphic file (type bmp)
 <lampiran/summary-tangki.jpg>
 )
 
+[56]
+
+[57]
+
+[58]
+
+[59]
+
 [60]
 
 [61]
@@ -1669,15 +1668,7 @@ File: lampiran/summary-tangki.jpg Graphic file (type bmp)
 
 [75]
 
-[76]
-
-[77]
-
-[78]
-
-[79]
-
-[80] (./lainnya/biodata-penulis.tex
+[76] (./lainnya/biodata-penulis.tex
 File: kep_yudisium/crop 34.jpg Graphic file (type bmp)
 <kep_yudisium/crop 34.jpg>
 
@@ -1687,7 +1678,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--7
 
 )
 
-[81
+[77
 
 
 ] (./main.aux)
@@ -1696,15 +1687,15 @@ LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2020/03/25>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 46648B12005024A0DE02222FB043CE6B;16492.
+(rerunfilecheck)             Checksum: 74DE30F4A3516C2C49F61DB73C679106;16487.
  ) 
 Here is how much of TeX's memory you used:
- 42019 strings out of 473884
- 990371 string characters out of 5734746
- 1643571 words of memory out of 5000000
- 63967 multiletter control sequences out of 15000+600000
+ 42020 strings out of 473884
+ 990381 string characters out of 5734746
+ 1643573 words of memory out of 5000000
+ 63968 multiletter control sequences out of 15000+600000
  562298 words of font info for 79 fonts, out of 8000000 for 9000
  1507 hyphenation exceptions out of 8191
- 96i,17n,101p,1336b,622s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 96i,17n,101p,1336b,624s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.xdv (109 pages, 1214928 bytes).
+Output written on main.xdv (103 pages, 1251280 bytes).

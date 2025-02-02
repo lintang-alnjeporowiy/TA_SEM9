@@ -3,12 +3,12 @@
 \contentsline {chapter}{APPROVAL SHEET}{ix}{section*.5}%
 \contentsline {chapter}{PERNYATAAN ORISINALITAS}{xi}{section*.6}%
 \contentsline {chapter}{STATEMENT OF ORIGINALITY}{xiii}{section*.7}%
-\contentsline {chapter}{ABSTRAK}{i}{section*.8}%
-\contentsline {chapter}{ABSTRACT}{iii}{section*.9}%
-\contentsline {chapter}{KATA PENGANTAR}{v}{section*.10}%
-\contentsline {chapter}{DAFTAR ISI}{ix}{section*.10}%
-\contentsline {chapter}{DAFTAR GAMBAR}{xii}{section*.10}%
-\contentsline {chapter}{Daftar Tabel}{xiii}{section*.10}%
+\contentsline {chapter}{ABSTRAK}{xv}{section*.8}%
+\contentsline {chapter}{ABSTRACT}{xvii}{section*.9}%
+\contentsline {chapter}{KATA PENGANTAR}{xix}{section*.10}%
+\contentsline {chapter}{DAFTAR ISI}{xxii}{section*.10}%
+\contentsline {chapter}{DAFTAR TABEL}{xxiv}{section*.10}%
+\contentsline {chapter}{DAFTAR TABEL}{xxv}{section*.10}%
 \contentsline {chapter}{\numberline {1}PENDAHULUAN}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Latar Belakang}{1}{section.1.1}%
 \contentsline {section}{\numberline {1.2}Rumusan Masalah}{3}{section.1.2}%
@@ -20,12 +20,12 @@
 \contentsline {subsection}{\numberline {2.2.1}Sejarah Singkat Perancangan Kapal}{6}{subsection.2.2.1}%
 \contentsline {subsection}{\numberline {2.2.2}Tahapan Utama Perancangan Kapal}{6}{subsection.2.2.2}%
 \contentsline {subsection}{\numberline {2.2.3}Tujuan dari \emph {Preliminary Design}}{7}{subsection.2.2.3}%
-\contentsline {subsection}{\numberline {2.2.4}Prosedur Perancangan Kapal}{8}{subsection.2.2.4}%
-\contentsline {section}{\numberline {2.3}Simulasi Monte Carlo}{8}{section.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}Prosedur Perancangan Kapal}{9}{subsection.2.2.4}%
+\contentsline {section}{\numberline {2.3}Simulasi Monte Carlo}{9}{section.2.3}%
 \contentsline {section}{\numberline {2.4}Bahan Bakar Minyak}{11}{section.2.4}%
 \contentsline {subsection}{\numberline {2.4.1}Bensin}{11}{subsection.2.4.1}%
 \contentsline {subsection}{\numberline {2.4.2}Minyak Tanah}{12}{subsection.2.4.2}%
-\contentsline {subsection}{\numberline {2.4.3}Solar}{14}{subsection.2.4.3}%
+\contentsline {subsection}{\numberline {2.4.3}Solar}{13}{subsection.2.4.3}%
 \contentsline {section}{\numberline {2.5}Teori Gerak Kapal}{15}{section.2.5}%
 \contentsline {subsection}{\numberline {2.5.1}Macam-Macam Gerakan Kapal}{15}{subsection.2.5.1}%
 \contentsline {subsection}{\numberline {2.5.2}Frekuensi Alami Bangunan Laut}{16}{subsection.2.5.2}%
@@ -49,44 +49,44 @@
 \contentsline {chapter}{\numberline {4}HASIL DAN PEMBAHASAN}{31}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Gambaran Umum}{31}{section.4.1}%
 \contentsline {subsection}{\numberline {4.1.1}Model Permintaan BBM Kabupaten Maluku Barat Daya}{31}{subsection.4.1.1}%
-\contentsline {subsection}{\numberline {4.1.2}Sistem Penyaluran BBM Kabupaten Maluku Barat Daya}{34}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.2}Sistem Penyaluran BBM Kabupaten Maluku Barat Daya}{33}{subsection.4.1.2}%
 \contentsline {section}{\numberline {4.2}Pembuktian Hipotesis}{35}{section.4.2}%
 \contentsline {subsection}{\numberline {4.2.1}Pengaruh Ukuran Utama terhadap Operasional Kapal}{35}{subsection.4.2.1}%
-\contentsline {subsection}{\numberline {4.2.2}Hasil Uji \emph {Seakeeping}}{36}{subsection.4.2.2}%
-\contentsline {subsection}{\numberline {4.2.3}Hasil Simulasi Pemasokan}{37}{subsection.4.2.3}%
-\contentsline {section}{\numberline {4.3}Analisis Sisi Pasokan}{38}{section.4.3}%
-\contentsline {subsection}{\numberline {4.3.1}Batasan Sarat Pelabuhan}{38}{subsection.4.3.1}%
-\contentsline {subsection}{\numberline {4.3.2}Variasi Durasi Gangguan Cuaca}{38}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.2.2}Hasil Uji \emph {Seakeeping}}{35}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Hasil Simulasi Pemasokan}{35}{subsection.4.2.3}%
+\contentsline {section}{\numberline {4.3}Analisis Sisi Pasokan}{37}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Batasan Sarat Pelabuhan}{37}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Variasi Durasi Gangguan Cuaca}{37}{subsection.4.3.2}%
 \contentsline {subsection}{\numberline {4.3.3}Usulan Rute Pemasokan Baru}{38}{subsection.4.3.3}%
-\contentsline {section}{\numberline {4.4}Hasil Simulasi dan Optimasi}{40}{section.4.4}%
-\contentsline {subsection}{\numberline {4.4.1}Ukuran Utama Kapal Terpilih}{40}{subsection.4.4.1}%
-\contentsline {subsection}{\numberline {4.4.2}Distribusi Ekspektasi Biaya Tahunan}{41}{subsection.4.4.2}%
-\contentsline {subsection}{\numberline {4.4.3}Analisis Kemungkinan Jumlah Perjalanan Tahunan}{41}{subsection.4.4.3}%
-\contentsline {subsection}{\numberline {4.4.4}Analisis Kemungkinan Kelangkaan BBM}{42}{subsection.4.4.4}%
-\contentsline {subsection}{\numberline {4.4.5}Perhitungan Kebutuhan Tangki Tambahan}{42}{subsection.4.4.5}%
-\contentsline {subsection}{\numberline {4.4.6}Analisis \emph {Load Factor Kapal}}{43}{subsection.4.4.6}%
-\contentsline {section}{\numberline {4.5}Perancangan Kapal}{44}{section.4.5}%
-\contentsline {subsection}{\numberline {4.5.1}Perhitungan Koefisien Utama Kapal}{44}{subsection.4.5.1}%
-\contentsline {paragraph}{\emph {Froude Number}}{44}{subsection.4.5.1}%
-\contentsline {paragraph}{Koefisien Blok}{44}{equation.4.1}%
-\contentsline {paragraph}{Koefisien \emph {Midship}}{44}{equation.4.2}%
-\contentsline {paragraph}{Perhitungan Bidang Garis Air}{45}{equation.4.3}%
-\contentsline {subsection}{\numberline {4.5.2}Perhitungan Hambatan}{45}{subsection.4.5.2}%
-\contentsline {subsection}{\numberline {4.5.3}Perhitungan Propulsi}{45}{subsection.4.5.3}%
-\contentsline {subsection}{\numberline {4.5.4}Perhitungan \emph {Deadweight} Kapal}{46}{subsection.4.5.4}%
-\contentsline {subsection}{\numberline {4.5.5}Perhitungan \emph {Lightweight} Kapal}{46}{subsection.4.5.5}%
-\contentsline {subsection}{\numberline {4.5.6}Perhitungan Tonase Kapal}{46}{subsection.4.5.6}%
-\contentsline {subsection}{\numberline {4.5.7}Perhitungan Stabilitas}{47}{subsection.4.5.7}%
-\contentsline {subsection}{\numberline {4.5.8}Uji \emph {Seakeeping} Kapal Baru}{47}{subsection.4.5.8}%
-\contentsline {subsection}{\numberline {4.5.9}Rencana Garis}{47}{subsection.4.5.9}%
-\contentsline {subsection}{\numberline {4.5.10}Rencana Umum}{47}{subsection.4.5.10}%
-\contentsline {section}{\numberline {4.6}Analisis Kesenjangan}{49}{section.4.6}%
-\contentsline {subsection}{\numberline {4.6.1}Potensi Permintaan BBM yang Tidak Terpenuhi}{49}{subsection.4.6.1}%
-\contentsline {subsection}{\numberline {4.6.2}Biaya Tahunan}{49}{subsection.4.6.2}%
-\contentsline {subsection}{\numberline {4.6.3}Komponen Biaya}{50}{subsection.4.6.3}%
-\contentsline {chapter}{\numberline {5}KESIMPULAN DAN SARAN}{53}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Kesimpulan}{53}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Saran}{53}{section.5.2}%
-\contentsline {chapter}{DAFTAR PUSTAKA}{57}{chapter*.59}%
-\contentsline {chapter}{LAMPIRAN}{59}{appendix*.60}%
-\contentsline {chapter}{Biodata Penulis}{81}{appendix*.84}%
+\contentsline {section}{\numberline {4.4}Hasil Simulasi dan Optimasi}{39}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Ukuran Utama Kapal Terpilih}{39}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}Distribusi Ekspektasi Biaya Tahunan}{40}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.3}Analisis Kemungkinan Jumlah Perjalanan Tahunan}{40}{subsection.4.4.3}%
+\contentsline {subsection}{\numberline {4.4.4}Analisis Kemungkinan Kelangkaan BBM}{41}{subsection.4.4.4}%
+\contentsline {subsection}{\numberline {4.4.5}Perhitungan Kebutuhan Tangki Tambahan}{41}{subsection.4.4.5}%
+\contentsline {subsection}{\numberline {4.4.6}Analisis \emph {Load Factor Kapal}}{42}{subsection.4.4.6}%
+\contentsline {section}{\numberline {4.5}Perancangan Kapal}{43}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}Perhitungan Koefisien Utama Kapal}{43}{subsection.4.5.1}%
+\contentsline {paragraph}{\emph {Froude Number}}{43}{subsection.4.5.1}%
+\contentsline {paragraph}{Koefisien Blok}{43}{equation.4.1}%
+\contentsline {paragraph}{Koefisien \emph {Midship}}{43}{equation.4.2}%
+\contentsline {paragraph}{Perhitungan Bidang Garis Air}{44}{equation.4.3}%
+\contentsline {subsection}{\numberline {4.5.2}Perhitungan Hambatan}{44}{subsection.4.5.2}%
+\contentsline {subsection}{\numberline {4.5.3}Perhitungan Propulsi}{44}{subsection.4.5.3}%
+\contentsline {subsection}{\numberline {4.5.4}Perhitungan \emph {Deadweight} Kapal}{45}{subsection.4.5.4}%
+\contentsline {subsection}{\numberline {4.5.5}Perhitungan \emph {Lightweight} Kapal}{45}{subsection.4.5.5}%
+\contentsline {subsection}{\numberline {4.5.6}Perhitungan Tonase Kapal}{45}{subsection.4.5.6}%
+\contentsline {subsection}{\numberline {4.5.7}Perhitungan Stabilitas}{45}{subsection.4.5.7}%
+\contentsline {subsection}{\numberline {4.5.8}Uji \emph {Seakeeping} Kapal Baru}{46}{subsection.4.5.8}%
+\contentsline {subsection}{\numberline {4.5.9}Rencana Garis}{46}{subsection.4.5.9}%
+\contentsline {subsection}{\numberline {4.5.10}Rencana Umum}{46}{subsection.4.5.10}%
+\contentsline {section}{\numberline {4.6}Analisis Kesenjangan}{47}{section.4.6}%
+\contentsline {subsection}{\numberline {4.6.1}Potensi Permintaan BBM yang Tidak Terpenuhi}{47}{subsection.4.6.1}%
+\contentsline {subsection}{\numberline {4.6.2}Biaya Tahunan}{48}{subsection.4.6.2}%
+\contentsline {subsection}{\numberline {4.6.3}Komponen Biaya}{48}{subsection.4.6.3}%
+\contentsline {chapter}{\numberline {5}KESIMPULAN DAN SARAN}{51}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Kesimpulan}{51}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Saran}{51}{section.5.2}%
+\contentsline {chapter}{DAFTAR PUSTAKA}{54}{chapter*.59}%
+\contentsline {chapter}{LAMPIRAN}{55}{appendix*.60}%
+\contentsline {chapter}{BIODATA PENULIS}{77}{appendix*.84}%

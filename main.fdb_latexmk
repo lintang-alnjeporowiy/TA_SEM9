@@ -1,18 +1,18 @@
 # Fdb version 4
-["bibtex main"] 1738404949.73368 "main.aux" "main.bbl" "main" 1738404966.52358 0
+["bibtex main"] 1738502229.92414 "main.aux" "main.bbl" "main" 1738502246.86245 0
   "./pustaka/bibliografi.bib" 1737960257 27044 ec5af385836c25fc0c1a203969be2bd2 ""
   "c:/texlive/2024/texmf-dist/bibtex/bst/base/apalike.bst" 1736393352 24635 604dafcc79f521a11ea73e506e1fbd98 ""
-  "main.aux" 1738404953 41946 466e42450e17d65ef96fa2b75a8d78da "xelatex"
+  "main.aux" 1738502233 41927 c59f900c5f06bdf9ffca9cecbb1feb83 "xelatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["xdvipdfmx"] 1738404954.33343 "main.xdv" "main.pdf" "main" 1738404966.56021 0
-  "main.xdv" 1738404953 1214928 c7fcbc7d60b5b2f4d6e5028761d84ee6 "xelatex"
+["xdvipdfmx"] 1738502234.70851 "main.xdv" "main.pdf" "main" 1738502246.89935 0
+  "main.xdv" 1738502233 1251280 e5bcc5ee619be25597d2677a9a98d395 "xelatex"
   (generated)
   "main.pdf"
   (rewritten before read)
-["xelatex"] 1738404950.10435 "c:/Users/lenovo/Desktop/TA/main.tex" "main.xdv" "main" 1738404966.52429 0
+["xelatex"] 1738502230.30313 "c:/Users/lenovo/Desktop/TA/main.tex" "main.xdv" "main" 1738502246.86306 0
   "abstrak/abstrak-en.tex" 1736511800 1812 c5a156cc848e1de1f305d7fe3594b4cd ""
   "abstrak/abstrak-id.tex" 1736511800 1700 09158785f588cfe3327dcbc0b1aa3212 ""
   "bab/1-pendahuluan.tex" 1730380678 340 f83abdd8aab3d11c68382fec19d976db ""
@@ -44,7 +44,7 @@
   "bab/5-penutup.tex" 1738369341 402 b17ef8cda215021523b119bf2bcde2cb ""
   "bab/5-penutup/1-kesimpulan.tex" 1738155144 918 fa78dd703c0fe47169912fd9e2ba0c39 ""
   "bab/5-penutup/2-saran.tex" 1737958048 919 d0be2e78545eca6e44fa2a72a2de1e41 ""
-  "c:/Users/lenovo/Desktop/TA/main.tex" 1738404895 8549 1ef2d8ebaeb36f9c8ae4b8c064115d60 ""
+  "c:/Users/lenovo/Desktop/TA/main.tex" 1738502190 8123 c407dd634fa1053913877850dfe7a5e4 ""
   "c:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1736394199 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1736393399 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1736393350 1004 54797486969f23fa377b128694d548df ""
@@ -341,13 +341,13 @@
   "grafik/uji-roll-spob2.jpg" 1738072087 168579 4de9bcda7e3564343cb69ade740c942a ""
   "kep_yudisium/crop 34.jpg" 1738049028 127688 f77391579de3d639c0a50be722600032 ""
   "lainnya/approval_sheet.pdf" 1738393584 234686 f200de6023d91227e7bf2b42d69b9669 ""
-  "lainnya/biodata-penulis.tex" 1738055631 1407 0d58815e34d229fa0bdb0795e7b08e6d ""
-  "lainnya/kata-pengantar.tex" 1736511800 1663 598b4c033630053019097575794edd35 ""
+  "lainnya/biodata-penulis.tex" 1738496576 1407 6005c7c167261668fe790846e37e47ad ""
+  "lainnya/kata-pengantar.tex" 1738494357 1934 bf3689373a29839aa9a32aec6c882a0c ""
   "lainnya/lembar_pengesahan.pdf" 1738393659 229892 34eee5c3f6c8962dc305217ac7782f5b ""
   "lainnya/pernyataan_originalitas.pdf" 1738393610 224812 dece0349ec4485ef8de7b022ced9d12d ""
   "lainnya/sampul_dalam_en2.pdf" 1738404787 86054 f9de7df301a3f6b34d9d5b3091980b77 ""
-  "lainnya/sampul_dalam_id2.pdf" 1738404828 77038 77c879331915e6029bd89742d9ce013a ""
-  "lainnya/sampul_luar2.pdf" 1738404666 85091 e3929121b5be4841ffba97ec9cd0b980 ""
+  "lainnya/sampul_dalam_id3.pdf" 1738499075 76808 e696cb5ad4f15db3b863121c889f0e06 ""
+  "lainnya/sampul_luar3.pdf" 1738496062 85002 411f1f07fbbd9b539c7b70adef7b5e69 ""
   "lainnya/statement_of_originality.pdf" 1738393631 224313 24192689952e37439520e44f261263e6 ""
   "lampiran/deskap-1.jpg" 1738245957 166212 0eb4a65ec306a7b3dad3a6f0177dac46 ""
   "lampiran/deskap-10.jpg" 1738246703 61815 034ee3091a13a058674f2eb7167ebde1 ""
@@ -367,13 +367,13 @@
   "lampiran/tabel-konsumsi-simu.jpg" 1738245676 407170 41917b731f1d1a384ef263457bde52ae ""
   "lampiran/tabel-pasokan-simu.jpg" 1738245769 322755 2cfcb79aa19422f2858e215e2343c85c ""
   "lampiran/tabel-stok-simu.jpg" 1738245726 384299 545c2885d9642e606dc88b9aef000ae4 ""
-  "main.aux" 1738404953 41946 466e42450e17d65ef96fa2b75a8d78da "xelatex"
-  "main.bbl" 1738404950 7201 ba11c4f570ee332fec4bdfe81ba94bda "bibtex main"
-  "main.lof" 1738404953 5531 3e5d7148f1cf68705f3a12bb75d7d4eb "xelatex"
-  "main.lot" 1738404953 1122 cf320f4dfbe1eddb6a4524205d2b64a0 "xelatex"
-  "main.out" 1738404953 16492 46648b12005024a0de02222fb043ce6b "xelatex"
-  "main.tex" 1738404895 8549 1ef2d8ebaeb36f9c8ae4b8c064115d60 ""
-  "main.toc" 1738404953 7688 784a22dc453bf7816ba9d8c968fe41ab "xelatex"
+  "main.aux" 1738502233 41927 c59f900c5f06bdf9ffca9cecbb1feb83 "xelatex"
+  "main.bbl" 1738502230 7201 ba11c4f570ee332fec4bdfe81ba94bda "bibtex main"
+  "main.lof" 1738502233 5531 fd3379714ca4ee5078fc2f3d9a73821c "xelatex"
+  "main.lot" 1738502233 1122 8ef1ec2bc141d444fe97bff44579e221 "xelatex"
+  "main.out" 1738502233 16487 74de30f4a3516c2c49f61db73c679106 "xelatex"
+  "main.tex" 1738502190 8123 c407dd634fa1053913877850dfe7a5e4 ""
+  "main.toc" 1738502233 7693 1faafe9068e00536c9f39e92581e475d "xelatex"
   "pustaka/tanda-hubung.tex" 1730380678 2140 5d1d24cffb9c9de90cf624f422c84a22 ""
   (generated)
   "main.aux"

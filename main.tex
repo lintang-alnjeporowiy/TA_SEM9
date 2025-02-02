@@ -2,7 +2,7 @@
 \author{Fitri, Lintang}
 
 \documentclass[12pt,twoside]{book}
-\usepackage[a4paper,top=30mm,left=30mm,right=20mm,bottom=25mm]{geometry}
+\usepackage[a4paper,top=25mm,left=25mm,right=25mm,bottom=25mm]{geometry}
 \usepackage[onehalfspacing]{setspace}
 \usepackage[indonesian]{babel}
 % \usepackage{mathptmx} %use for pdflatex
@@ -43,17 +43,17 @@
 \usepackage{zref-abspage}
 \usepackage{zref-user}
 
-
+\tocloftpagestyle{fancy}
 \renewcommand{\cftdotsep}{0.75} % Mengurangi jarak titik-titik
-% \setlength{\cftbeforesecskip}{0.1pt} % Jarak sebelum section
-% \setlength{\cftbeforesubsecskip}{0.1pt} % Jarak sebelum subsection
-% \setlength{\cftbeforesubsubsecskip}{0.1pt} % Jarak sebelum subsubsection
-\renewcommand{\cfttoctitlefont}{\hfill\bfseries\large} % Centers the title
-\renewcommand{\cftaftertoctitle}{\hfill} % Ensures proper centering
-\renewcommand{\listfigurename}{DAFTAR GAMBAR}
-% \renewcommand{\cftbeforeloftitle}{\hfill}  % Add spacing before title
-% \renewcommand{\cftafterloftitle}{\hfill}   % Add spacing after title% \renewcommand{\cftlistfigurename}{\hfill DAFTAR GAMBAR \hfill}
-% \renewcommand{\cftlisttablename}{\hfill DAFTAR TABEL \hfill}
+\renewcommand{\cftchapleader}{\cftdotfill{\cftdotsep}} % Enable dots for chapters
+\setlength{\cftbeforechapskip}{0pt} % Adjust spacing before chapter titles
+\setlength{\cftbeforesecskip}{0pt}  % Adjust spacing before sections
+\setlength{\cftbeforesubsecskip}{0pt} % Adjust spacing before subsections
+
+% \renewcommand{\cfttoctitlefont}{\hfill\bfseries}   % Center the ToC title
+% \renewcommand{\cftlottitlefont}{\hfill\bfseries}   % Center the LoF title
+% \renewcommand{\cftlottitlefont}{\hfill\bfseries}   % Center the LoT title
+
 
 \patchcmd{\cleardoublepage}{\hbox{}}{
   \thispagestyle{empty}
@@ -184,13 +184,15 @@
   % \cleardoublepage
 
   \phantomsection
-  \includepdf[pages=-]{lainnya/sampul_luar2.pdf}
+  \includepdf[pages=-]{lainnya/sampul_luar3.pdf}
   \cleardoublepage
 
+  
   \phantomsection
-  \includepdf[pages=-]{lainnya/sampul_dalam_id2.pdf}
+  \includepdf[pages=-]{lainnya/sampul_dalam_id3.pdf}
   \cleardoublepage
 
+  % \pagenumbering{roman}
   \phantomsection
   \includepdf[pages=-]{lainnya/sampul_dalam_en2.pdf}
   \cleardoublepage
@@ -227,8 +229,6 @@
   % \newpage
   % \cleardoublepage
 
-  \pagenumbering{roman}
-
   \phantomsection
   \addcontentsline{toc}{chapter}{ABSTRAK}
   \subimport{abstrak}{abstrak-id.tex}
@@ -244,40 +244,27 @@
   \subimport{lainnya}{kata-pengantar.tex}
   \cleardoublepage
 
-  \renewcommand*\contentsname{DAFTAR ISI}
+%%%%%% ASEM BOLO, nyangkut berjam-jam disini
   \begin{spacing}{1} % Kurangi spasi di daftar isi
-  \tableofcontents
-  \addcontentsline{toc}{chapter}{\contentsname}
-  \cleardoublepage
-
-  \renewcommand{\listfigurename}{DAFTAR GAMBAR}
-  \renewcommand{\cftloftitlefont}{\hfil\bfseries}
-  % \renewcommand{\cftafterloftitle}{\hfil}
-  \listoffigures
-  \addcontentsline{toc}{chapter}{\listfigurename}
-  \cleardoublepage
-  % \renewcommand*\listfigurename{\hfill DAFTAR GAMBAR}
-  % \renewcommand{\cftafterlottitle}{\hfill}
-  % \listoffigures
-  % \addcontentsline{toc}{chapter}{\listfigurename}
-  % \cleardoublepage
-
-  % \renewcommand*\lstlistlistingname{DAFTAR KODE}
-  % \lstlistoflistings
-  % \addcontentsline{toc}{chapter}{\lstlistlistingname}
-  % \cleardoublepage
-
-  % \renewcommand*\listtablename{\hfill DAFTAR TABEL}
-  % \renewcommand{\cftafterlottitle}{\hfill}
-
-  \renewcommand*\listtablename{\hfill \normalsize DAFTAR TABEL}
-  \renewcommand{\cftafterlottitle}{\hfill}
   
-
-  \listoftables
-  \end{spacing}
-  \addcontentsline{toc}{chapter}{\listtablename}
+  \renewcommand*\contentsname{\hfill\bfseries\normalsize DAFTAR ISI}
+  \renewcommand{\cftaftertoctitle}{\hfill}
+  \tableofcontents
+  \addcontentsline{toc}{chapter}{DAFTAR ISI}
   \cleardoublepage
+
+  \renewcommand{\listfigurename}{\hfill\bfseries\normalsize DAFTAR GAMBAR}
+  \renewcommand{\cftafterloftitle}{\hfill}
+  \listoffigures
+  \addcontentsline{toc}{chapter}{DAFTAR TABEL}
+  \cleardoublepage
+
+  \renewcommand*\listtablename{\hfill\bfseries\normalsize DAFTAR TABEL}
+  \renewcommand{\cftafterlottitle}{\hfill}
+  \listoftables
+  \addcontentsline{toc}{chapter}{DAFTAR TABEL}
+  \cleardoublepage
+  \end{spacing}
 
   \mainmatter
   % \pagenumbering{arabic}
@@ -298,12 +285,14 @@
   \subimport{bab}{5-penutup.tex}
   \cleardoublepage
 
+  \begin{spacing}{1}
   \renewcommand\bibname{DAFTAR PUSTAKA}
 %  \setcitestyle{authoryear, open={(},close={)}}
   \bibliographystyle{apalike}
   \bibliography{pustaka/bibliografi.bib}
   \addcontentsline{toc}{chapter}{\bibname}
   \cleardoublepage
+  \end{spacing}
 
   \backmatter
 
